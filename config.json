@@ -1,10 +1,11 @@
 {
+  "greeting": "Рады видеть вас в системе BATTLEVERSE! Подключайтесь к нашему дискорду.",
+  "news_text": "Сегодня пройдет ивент! Сервер работает стабильно.",
+  "min_ram": 6,
+  "default_ram": 8,
+  "server_address": "x14.joinserver.xyz:25826",
   "version": "1.0",
   "mc_version": "1.20.1",
   "forge_version": "47.4.6",
-  "download_url": "https://www.mediafire.com/file/s4p13a2ykq9deoo/battleverse+download.zip/file",
-  "news_text": "Приветствую Бетатестер!",
-  "default_ram": "6",
-  "min_ram": "4",
-  "server_address": "x14.joinserver.xyz:25826"
+  "download_url": "https://www.mediafire.com/file/ВАШ_ФАЙЛ.zip/file"
 }
