@@ -1,12 +1,12 @@
 {
-  "greeting": "Добро пожаловать в систему BATTLEVERSE! Подключайтесь к Discord.",
-  "news_text": "Сегодня мы провели вайп. Экономика восстановлена.",
-  "events_text": "отсутсвуют",
+  "greeting": "Добро пожаловать в BATTLEVERSE!",
+  "news_text": "Синхронизация завершена.",
+  "events_text": "Следите за новостями в нашем Discord!",
   "min_ram": 6,
   "default_ram": 8,
   "server_address": "x14.joinserver.xyz:25826",
-  "version": "1.2",
+  "version": "1.0",
   "mc_version": "1.20.1",
-  "forge_version": "47.4.6",
-  "download_url": "https://www.mediafire.com/file/ВАШ_ФАЙЛ.zip/file"
+  "forge_version": "47.4.10",
+  "download_url": "https://www.mediafire.com/file/s4p13a2ykq9deoo/battleverse+download.zip/file"
 }
