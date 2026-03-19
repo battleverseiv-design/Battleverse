@@ -1,7 +1,7 @@
 {
   "greeting": "Добро пожаловать в BATTLEVERSE!",
-  "news_text": "Синхронизация завершена.",
-  "events_text": "Шок чел скоро удалит танки",
+  "news_text": "",
+  "events_text": "Отсутсвуют",
   "min_ram": 6,
   "default_ram": 8,
   "server_address": "x14.joinserver.xyz:25826",
