@@ -1,9 +1,15 @@
 {
+  "api_base_url": "https://battleversesweb.netlify.app/api",
+  "web_site_url": "https://battleversesweb.netlify.app/",
+  "discord_url": "https://discord.gg/fQBgEpWZ4R",
+  
   "greeting": "Добро пожаловать в BATTLEVERSE!",
-  "news_text": " Обновление 1.5 Мы добавили внутриматчевые магазины оружия — теперь прямо во время боя ты можешь закупаться и менять тактику на лету.",
-  "events_text": "Отсутсвуют",
+  "news_text": "Обновление 1.5. Мы добавили внутриматчевые магазины оружия — теперь прямо во время боя ты можешь закупаться и менять тактику на лету.",
+  "events_text": "Отсутствуют",
+  
   "min_ram": 6,
   "default_ram": 8,
+  
   "server_address": "x14.joinserver.xyz:25826",
   "version": "1.5",
   "mc_version": "1.20.1",
