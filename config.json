@@ -1,17 +1,20 @@
 {
-  "version": "1.6.0-BETA",
+  "api_base_url": "https://battleverseiv.netlify.app/api",
+  "web_site_url": "https://battleverseiv.netlify.app/",
+  "discord_url": "https://discord.gg/fQBgEpWZ4R",
+  
   "launcher_version": "1.0",
-  "greeting": "Добро пожаловать в BattleVerse!",
-  "news_text": "Сервер запущен в режиме статического манифеста. Теперь всё работает стабильно!",
-  "events_text": "Событий пока нет.",
+  "launcher_download": "https://github.com/battleverseiv-design/Battleverse/releases/download/LauncherUpdate/launcher.exe",
+  "greeting": "Добро пожаловать в BATTLEVERSE!",
+  "news_text": "Обновление 1.6. Крупное изменение лаунчера: теперь только игроки с актуальным лаунчером могут заходить на сервер. Также добавлены новые оружия. !ВНИМАНИЕ! Всем у кого старый лаунчер — нужно обновить, иначе вас не пустит в игру. Скачать можно на сайте.",
+  "events_text": "Отсутствуют",
+  
+  "min_ram": 6,
+  "default_ram": 8,
+  
   "server_address": "x14.joinserver.xyz:25826",
+  "version": "1.6",
   "mc_version": "1.20.1",
   "forge_version": "47.4.10",
-  "min_ram": 4,
-  "default_ram": 8,
-  "discord_url": "https://discord.gg/fQBgEpWZ4R",
-  "web_site_url": "https://battleverseiv.netlify.app",
-  "api_base_url": "https://ais-pre-nnyhnjulsuf4gdalctos4o-106893739141.europe-west3.run.app/api",
-  "launcher_download": "https://battleverseiv.netlify.app/launcher.exe",
-  "download_url": "https://ais-pre-nnyhnjulsuf4gdalctos4o-106893739141.europe-west3.run.app/modpack.zip"
+  "download_url": "https://github.com/battleverseiv-design/Battleverse/releases/download/BattleverseClient1.6beta/battleverse.zip"
 }
