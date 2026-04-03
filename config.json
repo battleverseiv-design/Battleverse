@@ -19,12 +19,6 @@
   "download_url": "https://github.com/battleverseiv-design/Battleverse/releases/download/AutoUpdate1.7/BattleversePack1.7.zip",
   
   "ignore_update_files": [
-    "options.txt",
-    "optionsof.txt",
-    "servers.dat",
-    "saves",
-    "resourcepacks",
-    "screenshots",
-    "essential"
+    "options.txt"
   ]
 }
