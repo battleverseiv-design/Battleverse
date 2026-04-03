@@ -16,5 +16,15 @@
   "version": "1.7",
   "mc_version": "1.20.1",
   "forge_version": "47.4.10",
-  "download_url": "https://github.com/battleverseiv-design/Battleverse/releases/download/AutoUpdate1.7/BattleversePack1.7.zip"
+  "download_url": "https://github.com/battleverseiv-design/Battleverse/releases/download/AutoUpdate1.7/BattleversePack1.7.zip",
+  
+  "ignore_update_files": [
+    "options.txt",
+    "optionsof.txt",
+    "servers.dat",
+    "saves",
+    "resourcepacks",
+    "screenshots",
+    "essential"
+  ]
 }
