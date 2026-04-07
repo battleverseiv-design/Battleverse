@@ -13,7 +13,7 @@
     "version": "1.9",
     "mc_version": "1.20.1",
     "forge_version": "47.4.10",
-    "download_url": "https://github.com/battleverseiv-design/Battleverse/releases/download/AutoUpdate1.9.1/AutoUpdate1.9.1.zip",
+    "download_url": "https://github.com/battleverseiv-design/Battleverse/releases/download/AutoUpdate1.9/AutoUpdate1.9.zip",
     "ignore_update_files": [
         "options.txt"
     ]
