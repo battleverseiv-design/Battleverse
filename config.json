@@ -10,7 +10,7 @@
     "min_ram": 6,
     "default_ram": 8,
     "server_address": "x14.joinserver.xyz:25826",
-    "version": "1.9.1",
+    "version": "1.9",
     "mc_version": "1.20.1",
     "forge_version": "47.4.10",
     "download_url": "https://github.com/battleverseiv-design/Battleverse/releases/download/AutoUpdate1.9.1/AutoUpdate1.9.1.zip",
