@@ -16,5 +16,16 @@
     "download_url": "https://github.com/battleverseiv-design/Battleverse/releases/download/AutoUpdate1.0.3/AutoUpdate1.0.3.zip",
     "ignore_update_files": [
         "options.txt"
+    ],
+    "jvm_args":[
+        "-XX:+AlwaysPreTouch",
+        "-XX:+DisableExplicitGC",
+        "-XX:+PerfDisableSharedMem",
+        "-XX:MaxGCPauseMillis=50",
+        "-Dsun.rmi.dgc.server.gcInterval=2147483646",
+        "-Dsun.rmi.dgc.client.gcInterval=2147483646",
+        "-XX:+UseZGC",
+        "-XX:+ZProactive",
+        "-XX:ZUncommitDelay=300"
     ]
 }
