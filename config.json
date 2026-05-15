@@ -17,5 +17,5 @@
     "ignore_update_files": [
         "options.txt"
     ],
-    "jvm_args": [
+    "jvm_args": []
 }
