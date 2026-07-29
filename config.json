@@ -10,7 +10,7 @@
     "min_ram": 6,
     "default_ram": 8,
     "server_address": "51.75.88.115:25565",
-    "version": "1.1.1",
+    "version": "1.0.9",
     "mc_version": "1.20.1",
     "forge_version": "47.4.10",
     "download_url": "https://github.com/battleverseiv-design/Battleverse/releases/download/AutoUpdate1.1.1/AutoUpdate1.1.1.zip",
