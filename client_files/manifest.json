@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "version": "1.1.72",
-  "generated_at": "2026-08-18 18:37:22",
+  "version": "1.1.73",
+  "generated_at": "2026-08-18 18:43:52",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "config",
@@ -29,9 +29,9 @@
     ".battleverse*/*",
     "runtime/*"
   ],
-  "total_files": 126,
-  "total_size_bytes": 893249990,
-  "total_size_mb": 851.87,
+  "total_files": 125,
+  "total_size_bytes": 893237791,
+  "total_size_mb": 851.86,
   "files": {
     "config.zip": {
       "sha256": "e60c06f1828b41679448d97178761277fcf05510da67c504076054c0f8dcaad3",
@@ -162,10 +162,6 @@
     "mods/AttributeFix-Forge-1.20.1-21.0.5.jar": {
       "sha256": "43ccfd91c1a24d1b3c9d3ccf2dd6a86e9f0c2ba442b111a2238fbff3cf88af11",
       "size": 19499
-    },
-    "mods/better_climbing-forge-3.jar": {
-      "sha256": "9874cd89bc411d42ae863ece554d53be1adc11f1ce7bdd9cfd5c967e5bb7d265",
-      "size": 12199
     },
     "mods/BorderlessWindow-1.20-1.6.0.jar": {
       "sha256": "43a317d85e7e40cea296ad1fe2d32f433f0e735bdb81b136f6f07d379039c3a9",
