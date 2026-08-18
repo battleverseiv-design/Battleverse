@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "version": "1.1.69",
-  "generated_at": "2026-08-18 18:04:42",
+  "version": "1.1.70",
+  "generated_at": "2026-08-18 18:10:23",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "config",
@@ -30,8 +30,8 @@
     "runtime/*"
   ],
   "total_files": 102,
-  "total_size_bytes": 586538359,
-  "total_size_mb": 559.37,
+  "total_size_bytes": 946682976,
+  "total_size_mb": 902.83,
   "files": {
     "config.zip": {
       "sha256": "e60c06f1828b41679448d97178761277fcf05510da67c504076054c0f8dcaad3",
@@ -350,88 +350,88 @@
       "size": 658
     },
     "tacz/BTsAttachments_1.2.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "abe15ad3b6d67e7fc683f1b95763300e43df0607e0dd432cd6338582ef384b6e",
+      "size": 211514
     },
     "tacz/ChocolateMan V1.2.3.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "5f85a151d7788b3f90d56908a182c70d339754804c703e3ebd30e0efdfa849cb",
+      "size": 1179604
     },
     "tacz/CS2 Knifes Pack v1.0.1.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "2462f758a2079fe7f7943788571367288c1b738a94bd9d8ccb8004b2cd332efa",
+      "size": 2896223
     },
     "tacz/Cyber Armorer-1.1.4.3.1_for114.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "ed7f4599a364cc236a51f3bf7a66e6e9c033022394bdc69d248ac3b4aac758c1",
+      "size": 6967094
     },
     "tacz/Elite x quality Guns 5.0 1.21.1.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "05c64fc61d04f41cf5b5b5b2e0fcb18b50cfc4733a07a0293e874f5a9a6d1b13",
+      "size": 22992691
     },
     "tacz/endlessammo.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "8878e38de9886ce6353be9d83b00610bc725bcbf6a5895fd7dd5bc8c11400417",
+      "size": 227295
     },
     "tacz/gucci_vuitton_attachment.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "c5f7d65f55ef9c97e961731de10743384cb9ba31d4457e37b3ccb698e7fc4e89",
+      "size": 4055644
     },
     "tacz/GunpowderRevolution_gunpack v1.2.7.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "2f42f8864dd266dd37b999104324f92bd01dfebb23f6bbe5ac1ab86ce4e0fa41",
+      "size": 4623665
     },
     "tacz/HareTactics_Pack_v1.1.0.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "d8982a53c229cd7bf6f6a7233e8ffefa4991ce0af9961a4d372c58a83dfd12c0",
+      "size": 26565677
     },
     "tacz/Immersive Armorer-v1.2.1-for117.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "57d34a9b51f91a3b9bcff9d54b10e0bacf3e9fb826078ce8062b4a438334effc",
+      "size": 5862562
     },
     "tacz/immersive_ballistic.zip": {
       "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
       "size": 22
     },
     "tacz/lradd_default_gun.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "3da9fc7d50cf3bdf9ca276dd78edab8770fabfdc10751f462a700cdcb43d15fe",
+      "size": 96105675
     },
     "tacz/maxstuff.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "806e44aa3c5260da337f33ef8151b1ed95110ed85852b788dce130209017acc0",
+      "size": 77501799
     },
     "tacz/Rebel v1.0.8a.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "c22a7408daf8843f6c77553d33e4e60fecfcc899ba768bc99810a1031ae1f9a4",
+      "size": 1692623
     },
     "tacz/Suffuse-GunSmoke-Pack1.0.8-hotfix (1).zip": {
       "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
       "size": 22
     },
     "tacz/TACZ TAC SPRINT v1.3.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "94daccc58fa680996138267a7009c58f0b0eac53165018c50c0fabf76b144136",
+      "size": 266331
     },
     "tacz/tacz-pre.toml": {
       "sha256": "410ba74dc6cb6c070db25c8fcfc0657b02a0523a3a25722da8e6f4310215d133",
       "size": 222
     },
     "tacz/tacz_default_gun.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "ffeda6776b3b072d807363c87eaf4cf15d9ab824e0e2e561d70fad90117df3e2",
+      "size": 73179497
     },
     "tacz/The Division pack_ver.0.3.3.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "3083f9b696c94c75c8fc595f1bdc6ae2ebb6cd70e95f0393e5398b74cf7ca43e",
+      "size": 9298929
     },
     "tacz/Wolfstone_Pack_1.5.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "59a1ba631a9c5e6baf46bf5d1f947e160448852f432ba07324bf6dd8e010a13b",
+      "size": 1402304
     },
     "tacz/[Tacz1.1.7+]CIBR_GunsPack_v0.3_1.1.7.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22
+      "sha256": "8101013f68be99bec2decbeac5d1f8782977ef5f2f7406523898f7a7e573de98",
+      "size": 25115886
     },
     "tacz/[TACZ1.1.8+Arcana]ClassicRCCRP 1.1.6_release_hotfix2 (2).zip": {
       "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
