@@ -1,9 +1,0 @@
-type = listener_instances
-
-listener_instance {
-  listener_instance_identifier = f4f1c085-c9c3-402e-b235-9fe3ab0cab08-1779220278805
-  listener_provider_identifier = server_joined
-  listener_instance_action_script_identifier = ace90875-1b6b-4da6-a51a-78202bc23a8f-1779220278805
-  [executable_block:ace90875-1b6b-4da6-a51a-78202bc23a8f-1779220278805][type:generic] = [executables:]
-}
-

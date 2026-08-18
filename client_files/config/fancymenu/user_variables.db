@@ -1,8 +1,0 @@
-type = user_variables
-
-variable {
-  name = ip
-  value = 5.9.123.120:50520
-  reset_on_launch = false
-}
-

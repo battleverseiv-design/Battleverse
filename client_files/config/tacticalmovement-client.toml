@@ -1,5 +1,0 @@
-
-["General Visuals"]
-	#Если True, ванильные руки будут скрываться для ВСЕХ предметов (Локальная настройка)
-	vanillaHandsForAllItems = false
-

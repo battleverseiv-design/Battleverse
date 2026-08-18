@@ -1,5 +1,0 @@
-#Enable colorful lighting
-enabled = true
-#Automatically create '<Pack> + ColorfulLighting' copies of shaderpacks that decode colored lighting (requires Oculus)
-autoPatchShaderpacks = true
-

@@ -1,6 +1,0 @@
-﻿slideshow-meta {
-  name = maps_slideshow
-  duration = 6000.0
-  fadespeed = 1.0
-  randomize = false
-}
