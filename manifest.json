@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "version": "1.1.85",
-  "generated_at": "2026-08-18 21:49:40",
+  "version": "1.1.86",
+  "generated_at": "2026-08-19 01:29:32",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "config",
@@ -30,8 +30,8 @@
     "runtime/*"
   ],
   "total_files": 101,
-  "total_size_bytes": 955772599,
-  "total_size_mb": 911.5,
+  "total_size_bytes": 955783858,
+  "total_size_mb": 911.51,
   "files": {
     "config.zip": {
       "sha256": "e60c06f1828b41679448d97178761277fcf05510da67c504076054c0f8dcaad3",
@@ -57,8 +57,8 @@
       "size": 580602
     },
     "mods/arenamaster-2.0.1.jar": {
-      "sha256": "d5a5ae31dfa507c69744e55ab98f27301f2873857f2e748ebd0ddd7a1cfab921",
-      "size": 2343408
+      "sha256": "885e1a521587bd9f8ff156b9380e6cfebb6ac8b68678ef3ef2c5ae5a12c6eaca",
+      "size": 2354667
     },
     "mods/AttributeFix-Forge-1.20.1-21.0.5.jar": {
       "sha256": "43ccfd91c1a24d1b3c9d3ccf2dd6a86e9f0c2ba442b111a2238fbff3cf88af11",
