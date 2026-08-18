@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.grip_treated_wood.name",
+  "display": "immersive_armorer:grip_treated_wood_display",
+  "data": "immersive_armorer:grip_treated_wood_data",
+  "type": "grip"
+}

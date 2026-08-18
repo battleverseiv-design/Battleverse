@@ -1,0 +1,6 @@
+{
+  "name": "cyber_armorer.attachment.mod_ap.name",
+  "display": "cyber_armorer:mod_ap_display",
+  "data": "cyber_armorer:mod_ap_data",
+  "type": "extended_mag"
+}

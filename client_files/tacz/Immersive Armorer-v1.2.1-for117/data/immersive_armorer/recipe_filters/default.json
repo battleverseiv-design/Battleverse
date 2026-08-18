@@ -1,0 +1,16 @@
+{
+  "whitelist": [
+    "^immersive_armorer:.*$",
+    "tacz:attachments/extended_mag_1",
+    "tacz:attachments/extended_mag_2",
+    "tacz:attachments/extended_mag_3",
+    "tacz:attachments/light_extended_mag_1",
+    "tacz:attachments/light_extended_mag_2",
+    "tacz:attachments/light_extended_mag_3",
+    "tacz:attachments/sniper_extended_mag_1",
+    "tacz:attachments/sniper_extended_mag_2",
+    "tacz:attachments/sniper_extended_mag_3"
+  ],
+  "blacklist": [
+  ]
+}

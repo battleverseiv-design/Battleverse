@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "cib:usp"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "cib:change"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/white"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cibs:usps"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

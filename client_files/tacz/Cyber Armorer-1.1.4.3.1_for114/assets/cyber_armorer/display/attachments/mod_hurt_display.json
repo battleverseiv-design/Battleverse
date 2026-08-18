@@ -1,0 +1,7 @@
+{
+  "slot": "cyber_armorer:attachment/slot/mod_hurt",
+  "sounds": {
+    "install": "cyber_armorer:misc/attachment_on",
+    "uninstall": "cyber_armorer:misc/attachment_off"
+  }
+}

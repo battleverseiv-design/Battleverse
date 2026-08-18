@@ -1,0 +1,46 @@
+{
+  "weight": 0.28,
+  "ads_addend": 0.03,
+  "damage": {
+    "addend": -10
+  },
+  "armor_ignore":{
+    "addend": -0.3
+  },
+  "rpm":{
+    "addend": -60
+  },
+  "recoil": {
+    "yaw": {
+      "addend": 0.5
+    },
+    "pitch": {
+      "addend": 1
+    }
+  },
+  "explosion": {
+    "explode": true,
+    "radius": {
+      "addend": 3
+    },
+    "damage": {
+      "addend": 14
+    },
+    "knockback": false
+  },
+  "melee": {
+    "distance": 2.5,
+    "range_angle": 70,
+    "damage": 3,
+    "knockback": 2,
+    "prep": 0.4,
+    "effects": [
+    {
+      "id": "minecraft:nausea",
+      "time": 7,
+      "amplifier": 1,
+      "hide_particles": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "cyber_armorer.attachment.mod_apex.name",
+  "display": "cyber_armorer:mod_apex_display",
+  "data": "cyber_armorer:mod_apex_data",
+  "type": "extended_mag"
+}

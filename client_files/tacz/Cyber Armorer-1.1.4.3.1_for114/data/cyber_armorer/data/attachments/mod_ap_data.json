@@ -1,0 +1,13 @@
+{
+  "armor_ignore":{
+    "addend": 0.1
+  },
+  "recoil": {
+    "yaw": {
+      "multiplier": 1.2
+    },
+    "pitch": {
+      "multiplier": 1.2
+    }
+  }
+}

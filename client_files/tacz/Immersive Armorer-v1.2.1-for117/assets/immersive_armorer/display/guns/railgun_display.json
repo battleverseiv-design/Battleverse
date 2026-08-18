@@ -1,0 +1,56 @@
+{
+    "model": "immersive_armorer:gun/railgun_geo",
+    "texture": "immersive_armorer:gun/uv/railgun",
+    "hud": "immersive_armorer:gun/hud/railgun",
+    "slot": "immersive_armorer:gun/slot/railgun",
+    "animation": "immersive_armorer:railgun",
+    "use_default_animation": "rifle",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.2,
+                1.2,
+                1.2
+            ]
+        }
+    },
+    "muzzle_flash": {
+        "texture": "immersive_armorer:flash/railgun_flash",
+        "scale": 1.5
+    },
+    "text_show": {
+        "ammo_show": {
+        "scale": 1.5,
+        "align": "right",
+        "shadow": false,
+        "color": "#c18a42",
+        "light": 8,
+        "text": "%ammo_count%"
+        }
+    },
+    "sounds": {
+        "shoot": "immersive_armorer:railgun/railgun_shoot",
+        "shoot_3p": "immersive_armorer:railgun/railgun_shoot_3p",
+        "reload_empty": "immersive_armorer:railgun/railgun_reload",
+        "reload_tactical": "immersive_armorer:railgun/railgun_reload",
+        "melee_bayonet": "immersive_armorer:attachment_bayonet/bayonet_attack1",
+        "inspect": "immersive_armorer:railgun/railgun_inspect",
+        "inspect_empty": "immersive_armorer:railgun/railgun_inspect",
+        "draw": "immersive_armorer:railgun/railgun_draw",
+        "dry_fire": "immersive_armorer:dry_fire/dry_fire",
+        "put_away": "immersive_armorer:railgun/railgun_put_away",
+        "silence": "immersive_armorer:railgun/railgun_silence",
+        "silence_3p": "immersive_armorer:railgun/railgun_silence"
+    }
+}

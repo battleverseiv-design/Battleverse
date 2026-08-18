@@ -1,0 +1,23 @@
+{
+  "type": "whizz",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:338",
+      "tacz:45_70",
+      "tacz:30_06",
+      "hamster:long_ammo",
+      "suffuse:.408ct",
+      "suffuse:6.8tvcm"
+    ]
+  },
+  "sounds": [
+    {
+      "threshold": 7,
+      "sound": {
+        "sound": "tacztweaks:bullets.flyby.sniper",
+        "volume": 0.6
+      }
+    }
+  ]
+}

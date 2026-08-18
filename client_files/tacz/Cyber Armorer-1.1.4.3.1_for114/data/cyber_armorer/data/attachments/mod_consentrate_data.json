@@ -1,0 +1,8 @@
+{
+  "inaccuracy": {
+    "multiplier": 0.7
+  },
+  "effective_range": {
+    "multiplier": 0.7
+  }
+}

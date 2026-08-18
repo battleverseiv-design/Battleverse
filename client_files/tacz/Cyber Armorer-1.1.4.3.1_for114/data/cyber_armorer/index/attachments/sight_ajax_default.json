@@ -1,0 +1,7 @@
+{
+  "name": "cyber_armorer.attachment.sight_ajax_default.name",
+  "display": "cyber_armorer:sight_ajax_default_display",
+  "data": "cyber_armorer:sight_ajax_default_data",
+  "type": "scope",
+  "hidden": true
+}

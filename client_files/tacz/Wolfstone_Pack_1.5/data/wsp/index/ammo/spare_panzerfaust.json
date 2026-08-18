@@ -1,0 +1,7 @@
+{
+  "name": "wsp.ammo.spare_panzerfaust.name",
+  "tooltip": "wsp.ammo.spare_panzerfaust.tooltip",
+  "display": "wsp:spare_panzerfaust_display",
+  "stack_size": 2
+}
+    

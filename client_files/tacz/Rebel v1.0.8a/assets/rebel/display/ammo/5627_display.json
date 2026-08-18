@@ -1,0 +1,12 @@
+{
+
+    "slot": "rebel:ammo/slot/5627",
+
+    "shell": {
+    
+        "model": "rebel:shell/5627_shell",
+    "texture": "rebel:shell/5627_shell"
+
+     }
+
+}

@@ -1,0 +1,23 @@
+{
+  "id": "scout",
+  "displayName": "Scout",
+  "price": 0,
+  "canHeal": true,
+  "icon": "",
+  "invisible": false,
+  "description": "",
+  "category": "Shotgunner\u0027S",
+  "actions": {},
+  "pehkuiScales": {
+    "base": 1.0,
+    "jump_height": 1.25
+  },
+  "attributes": {
+    "generic.movement_speed": 0.15000000596046448
+  },
+  "abilitySound": "",
+  "abilityParticle": "",
+  "abilitySoundVolume": 1.0,
+  "abilitySoundPitch": 1.0,
+  "abilityParticleCount": 10
+}

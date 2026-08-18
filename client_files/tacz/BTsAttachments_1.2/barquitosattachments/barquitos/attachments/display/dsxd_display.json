@@ -1,0 +1,9 @@
+{
+  "slot": "barquitos:attachment/slot/dsx_d",
+  "model": "barquitos:attachment/dsx_d_geo",
+  "texture": "barquitos:attachment/uv/dsx_d",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

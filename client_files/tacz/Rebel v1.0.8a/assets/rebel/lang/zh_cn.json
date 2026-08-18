@@ -1,0 +1,63 @@
+{
+    
+    "rebel.attachment.bayonet_macd1":"MACD1 刺刀",
+    "rebel.attachment.rs1_axe":"Rs1轻型改 专用手斧",
+    "rebel.attachment.scope_70s":"70s 坦克炮镜",
+    "rebel.attachment.stock_sp":"Hsp/Lss通用 轻量化枪托",
+    "rebel.attachment.stock_spa":"Lss专用枪托",
+
+
+    "rebel.ammo.20sh.name": "20sh 通用霰弹",
+    "rebel.ammo.20ap.name": "20ap 20mm加重弹头",
+    "rebel.ammo.20shdb.name": "20shD 龙息弹",
+    "rebel.ammo.20shhe.name": "20shB 高爆霰弹",
+    "rebel.ammo.52pb.name": ".52 PB 手枪弹",
+    "rebel.ammo.56tap.name": "5.6x48mm 钨芯穿甲弹",
+    "rebel.ammo.5627.name": "5.6x27mm 手枪弹",
+    "rebel.ammo.35he.name": "35mm HEFS(尾翼稳定榴弹)",
+    "rebel.ammo.200rl.name": "200rl 点火剂",
+    "rebel.ammo.37aphe.name": "37mm APHE-T(曳光穿甲榴弹)",
+    "rebel.ammo.105ac.name": "105mm HE 火炮支援请求",
+    "rebel.ammo.75b.name": "7.5mm 钢珠弹",
+ 
+    "rebel.gun.hsp.name": "Hsp 生存手枪",
+    "rebel.gun.lss.name": "Lss 冲锋手枪",
+    "rebel.gun.mta.name": "MTA 35mm掷弹筒",
+    "rebel.gun.fmc.name": "FMC 火焰喷射器",
+    "rebel.gun.lpm2020.name": "Lpm Mod.2020 手枪",
+    "rebel.gun.csg19b.name": "CSG-19B 冲锋枪",
+    "rebel.gun.asr.name": "ASR 半自动步枪",
+    "rebel.gun.t70th.name": "坦克头",
+    "rebel.gun.lmg31b.name": "LMG-31B 轻机枪",
+    "rebel.gun.rs1.name": "Rs1轻型改 霰弹枪",
+    "rebel.gun.ras1.name": "Ras1 半自动霰弹枪",
+    "rebel.gun.rs1db.name": "Rs1轻型改 霰弹枪 (龙息弹)",
+    "rebel.gun.rs1ma.name": "Rs1-MA 霰弹枪",
+    "rebel.gun.rs1mahe.name": "Rs1-MA 霰弹枪 (高爆霰弹)",
+    "rebel.gun.bq01.name": "BQ1对讲机（105mm HE 火炮支援）",
+    "rebel.gun.sqg01.name": "SQG-01 气动步枪",
+    "rebel.gun.c23.name": "C23 “粉碎机”",
+    "rebel.gun.92g.name": "QSZ92G式 9mm 手枪",
+    
+
+    "rebel.gun.hsp.desc":"葡萄西军械局的骇人之作，基于13X35mm(.52PB)枪弹开发，用她撕碎你眼前的野兽再合适不过",
+    "rebel.gun.lss.desc":"Hsp的冲锋枪改装套件",
+    "rebel.gun.lpm2020.desc":"一把轻量化设计的穿甲手枪",
+    "rebel.gun.mta.desc":"这玩意可不占编制",
+    "rebel.gun.ras1.desc":"头部...眼部",
+    "rebel.gun.fmc.desc":"烧烤日",
+    "rebel.gun.t70th.desc":"葡萄西军械局的抽癫之作，使用封存的T70炮塔改装，没人知道这是用什么方式套在你身上的",
+    "rebel.gun.lmg31b.desc":"尽情倾泻子弹吧!",
+    "rebel.gun.c23.desc":"将你眼前的一切挨个粉碎",
+    "rebel.gun.bq01.desc":"呼叫火炮打击! ! !",
+    "rebel.gun.asr.desc":"一把廉价的无托结构半自动步枪，曾装备过二线部队,因轻量化设计和较高的精度而广受好评",
+    "rebel.gun.sqg01.desc":"一把拥有廉价的子弹并具备高射速的气动发射器，但可别想着拿这玩意对付中远距离的目标",
+    "rebel.gun.200rl.desc":"FMC所使用的点火剂，30为一个单位点火一次，最多有5发（150）",
+    "rebel.gun.20sh.desc":"葡萄西自产的霰弹，拥有20.5mm和12号两种口径，且有多种特殊战斗部供你选择",
+    "rebel.gun.20ap.desc":"将20sh霰弹壳加工后装上20mm的加重弹头而成的C23专用弹药，且包含高爆战斗部版本可供改装",
+    "rebel.gun.35he.desc":"MTA所发射的榴弹，设有稳定尾翼且装有大量钢珠，可精准的杀伤大范围的目标",
+    "rebel.gun.105ac.desc":"可通过BQ1对讲机呼叫的火炮打击，一次火力支援由5门105榴弹炮执行...破坏力极强 谨慎使用",
+    "rebel.gun.37aphe.desc":"将原本炮塔上的45mm炮 更换成葡萄西产的37mm固定炮， 该炮没有为其设计专用的榴弹，所以谨慎使用配套的穿甲榴弹， 该弹不适合打击范围目标"
+
+     
+}

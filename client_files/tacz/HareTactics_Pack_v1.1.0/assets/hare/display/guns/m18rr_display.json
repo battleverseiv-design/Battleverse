@@ -1,0 +1,38 @@
+{
+  "model": "hare:gun/m18rr_geo",
+  "texture": "hare:gun/uv/m18rr_uv",
+  "hud": "hare:gun/hud/m18rr_hud",
+  "slot": "hare:gun/slot/m18rr_slot",
+  "animation": "hare:m18rr",
+  "use_default_animation": "rifle",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.8, 0.8, 0.8],
+      "ground": [1, 1, 1],
+      "fixed": [1.5, 1.5, 1.5]
+    }
+  },
+  "sounds": {
+    "reload_empty": "hare:m18rr/m18rr_reload_empty",
+    "inspect": "hare:m18rr/m18rr_inspect",
+    "inspect_empty": "hare:m18rr/m18rr_inspect_empty",
+    "draw": "hare:m18rr/m18rr_draw",
+    "put_away": "hare:m18rr/m18rr_put_away",
+    "shoot": "hare:m18rr/m18rr_shoot",
+    "shoot_3p": "hare:m18rr/m18rr_shoot_3p",
+    "melee_push": "tacz:melee_stock/melee_stock_02",
+    "melee_stock": "tacz:melee_stock/melee_stock_03"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 5],
+    "rotate": [-20, 0, 30],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-4, 24, 4],
+      "rotate": [-90, -5, -90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

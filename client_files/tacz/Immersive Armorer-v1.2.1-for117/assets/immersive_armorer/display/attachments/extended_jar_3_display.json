@@ -1,0 +1,7 @@
+{
+  "slot": "immersive_armorer:attachment/slot/extended_jar_3",
+  "sounds": {
+    "install": "tacz:attachments/extended_mag_install",
+    "uninstall": "tacz:attachments/extended_mag_uninstall"
+  }
+}

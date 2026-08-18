@@ -1,0 +1,7 @@
+{
+  "name": "wsp.attachment.bipod_deployed.name",
+  "display": "wsp:bipod_deployed_display",
+  "tooltip": "wsp.attachment.bipod_deployed.tooltip",
+  "data": "wsp:bipod_deployed_data",
+  "type": "grip"
+}

@@ -1,0 +1,10 @@
+{
+  "slot": "immersive_armorer:attachment/slot/muzzle_extended_barrel",
+  "model": "immersive_armorer:attachment/muzzle_extended_barrel",
+  "texture": "immersive_armorer:attachment/uv/muzzle_extended_barrel",
+  "show_muzzle": true,
+  "sounds": {
+    "install": "immersive_armorer:attachments/attachment_install_small",
+    "uninstall": "immersive_armorer:attachments/attachment_uninstall"
+  }
+}

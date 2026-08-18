@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "wsp:grip_vertical_1960"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

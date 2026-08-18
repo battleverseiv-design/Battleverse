@@ -1,0 +1,6 @@
+{
+  "name": "cyber_armorer.attachment.sight_05.name",
+  "display": "cyber_armorer:sight_05_display",
+  "data": "cyber_armorer:sight_05_data",
+  "type": "scope"
+}

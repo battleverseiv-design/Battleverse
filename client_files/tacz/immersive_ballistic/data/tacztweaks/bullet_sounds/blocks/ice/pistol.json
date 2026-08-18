@@ -1,0 +1,39 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:ice",
+    "#immersive_ballistic:ice"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.ice.impact",
+      "volume": 0.45
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.pistol",
+      "volume": 1.2,
+      "range": 5
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.ice.impact",
+      "volume": 0.45
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.pistol",
+      "volume": 1.2,
+      "range": 5
+    }
+  ],
+  "break": [
+    {
+      "sound": "tacztweaks:blocks.ice.impact",
+      "volume": 0.45
+    },
+    {
+      "sound": "tacztweaks:blocks.glass.break",
+      "volume": 1
+    }
+  ]
+}

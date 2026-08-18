@@ -1,0 +1,8 @@
+{
+  "ads": {
+    "multiplier": 0.9
+  },
+  "effective_range": {
+    "multiplier": 1.175
+  }
+}

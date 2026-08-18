@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "entries": {
+    "com.tacz.guns.GunMod|/assets/tacz/custom/tacz_default_gun|tacz_default_gun": "712a1591a9555b7651a184899843befd",
+    "me.xjqsh.gucci.AttachmentMod|/assets/guccivuitton/custom/gucci_vuitton_attachment|gucci_vuitton_attachment": "962d0bebdb67ff5d3023a9bb1e1cb6cb",
+    "com.corrinedev.addon.Gunpack|/addon/endlessammo|endlessammo": "df945fd63cd4443a19afe99b4c447888",
+    "me.xjqsh.lradd.LesRaisinsAddon|/assets/lradd/custom/lradd_default_gun|lradd_default_gun": "a12625412cad89bed33d704ec7fac206",
+    "com.corrinedev.maxstuff.MaxStuff|/assets/maxstuff/gunpack/maxstuff|maxstuff": "c398557a69d20495d3986ab4af981031"
+  }
+}

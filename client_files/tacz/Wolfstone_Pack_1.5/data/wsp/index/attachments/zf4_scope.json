@@ -1,0 +1,8 @@
+{
+  "name": "wsp.attachment.zf4_scope.name",
+  "display": "wsp:zf4_scope_display",
+  "tooltip": "wsp.attachment.zf4_scope.tooltip",
+  "data": "wsp:zf4_scope_data",
+  "type": "scope",
+  "sort": 100
+}

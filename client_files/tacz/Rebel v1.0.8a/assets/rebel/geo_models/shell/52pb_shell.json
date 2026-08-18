@@ -1,0 +1,65 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry..50 AE - Converted",
+				"texture_width": 8,
+				"texture_height": 8,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "52PB",
+					"pivot": [8, 0, -8],
+					"cubes": [
+						{
+							"origin": [-0.28125, -0.52344, -0.28125],
+							"size": [0.5625, 1.59375, 0.5625],
+							"pivot": [0, 0, 0],
+							"rotation": [90, 0, 0],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [0.625, 1.625]},
+								"east": {"uv": [1, 0], "uv_size": [0.625, 1.625]},
+								"south": {"uv": [0, 2], "uv_size": [0.625, 1.625]},
+								"west": {"uv": [2, 0], "uv_size": [0.625, 1.625]},
+								"up": {"uv": [1, 2], "uv_size": [0.625, 0.625]},
+								"down": {"uv": [2, 2.625], "uv_size": [0.625, -0.625]}
+							}
+						},
+						{
+							"origin": [-0.28125, -0.67969, -0.28125],
+							"size": [0.5625, 0.0625, 0.5625],
+							"pivot": [0, 0, 0],
+							"rotation": [90, 0, 0],
+							"uv": {
+								"north": {"uv": [3, 2], "uv_size": [0.625, 0.125]},
+								"east": {"uv": [3, 3], "uv_size": [0.625, 0.125]},
+								"south": {"uv": [0, 4], "uv_size": [0.625, 0.125]},
+								"west": {"uv": [4, 0], "uv_size": [0.625, 0.125]},
+								"up": {"uv": [3, 0], "uv_size": [0.625, 0.625]},
+								"down": {"uv": [1, 3.625], "uv_size": [0.625, -0.625]}
+							}
+						},
+						{
+							"origin": [-0.21875, -0.61719, -0.21875],
+							"size": [0.4375, 0.125, 0.4375],
+							"pivot": [0, 0, 0],
+							"rotation": [90, 0, 0],
+							"uv": {
+								"north": {"uv": [1, 4], "uv_size": [0.5, 0.125]},
+								"east": {"uv": [4, 1], "uv_size": [0.5, 0.125]},
+								"south": {"uv": [2, 4], "uv_size": [0.5, 0.125]},
+								"west": {"uv": [4, 2], "uv_size": [0.5, 0.125]},
+								"up": {"uv": [3, 1], "uv_size": [0.5, 0.5]},
+								"down": {"uv": [2, 3.5], "uv_size": [0.5, -0.5]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

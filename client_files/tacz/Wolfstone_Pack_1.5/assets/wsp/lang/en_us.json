@@ -1,0 +1,44 @@
+{
+  "pack.wsp.name": "Wolfstone Pack",
+  "pack.wsp.desc": "May the fates hold off the coming of the storm...",
+
+  "wsp.gun.fg42.name": "FG 42",
+  "wsp.gun.fg42.desc": "'This thing is REALLY slick' - Gun Jesus\nA rifle ahead of its time, made in small numbers for German paratroopers during WWII.",
+  
+  "wsp.gun.sten9.name": "Sten MkII(S)",
+  "wsp.gun.sten9.desc": "'It's a Toob, Innit?' - AK guy\nDesigned in 1943, the Mk II(S) ('Special-Purpose') was an integrally suppressed version of the Mk II.",
+
+  "wsp.gun.panzerfaust.name": "Panzerfaust 60",
+  "wsp.gun.panzerfaust.desc": "'Loper-gibber 6000'\nThe German Panzerfaust (tank or armour-fist) was a single-shot, disposable anti-tank weapon.",
+
+  "wsp.gun.p60.name": "Pistole 60",
+  "wsp.gun.p60.desc": "'Nazi scum...!' - Terror-Billy\nAn improved version of the Luger 1946 handgun, updated with a burst shot secondary mode.",
+
+  "wsp.gun.stg60.name": "Sturmgewehr 60",
+  "wsp.gun.stg60.desc": "'Blazko, would you kindly shoot this Nazi in his goddamn face?' - Fergus Reid\nAn updated version of the 1946 assault rifle.\nHas an increased magazine size and fire rate.",
+  
+  "wsp.attachment.fg42_extended_mag.name" : "FG 42 Extended Magazine",
+  "wsp.attachment.fg42_extended_mag.tooltip" : "Standard Issue.",
+  "wsp.attachment.zf4_scope.name" : "§5ZF4 Scope",
+  "wsp.attachment.zf4_scope.tooltip" : "An attempt was made at standardization.",
+  "wsp.attachment.bipod_deployed.name" : "Deployed Bipod",
+  "wsp.attachment.bipod_deployed.tooltip" : "Recommended for longer-than-average range engagements.",
+  "wsp.attachment.spike_bayonet.name" : "Unsheathed Bayonet",
+  "wsp.attachment.spike_bayonet.tooltip" : "Didn't think that was a bayonet, huh?",
+
+  "wsp.attachment.sten_cloth_barrel.name" : "Canvas suppressor wrap",
+  "wsp.attachment.sten_cloth_barrel.tooltip" : "A little beat up, but nothing too serious.",
+
+  "wsp.attachment.grip_vertical_1960.name" : "Unfolded vertical grip",
+  "wsp.attachment.grip_vertical_1960.tooltip" : "Unfold the integrated vertical grip of the StG 60,\nimproving recoil control and handling by 10%%.",
+
+  "wsp.ammo.792x57.name":"§c7.92x57mm Mauser",
+  "wsp.ammo.792x57.tooltip":"Powerful.",
+
+  "wsp.ammo.765x53.name":"§97.65x53mm Mauser",
+  "wsp.ammo.765x53.tooltip":"Designed by Paul Mauser.",
+
+  "wsp.ammo.spare_panzerfaust.name": "§dSpare Panzerfaust",
+  "wsp.ammo.spare_panzerfaust.tooltip": "Don't think too hard about it."
+
+}

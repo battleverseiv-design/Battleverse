@@ -1,0 +1,25 @@
+{
+  "name": "item.suffuse.m24",
+  "type": "lrtactical:explode",
+  "base_item": "lrtactical:throwable",
+  "desc": "item.suffuse.m24.desc",
+  "data": {
+    "prepare_time": 37.4,
+    "cookable": true,
+    "initial_speed": 0.9,
+    "cooldown": 30,
+    "cooldown_category": "lrtactical:grenade",
+    "put_away_time": 300,
+    "stack_size": 3,
+    "entity": {
+      "life_time": 75,
+      "gravity": 0.07,
+      "should_bounce": true,
+      "bounce_factor": 0.8
+    },
+    "explode": {
+      "radius": 7,
+      "damage": 28
+    }
+  }
+}

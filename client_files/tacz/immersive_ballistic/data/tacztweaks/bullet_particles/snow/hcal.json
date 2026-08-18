@@ -1,0 +1,61 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:snow",
+    "#immersive_ballistic:snow"
+  ],
+  "hit": [
+    {
+      "particle": "minecraft:block %s ",
+      "count": 10,
+      "speed": 1.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:smoke %s 6",
+      "count": 1,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:impact_sand minecraft:snow_block 5",
+      "count": 1,
+      "speed": 2.5,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "minecraft:block %s",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:smoke %s 7",
+      "count": 1,
+      "speed": 1.6,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:impact_sand minecraft:snow_block 5",
+      "count": 2,
+      "speed": 2.5,
+      "force": true
+    }
+  ],
+  "break": [
+    {
+      "particle": "immersive_ballistic:smoke minecraft:snow_block 6",
+      "count": 2,
+      "speed": 5,
+      "force": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "model": "bviv:gun/productno62_geo",
+  "texture": "bviv:gun/uv/productno62",
+  "hud": "bviv:gun/hud/productno62",
+  "slot": "bviv:gun/slot/productno62",
+  "animation": "bviv:animations/productno62",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "bviv:flash/productno62_flash",
+    "scale": 1.5
+  },
+  "sounds": {
+    "shoot": "bviv:productno62/productno62_shoot",
+    "shoot_3p": "bviv:productno62/productno62_shoot_3p",
+    "reload_empty": "bviv:productno62/productno62_reload",
+    "reload_tactical": "bviv:productno62/productno62_reload",
+    "inspect": "bviv:productno62/productno62_inspect",
+    "inspect_empty": "bviv:productno62/productno62_inspect",
+    "draw": "bviv:productno62/productno62_draw",
+    "dry_fire": "bviv:productno62/productno62_dry_fire",
+    "put_away": "bviv:productno62/productno62_put_away"
+  }
+}

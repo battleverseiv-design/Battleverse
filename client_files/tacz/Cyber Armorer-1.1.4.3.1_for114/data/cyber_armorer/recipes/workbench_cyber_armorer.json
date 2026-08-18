@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "2": {
+      "tag": "minecraft:logs"
+    },
+    "3": {
+      "tag": "forge:storage_blocks/iron"
+    },
+    "4": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "pattern": [
+    "232",
+    "242"
+  ],
+  "result": {
+    "item": "tacz:workbench_b",
+    "nbt": {
+      "BlockId": "cyber_armorer:workbench_cyber_armorer"
+    },
+    "count": 1
+  }
+}

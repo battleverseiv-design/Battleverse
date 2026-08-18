@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 23
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 45
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cib:sv98"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

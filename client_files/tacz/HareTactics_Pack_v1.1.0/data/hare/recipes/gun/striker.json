@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 66
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "hare:striker"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

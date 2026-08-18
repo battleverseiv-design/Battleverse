@@ -1,0 +1,221 @@
+{
+  "ammo": "tacz:12g",
+  "ammo_amount": 16,
+  "extended_mag_ammo_amount": [
+    16,
+    8,
+    10
+  ],
+  "bolt": "manual_action",
+  "rpm": 200,
+  "bullet": {
+    "life": 1,
+    "bullet_amount": 8,
+    "damage": 46,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.25,
+      "head_shot_multiplier": 1.33,
+      "damage_adjust": [
+        {"distance": 18, "damage": 46},
+        {"distance": 32, "damage": 29},
+        {"distance": "infinite", "damage": 14}
+      ]
+    },
+    "speed": 150,
+    "gravity": 0.15,
+    "knockback": 0.15,
+    "friction": 0.015,
+    "ignite": false,
+    "pierce": 1
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 2.98,
+      "tactical": 2.45
+    },
+    "cooldown": {
+      "empty": 3.3,
+      "tactical": 3.6
+    }
+  },
+  "extras":{
+    "switch_ammo_condition":"none",
+    "ammo_types": [
+      {
+        "ammo": "hare:12gsl",
+        "ammo_amount": 16,
+        "bullet": {
+          "life": 2,
+          "bullet_amount": 1,
+          "damage": 46,
+          "tracer_count_interval": 0,
+          "extra_damage": {
+            "armor_ignore": 0.05,
+            "head_shot_multiplier": 1.5,
+            "damage_adjust": [
+              {"distance": 18, "damage": 46},
+              {"distance": 32, "damage": 33},
+              {"distance": "infinite", "damage": 18}
+            ]
+          },
+          "speed": 220,
+          "gravity": 0.06,
+          "knockback": 0.15,
+          "friction": 0.03,
+          "ignite": false,
+          "pierce": 1
+        }
+      },
+      {
+        "ammo": "hare:12gap20",
+        "ammo_amount": 16,
+        "bullet": {
+          "life": 2,
+          "bullet_amount": 1,
+          "damage": 48,
+          "tracer_count_interval": 0,
+          "extra_damage": {
+            "armor_ignore": 0.75,
+            "head_shot_multiplier": 1.5,
+            "damage_adjust": [
+              {"distance": 20, "damage": 48},
+              {"distance": 36, "damage": 34},
+              {"distance": "infinite", "damage": 1}
+            ]
+          },
+          "speed": 240,
+          "gravity": 0.15,
+          "knockback": 0.15,
+          "friction": 0.05,
+          "ignite": false,
+          "pierce": 0 
+      }
+    },
+      {
+        "ammo": "hare:12gbio",
+        "ammo_amount": 16,
+        "bullet": {
+          "life": 0.6,
+          "bullet_amount": 20,
+          "damage": 12,
+          "tracer_count_interval": 0,
+          "extra_damage": {
+            "armor_ignore": 0.25,
+            "head_shot_multiplier": 1.33,
+            "damage_adjust": [
+              {"distance": 18, "damage": 12},
+              {"distance": 32, "damage": 8},
+              {"distance": "infinite", "damage": 4}
+            ]
+          },
+          "speed": 200,
+          "gravity": 0.05,
+          "knockback": 0.01,
+          "friction": 0.01,
+          "ignite": false,
+          "pierce": 1 
+      }
+    },
+      {
+        "ammo": "hare:12gdb",
+        "ammo_amount": 16,
+        "bullet": {
+          "life": 0.6,
+          "bullet_amount": 9,
+          "damage": 27,
+          "tracer_count_interval": 0,
+          "extra_damage": {
+            "armor_ignore": 0.0,
+            "head_shot_multiplier": 1.0,
+            "damage_adjust": [
+              {"distance": 18, "damage": 27},
+              {"distance": 32, "damage": 18},
+              {"distance": "infinite", "damage": 9}
+            ]
+          },
+          "speed": 150,
+          "gravity": 0.15,
+          "knockback": 0.15,
+          "friction": 0.05,
+          "ignite": true,
+          "pierce": 0    
+      }
+    }
+    ]
+  },
+  "draw_time": 0.7,
+  "put_away_time": 0.7,
+  "aim_time": 0.17,
+  "sprint_time": 0.2,
+  "bolt_action_time": 0.65,
+  "weight": 6.5,
+  "movement_speed": {
+    // 默认修正
+    "base": 0.0,
+    // 瞄准时
+    "aim": -0.5,
+    // 换弹时
+    "reload": -0.2
+  },
+  "crawl_recoil_multiplier": 0.25,
+  "fire_mode": [
+    "semi"
+  ],
+ "recoil": {
+    "pitch": [
+      {"time": 0, "value": [5.5, 5.5]},
+      {"time": 0.1, "value": [4.5, 4.5]},
+      {"time": 0.13, "value": [5, 5]},
+      {"time": 0.4, "value": [-0.5, -0.5]},
+      {"time": 0.53, "value": [0.25, 0.25]},
+      {"time": 0.65, "value": [0, 0]},
+      {"time": 0.7, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-1.75, -1.75]},
+      {"time": 0.1, "value": [-1.5, -1.5]},
+      {"time": 0.5, "value": [0.15, 0.15]},
+      {"time": 0.65, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 3.65,
+    "move": 3.7,
+    "sneak": 3.65,
+    "lie": 3.65,
+    "aim": 3.5
+  },
+  // 近战相关
+  "melee": {
+    // 枪械距离参数，用来延升近战攻击范围
+    // 会与刺刀等配件的距离做加和
+    "distance": 1,
+    // 使用时的冷却时间
+    "cooldown": 1.0,
+    // 默认近战数据，会被配件的数据替换掉
+    "default": {
+      // 动画类型：没有枪托的为 melee_push，有枪托的为 melee_stock
+      "animation_type": "melee_stock",
+      // 刺刀距离参数，枪械里还有个刺刀攻击距离参数，两者做加和
+      "distance": 0,
+      // 刺刀范围角度
+      "range_angle": 30,
+      // 伤害值
+      "damage": 2,
+      // 击退效果
+      "knockback": 0.75,
+      // 前摇时长，单位：秒
+      "prep": 0.1
+    }
+  },
+    "script": "hare:m1216_gun_logic",
+  "script_param": {
+  },
+  "allow_attachment_types": [
+    "scope",
+	"laser",
+	"muzzle"
+  ]
+}

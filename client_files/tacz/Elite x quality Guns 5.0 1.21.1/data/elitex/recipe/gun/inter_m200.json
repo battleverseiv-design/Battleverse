@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 130
+    },
+    {
+      "item": {
+        "item": "minecraft:glass"
+      },
+      "count": 7
+    },
+    {
+      "item": {
+        "tag": "c:dusts/redstone"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:green_dye"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "elitex:inter_m200"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

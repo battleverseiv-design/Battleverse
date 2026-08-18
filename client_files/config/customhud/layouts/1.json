@@ -1,0 +1,60 @@
+{
+  "id": "deploying_timer",
+  "name": "Deploying Countdown Timer",
+  "targetState": "COUNTDOWN",
+  "zIndex": 500,
+  "elements": [
+    {
+      "id": "deploying_bg",
+      "type": "rect",
+      "alignX": "center",
+      "alignY": "bottom",
+      "x": "0",
+      "y": "-16",
+      "width": 152,
+      "height": 32,
+      "color": "#E6080B12",
+      "borderRadius": 5,
+      "borderWidth": 1,
+      "borderColor": "#CC00E5FF"
+    },
+    {
+      "id": "deploying_title",
+      "type": "text",
+      "alignX": "center",
+      "alignY": "bottom",
+      "x": "0",
+      "y": -36,
+      "text": "&bDEPLOYING",
+      "scale": 0.86,
+      "shadow": true
+    },
+    {
+      "id": "deploying_bar",
+      "type": "progress",
+      "alignX": "center",
+      "alignY": "bottom",
+      "x": "0",
+      "y": "-22",
+      "width": 138,
+      "height": 10,
+      "current": "%arenamaster:timer_raw_ms%",
+      "max": "%arenamaster:timer_max_ms%",
+      "color": "#FF00F0FF",
+      "bgColor": "#55001A29",
+      "borderColor": "#8800F0FF",
+      "borderWidth": 1
+    },
+    {
+      "id": "deploying_timer_text",
+      "type": "text",
+      "alignX": "center",
+      "alignY": "bottom",
+      "x": "0",
+      "y": "-20",
+      "text": "&f%arenamaster:timer_ms%",
+      "scale": 0.75,
+      "shadow": true
+    }
+  ]
+}

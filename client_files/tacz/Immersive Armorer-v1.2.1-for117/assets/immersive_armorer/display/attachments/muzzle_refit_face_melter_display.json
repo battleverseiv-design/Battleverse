@@ -1,0 +1,10 @@
+{
+  "slot": "immersive_armorer:attachment/slot/muzzle_refit_face_melter",
+  "model": "immersive_armorer:attachment/muzzle_refit_face_melter",
+  "texture": "immersive_armorer:attachment/uv/muzzle_refit_face_melter",
+  "show_muzzle": true,
+  "sounds": {
+    "install": "immersive_armorer:attachments/attachment_install_small",
+    "uninstall": "immersive_armorer:attachments/attachment_uninstall"
+  }
+}

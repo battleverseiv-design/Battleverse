@@ -1,0 +1,10 @@
+{
+  "slot": "immersive_armorer:attachment/slot/muzzle_refit_pressure_wave",
+  "model": "immersive_armorer:attachment/muzzle_refit_pressure_wave",
+  "texture": "immersive_armorer:attachment/uv/muzzle_refit_pressure_wave",
+  "show_muzzle": true,
+  "sounds": {
+    "install": "immersive_armorer:attachments/attachment_install_small",
+    "uninstall": "immersive_armorer:attachments/attachment_uninstall"
+  }
+}

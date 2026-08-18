@@ -1,0 +1,50 @@
+
+[tweaks_pack]
+	#ES: Si es true, despliega el datapack integrado en <gamedir>/tacz/immersive_ballistic.
+	#EN: If true, deploys the bundled datapack to <gamedir>/tacz/immersive_ballistic.
+	#ES: Con forceUpdateBundledTweaks=false, solo copia archivos que NO existen aun (modo inicial).
+	#EN: With forceUpdateBundledTweaks=false, only copies files that do NOT exist yet (initial deploy).
+	#ES: Podras editar los archivos libremente en <gamedir>/tacz sin que se sobreescriban.
+	#EN: You can freely edit files under <gamedir>/tacz without them being overwritten.
+	#ES: /immersiveballistic reload respeta este modo: solo sobreescribe si forceUpdateBundledTweaks=true.
+	#EN: /immersiveballistic reload respects this mode: it only overwrites when forceUpdateBundledTweaks=true.
+	#ES/EN: Funciona en cliente y servidor dedicado / Works on both client and dedicated server.
+	copyBundledTweaksToTacz = true
+	#ES: Si es true, sobreescribe TODOS los archivos en <gamedir>/tacz/immersive_ballistic al iniciar.
+	#EN: If true, overwrites ALL files in <gamedir>/tacz/immersive_ballistic on startup.
+	#ES: Util para recibir actualizaciones del mod limpiamente.
+	#EN: Useful for cleanly receiving mod updates.
+	#ES: ADVERTENCIA: tus ediciones locales en la carpeta /tacz se perderan.
+	#EN: WARNING: your local edits inside the /tacz folder will be lost.
+	#ES: Recomendado: pon esto en false una vez que hayas recibido la actualizacion.
+	#EN: Recommended: set this to false once you have received the update.
+	forceUpdateBundledTweaks = true
+
+[ammo_rules]
+	#ES: Si es true, IGNORA ammo_rules.json para categorias de ammo.
+	#EN: If true, IGNORES ammo_rules.json for ammo category mapping.
+	#ES: Los .json de categorias se copian sin inyectar target desde config.
+	#EN: Category .json files are copied without injecting target from config.
+	#ES: Nota: bullet_interactions sigue respetando disableBreakBlocks/disablePierceBlocks.
+	#EN: Note: bullet_interactions still respects disableBreakBlocks/disablePierceBlocks.
+	ignoreAmmoRules = false
+
+[block_tags]
+	#ES: Si es true, genera tags de bloques automaticamente usando block_tagger_rules.json al iniciar.
+	#EN: If true, automatically generates block tags from block_tagger_rules.json on startup.
+	#ES/EN: Desactivalo para control manual total / Disable for full manual control.
+	#ES/EN: Puedes regenerar con /immersiveballistic reload / You can regenerate with /immersiveballistic reload.
+	autoGenerateBlockTags = true
+
+[bullet_interactions]
+	#ES: Cuando esta activo, sobreescribe 'block_break' o 'pierce' en bullet_interactions al copiar.
+	#EN: When active, overrides 'block_break' or 'pierce' in bullet_interactions files when copying.
+	#ES: NO modifica src/main/tweaks, solo afecta la copia en <gamedir>/tacz.
+	#EN: Does NOT modify src/main/tweaks, only affects what is written to <gamedir>/tacz.
+	#ES: Si true, cambia todos los 'block_break' a {"type":"never"} al copiar.
+	#EN: If true, sets all 'block_break' to {"type":"never"} when copying.
+	disableBreakBlocks = false
+	#ES: Si true, cambia todos los 'pierce' a {"type":"never"} al copiar.
+	#EN: If true, sets all 'pierce' to {"type":"never"} when copying.
+	disablePierceBlocks = false
+

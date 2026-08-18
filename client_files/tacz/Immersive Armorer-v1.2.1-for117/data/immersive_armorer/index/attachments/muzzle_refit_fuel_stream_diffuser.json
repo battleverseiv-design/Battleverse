@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.muzzle_refit_fuel_stream_diffuser.name",
+  "display": "immersive_armorer:muzzle_refit_fuel_stream_diffuser_display",
+  "data": "immersive_armorer:muzzle_refit_fuel_stream_diffuser_data",
+  "type": "muzzle"
+}

@@ -1,0 +1,52 @@
+{
+  "model": "cib:gun/negev_geo",
+  "texture": "cib:gun/uv/negev",
+  "slot": "cib:gun/slot/negev",
+  "hud": "cib:gun/hud/negev",
+  "animation": "cib:negev",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "state_machine": "cib:negev_state_machine",
+  "lod": {
+    "model": "cib:gun/lod/negev",
+    "texture": "cib:gun/lod/negev"
+  },
+  "default_animation": "ciba:mg_default",
+  "iron_zoom": 1.5,
+  "zoom_model_fov": 45,
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "cib:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "cib:negev/negev_shoot",
+    "shoot_3p": "cib:negev/negev_shoot_3p",
+    "silence": "cib:negev/negev_silence",
+    "silence_3p": "cib:negev/negev_silence_3p",
+    "draw": "tacz:rpk/rpk_draw",
+    "put_away": "tacz:rpk/rpk_put_away",
+    "reload_empty": "cib:negev/negev_reload_empty",
+    "reload_tactical": "cib:negev/negev_reload_tactical",
+    "inspect": "cib:negev/negev_inspect",
+    "inspect_empty": "cib:negev/negev_inspect_empty",
+    "dry_fire": "cib:dry_fire",
+    "fire_select": "cib:fire_select",
+    "head_hit": "cib:head_hit",
+    "flesh_hit": "cib:flesh_hit",
+    "kill": "cib:kill"
+  }
+}

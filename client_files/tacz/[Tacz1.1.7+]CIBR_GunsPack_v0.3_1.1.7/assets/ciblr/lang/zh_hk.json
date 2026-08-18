@@ -1,0 +1,16 @@
+{
+  "pack.ciblr.name": "§4CIBR衝鋒陷陣：重啟 附屬包",
+  "pack.ciblr.desc": "衝鋒陷陣：重啟 附屬包",
+
+  "item.ciblr.191_bayonet.name": "QNL-191 刺刀",
+  "item.ciblr.95_bayonet.name": "QNL-95 刺刀",
+  "item.ciblr.81_bayonet.name": "QNL-81 刺刀",
+  "item.ciblr.katana.name": "武士刀",
+  "item.ciblr.batons.name": "防暴警棍",
+
+  "item.ciblr.type86.name": "86式 手雷",
+  "item.ciblr.dsy151.name": "DSY-151 溫壓手雷",
+
+  "cib.cib_smith_table": "§cCIB:R 鍛造台",
+  "cib.cib_smith_table.desc":"§e衝鋒陷陣，鬥罷艱險再出發\n§7注：若遊戲中找不到近戰武器和手雷，是因為未安裝相應MOD。\n§7解決方案：安裝“LR戰術工坊”MOD。\n§7前提是遊戲版本為1.20.1並已安裝Forge。"
+}

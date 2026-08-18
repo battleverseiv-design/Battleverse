@@ -1,0 +1,23 @@
+{
+  "weight": 0.25,
+  "ammo_speed": {
+    "addend": -15
+  },
+  "recoil": {
+    "yaw": {
+      "addend": 1
+    },
+    "pitch": {
+      "addend": 2
+    }
+  },
+  "damage": {
+    "addend": 3
+  },
+  "ignite": {
+    "block": true
+  },
+  "armor_ignore":{
+    "addend": 0.5
+  }
+}

@@ -1,0 +1,12 @@
+{
+    // 使用我们放入的背包 2D 贴图：textures/attachment/slot/xxx_slot.png。注意，不需要包含文件后缀，也不要包含开头的 "textures/"
+    "slot": "hare:attachment/slot/six12_sd_slot",
+    // 使用我们放入的模型文件：models/gun/xxx_geo.json。注意，不需要包含文件后缀，也不要包含开头的 "models/"
+    "model": "hare:attachment/six12_sd_geo",
+    // 使用我们放入的模型贴图：textures/attachment/uv/xxx_uv.png。注意，不需要包含文件后缀，也不要包含开头的 "textures/"
+    "texture": "hare:attachment/uv/six12sd_uv",
+    "sounds": {
+     "install": "tacz:attachments/muzzle_general",
+     "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

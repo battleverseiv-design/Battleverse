@@ -1,0 +1,9 @@
+{
+  "type": "block",
+  "hit": [
+    {
+      "sound": "tacztweaks:generic.impact",
+      "volume": 0.45
+    }
+  ]
+}

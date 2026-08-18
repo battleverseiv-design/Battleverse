@@ -1,0 +1,7 @@
+{
+  "name": "cyber_armorer.attachment.optic_02_sparky.name",
+  "display": "cyber_armorer:optic_02_sparky_display",
+  "data": "cyber_armorer:optic_02_sparky_data",
+  "type": "scope",
+  "hidden": true
+}

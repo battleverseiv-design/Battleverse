@@ -1,0 +1,9 @@
+{
+  "slot": "barquitos:attachment/slot/45foregrip",
+  "model": "barquitos:attachment/45foregrip_geo",
+  "texture": "barquitos:attachment/uv/45foregrip",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

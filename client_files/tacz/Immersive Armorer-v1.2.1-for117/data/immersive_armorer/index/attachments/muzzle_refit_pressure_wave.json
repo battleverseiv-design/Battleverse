@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.muzzle_refit_pressure_wave.name",
+  "display": "immersive_armorer:muzzle_refit_pressure_wave_display",
+  "data": "immersive_armorer:muzzle_refit_pressure_wave_data",
+  "type": "muzzle"
+}

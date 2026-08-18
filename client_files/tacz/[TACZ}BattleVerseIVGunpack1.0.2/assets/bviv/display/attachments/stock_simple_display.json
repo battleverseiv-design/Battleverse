@@ -1,0 +1,9 @@
+{
+  "slot": "immersive_armorer:attachment/slot/stock_simple",
+  "model": "immersive_armorer:attachment/stock_simple",
+  "texture": "immersive_armorer:attachment/uv/stock_simple",
+  "sounds": {
+    "install": "immersive_armorer:attachments/attachment_install_big",
+    "uninstall": "immersive_armorer:attachments/attachment_uninstall"
+  }
+}

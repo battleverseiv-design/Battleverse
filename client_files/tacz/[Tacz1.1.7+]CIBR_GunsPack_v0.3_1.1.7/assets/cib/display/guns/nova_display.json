@@ -1,0 +1,56 @@
+{
+  "model": "cib:gun/nova_geo",
+  "texture": "cib:gun/uv/nova",
+  "slot": "cib:gun/slot/nova",
+  "state_machine": "cib:nova_state_machine",
+  "ammo_count_style": "normal",
+  "state_machine_param": {
+    "bolt_shell_ejecting_time": 0.17,
+    "intro_shell_ejecting_time": 0.4
+  },
+  "damage_style": "per_projectile",
+  "lod": {
+    "model": "cib:gun/lod/nova",
+    "texture": "cib:gun/lod/nova"
+  },
+  "hud": "cib:gun/hud/nova",
+  "animation": "cib:nova",
+  "default_animation": "ciba:shotgun_default",
+  "zoom_model_fov": 45,
+  "third_person_animation": "default",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.0, 1.0, 1.0]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "cib:flash/common_muzzle_flash",
+    "scale": 3
+  },
+  "iron_zoom": 1.2,
+  "shell": {
+    "initial_velocity": [5, 0.5, 1],
+    "random_velocity": [1, 0.5, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -960, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "cib:nova/nova_shoot",
+    "silence": "cib:nova/nova_silence",
+    "silence_3p": "cib:nova/nova_silence_3p",
+    "shoot_3p": "cib:nova/nova_shoot_3p",
+    "draw": "tacz:m870/m870_draw",
+    "put_away": "tacz:m870/m870_put_away",
+    "inspect": "cib:nova/nova_inspect",
+    "inspect_empty": "cib:nova/nova_inspect_empty",
+    "dry_fire": "cib:dry_fire",
+    "fire_select": "cib:fire_select",
+    "head_hit": "cib:head_hit",
+    "flesh_hit": "cib:flesh_hit",
+    "kill": "cib:kill"
+  }
+}

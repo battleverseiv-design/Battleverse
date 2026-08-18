@@ -1,0 +1,12 @@
+{
+
+    "slot": "rebel:ammo/slot/20shdb",
+
+    "shell": {
+    
+        "model": "rebel:shell/20shdb_shell",
+    "texture": "rebel:shell/20shdb_shell"
+
+     }
+
+}

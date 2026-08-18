@@ -1,0 +1,20 @@
+{
+  "weight": 0.25,
+  "inaccuracy": {
+    "addend": -1
+  },
+  "aim_inaccuracy": {
+    "addend": -1
+  },
+  "recoil": {
+    "yaw": {
+      "addend": 0.5
+    },
+    "pitch": {
+      "addend": 1
+    }
+  },
+  "ammo_speed": {
+    "addend": 30
+  }
+}

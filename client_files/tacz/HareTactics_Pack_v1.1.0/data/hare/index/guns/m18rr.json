@@ -1,0 +1,8 @@
+{
+  "name": "hare.gun.M18rr.name",
+  "display": "hare:m18rr_display",
+  "data": "hare:m18rr_data",
+  "tooltip": "hare.gun.M18rr.desc",
+  "type": "rpg",
+  "sort": 22
+}

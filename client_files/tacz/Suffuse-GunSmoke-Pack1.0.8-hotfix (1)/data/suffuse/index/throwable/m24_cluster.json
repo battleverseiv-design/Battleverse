@@ -1,0 +1,23 @@
+{
+  "name": "item.suffuse.m24_cluster",
+  "type": "lrtactical:explode",
+  "base_item": "lrtactical:throwable",
+  "data": {
+    "prepare_time": 37.4,
+    "initial_speed": 0.7,
+    "cooldown": 30,
+    "cooldown_category": "lrtactical:grenade",
+    "put_away_time": 300,
+    "stack_size": 1,
+    "entity": {
+      "life_time": 75,
+      "gravity": 0.09,
+      "should_bounce": true,
+      "bounce_factor": 0.85
+    },
+    "explode": {
+      "radius": 12,
+      "damage": 55
+    }
+  }
+}

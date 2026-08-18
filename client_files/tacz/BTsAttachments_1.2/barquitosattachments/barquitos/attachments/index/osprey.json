@@ -1,0 +1,6 @@
+{
+  "name": "barquitos.attachment.osprey",
+  "display": "barquitos:osprey_display",
+  "data": "barquitos:osprey_data",
+  "type": "muzzle"
+}

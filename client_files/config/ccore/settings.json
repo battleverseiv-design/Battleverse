@@ -1,0 +1,13 @@
+{
+  "gameplay": {
+    "disableInventory": false,
+    "hotbarLimit": 9,
+    "blockHideHud": false,
+    "blockScreenshot": false,
+    "blockDebugScreen": false,
+    "blockPerspective": false,
+    "blockFullscreen": false,
+    "blockDisconnect": false,
+    "keybinds": []
+  }
+}

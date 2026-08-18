@@ -1,0 +1,32 @@
+{
+  "model": "cyber_armorer:ammo/bullet_pistol_smart",
+  "texture": "cyber_armorer:ammo/uv/bullet_pistol_smart",
+  "slot": "cyber_armorer:ammo/slot/bullet_pistol_smart",
+  "entity": {
+    "model": "cyber_armorer:ammo_entity/bullet_pistol_entity",
+    "texture": "cyber_armorer:ammo_entity/bullet_pistol_entity"
+  },
+  "shell": {
+    "model": "cyber_armorer:shell/bullet_pistol_shell",
+    "texture": "cyber_armorer:shell/bullet_pistol_shell"
+  },
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  }
+}

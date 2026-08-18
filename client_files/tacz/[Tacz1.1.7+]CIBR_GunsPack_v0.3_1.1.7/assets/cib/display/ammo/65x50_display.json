@@ -1,0 +1,30 @@
+{
+  "model": "cib:ammo/65x50_geo",
+  // 渲染模型使用的材质
+  "texture": "cib:ammo/uv/65x50",
+  "slot": "cib:ammo/slot/65x50",
+  "shell": {
+    "model": "tacz:shell/556x45_shell",
+    "texture": "tacz:shell/556x45_shell"
+  },
+  "tracer_color": "#FF9999",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "ground": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "fixed": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}

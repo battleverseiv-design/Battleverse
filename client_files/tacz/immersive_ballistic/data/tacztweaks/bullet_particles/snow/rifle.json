@@ -1,0 +1,54 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:556x45",
+      "tacz:58x42",
+      "tacz:46x30",
+      "tacz:57x28",
+      "tacz:357mag",
+      "tacz:50ae",
+      "tacz:762x54",
+      "tacz:762x39",
+      "tacz:308",
+      "hamster:medium_ammo",
+      "suffuse:12.7x55",
+      "suffuse:6x35mm",
+      "suffuse:boomstickshot",
+      "suffuse:545x39"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:snow",
+    "#immersive_ballistic:snow"
+  ],
+  "hit": [
+    {
+      "particle": "minecraft:block %s ",
+      "count": 10,
+      "speed": 1.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:impact_sand minecraft:snow_block 1.8",
+      "count": 1,
+      "speed": 2,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "minecraft:block %s",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:impact_sand minecraft:snow_block 1.8",
+      "count": 2,
+      "speed": 2,
+      "force": true
+    }
+  ]
+}

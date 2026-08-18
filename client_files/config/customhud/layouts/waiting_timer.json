@@ -1,0 +1,64 @@
+[
+  {
+    "id": "waiting_bg",
+    "type": "rect",
+    "alignX": "center",
+    "alignY": "top",
+    "x": -110,
+    "y": 15,
+    "width": 220,
+    "height": 55,
+    "color": "#D90A0D14",
+    "borderRadius": 8,
+    "borderWidth": 1,
+    "borderColor": "#5500F0FF"
+  },
+  {
+    "id": "waiting_map_text",
+    "type": "text",
+    "alignX": "center",
+    "alignY": "top",
+    "x": 0,
+    "y": 21,
+    "text": "&b&l%hud_arena% &7| &eДО СТАРТА: &f&l%timer:lobby:fmt%",
+    "scale": 1.05,
+    "shadow": true
+  },
+  {
+    "id": "waiting_progress_bar",
+    "type": "progress",
+    "alignX": "center",
+    "alignY": "top",
+    "x": 0,
+    "y": 42,
+    "width": 196,
+    "height": 4,
+    "current": "%timer:lobby:pct%",
+    "max": "100",
+    "color": "#FF00F0FF",
+    "bgColor": "#44002233"
+  },
+  {
+    "id": "waiting_players_status",
+    "type": "text",
+    "alignX": "center",
+    "alignY": "top",
+    "x": 0,
+    "y": 52,
+    "text": "&7Игроков готово: &a%hud_ready_count%",
+    "scale": 0.85,
+    "shadow": true
+  },
+  {
+    "id": "class_select_warning",
+    "type": "text",
+    "alignX": "center",
+    "alignY": "bottom",
+    "x": 0,
+    "y": -65,
+    "text": "&c&lВНИМАНИЕ! ВЫБЕРИТЕ КЛАСС В МЕНЮ!",
+    "scale": 1.15,
+    "shadow": true,
+    "showIf": "%hud_has_class% == 0"
+  }
+]

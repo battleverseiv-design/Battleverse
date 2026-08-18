@@ -1,0 +1,7 @@
+{
+  "slot": "cyber_armorer:attachment/slot/cyber_extended_mag_3",
+  "sounds": {
+    "install": "cyber_armorer:misc/attachment_on",
+    "uninstall": "cyber_armorer:misc/attachment_off"
+  }
+}

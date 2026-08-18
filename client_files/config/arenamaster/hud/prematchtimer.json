@@ -1,0 +1,64 @@
+{
+  "id": "prematch",
+  "name": "Battlefield Deploying Timer Compact",
+  "targetState": "STARTING",
+  "zIndex": 350,
+  "enabled": true,
+  "elements": [
+    {
+      "id": "bg_panel",
+      "type": "rect",
+      "alignX": "center",
+      "alignY": "top",
+      "x": 0,
+      "y": 15,
+      "width": 144,
+      "height": 33,
+      "color": "#F00B121C",
+      "borderRadius": 4,
+      "borderWidth": 1,
+      "borderColor": "#FFFF8800"
+    },
+    {
+      "id": "deploy_title",
+      "type": "text",
+      "alignX": "center",
+      "alignY": "top",
+      "x": 0,
+      "y": 18,
+      "scale": 0.6,
+      "text": "DEPLOYING IN",
+      "color": "#FF8800",
+      "shadow": true
+    },
+    {
+      "id": "timer_progress",
+      "type": "progress",
+      "alignX": "center",
+      "alignY": "top",
+      "x": 0,
+      "y": 28,
+      "scale": 1.0,
+      "current": "%arenamaster:timer_raw_ms%",
+      "max": "5000",
+      "width": 126,
+      "height": 3,
+      "color": "#FFFF8800",
+      "bgColor": "#88331500",
+      "borderWidth": 1,
+      "borderColor": "#AAFF5500"
+    },
+    {
+      "id": "timer_ms_display",
+      "type": "text",
+      "alignX": "center",
+      "alignY": "top",
+      "x": 0,
+      "y": 33,
+      "scale": 0.85,
+      "text": "%arenamaster:timer_ms%",
+      "color": "#FFA500",
+      "shadow": true
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "model": "hare:gun/ksg_geo",
+  "texture": "hare:gun/uv/ksg_uv",
+  "hud": "hare:gun/hud/ksg_hud",
+  "slot": "hare:gun/slot/ksg_slot",
+  // 弹药计量样式，可选值：”normal“(显示实际值)、”percent“(显示百分比)，默认为”normal“
+  "ammo_count_style": "normal",
+  // tooltip的伤害显示样式，可选值：”total“(总伤害)、”per_projectile“(单发弹丸伤害x弹丸数量)，默认为”per_projectile“
+  "damage_style": "per_projectile",
+  "animation": "hare:ksg",
+  "state_machine": "hare:ksg_state_machine",
+  "state_machine_param": {
+    "bolt_shell_ejecting_time": 0.17,
+    "intro_shell_ejecting_time": 0.4
+  },
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "show_crosshair": false,
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.2
+  },
+  "iron_zoom": 1.2,
+  "zoom_model_fov": 35,
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [3, 3, 0.5],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -960, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "draw": "hare:ksg/ksg_draw",
+    "shoot": "hare:ksg/ksg_shoot",
+    "shoot_3p": "hare:ksg/ksg_shoot_3p",
+    "silence": "hare:six12/six12_silence",
+    "silence_3p": "tacz:aa12/aa12_silence_3p",
+    "put_away": "hare:ksg/ksg_put_away",
+    "melee_push": "tacz:melee_stock/melee_stock_02",
+    "melee_stock": "tacz:melee_stock/melee_stock_03"
+  },
+  // 副手枪械显示
+  "offhand_show": {
+    "pos": [1, 20, 3.5],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  },
+  "controllable": {
+    "semi": {
+      "low_frequency": 0.25,
+      "high_frequency": 0.5,
+      "time": 100
+    }
+  }
+}

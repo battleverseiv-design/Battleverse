@@ -1,0 +1,9 @@
+
+["枪械伤害计算设置"]
+	#枪械伤害计算模式
+	#MAX: 通用与特定取最大值
+	#ADDITIVE: 通用+特定-1
+	#MULTIPLICATIVE: 通用*特定
+	#Allowed Values: MAX, ADDITIVE, MULTIPLICATIVE
+	damageCalculationMode = "MAX"
+

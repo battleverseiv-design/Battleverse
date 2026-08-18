@@ -1,0 +1,20 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "cyber_armorer:material_2"
+        }
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "cyber_armorer:bullet_buckshot_smart",
+    "count": 30
+  }
+}

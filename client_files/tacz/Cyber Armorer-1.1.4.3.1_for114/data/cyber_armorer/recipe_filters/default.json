@@ -1,0 +1,7 @@
+{
+  "whitelist": [
+    "^cyber_armorer:.*$"
+  ],
+  "blacklist": [
+  ]
+}

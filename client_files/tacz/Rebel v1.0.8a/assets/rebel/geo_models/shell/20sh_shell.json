@@ -1,0 +1,48 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 8,
+				"texture_height": 8,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2,
+				"visible_bounds_offset": [0, 0, 0]
+			},
+			"bones": [
+				{
+					"name": "12ga_bullet",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-0.34627, -0.34627, -1.79865],
+							"size": [0.69254, 0.69254, 2.30954],
+							"inflate": 0.003,
+							"uv": {
+								"north": {"uv": [4, 0], "uv_size": [0.5, 0.5]},
+								"east": {"uv": [0, 0], "uv_size": [2.5, 0.5]},
+								"west": {"uv": [0, 1], "uv_size": [2.5, 0.5]},
+								"up": {"uv": [0, 2], "uv_size": [0.5, 2.5]},
+								"down": {"uv": [1, 4.5], "uv_size": [0.5, -2.5]}
+							}
+						},
+						{
+							"origin": [-0.40402, -0.40402, 0.51135],
+							"size": [0.80804, 0.80804, 0.11504],
+							"inflate": 0.003,
+							"uv": {
+								"north": {"uv": [2, 2], "uv_size": [1, 1]},
+								"east": {"uv": [3, 1], "uv_size": [0.5, 1]},
+								"south": {"uv": [3, 0], "uv_size": [1, 1]},
+								"west": {"uv": [2, 3], "uv_size": [0.5, 1]},
+								"up": {"uv": [3, 2], "uv_size": [1, 0.5]},
+								"down": {"uv": [3, 3.5], "uv_size": [1, -0.5]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

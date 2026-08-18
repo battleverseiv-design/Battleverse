@@ -1,0 +1,9 @@
+{
+  "slot": "immersive_armorer:attachment/slot/stock_crude",
+  "model": "immersive_armorer:attachment/stock_crude",
+  "texture": "immersive_armorer:attachment/uv/stock_crude",
+  "sounds": {
+    "install": "immersive_armorer:attachments/attachment_install_big",
+    "uninstall": "immersive_armorer:attachments/attachment_uninstall"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "melee": {
+    "distance": 4,
+    "range_angle": 30,
+    "cooldown": 0,
+    "damage": 14,
+    "knockback": 0.1,
+    "prep": 0.29,
+    "effects": [
+      {
+        "id": "minecraft:wither",
+        "time": 3,
+        "amplifier": 3,
+        "hide_particles": true
+      }
+    ]
+  }
+}

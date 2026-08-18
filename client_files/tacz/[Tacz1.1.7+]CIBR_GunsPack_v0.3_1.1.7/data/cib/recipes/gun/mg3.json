@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 107
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 45
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 45
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cib:mg3"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

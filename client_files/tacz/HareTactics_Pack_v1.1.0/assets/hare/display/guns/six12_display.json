@@ -1,0 +1,54 @@
+{
+  "model": "hare:gun/six12_geo",
+  "texture": "hare:gun/uv/six12_uv",
+  "hud": "hare:gun/hud/six12_hud",
+  "slot": "hare:gun/slot/six12",
+  "animation": "hare:six12",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.3, 1.3, 1.3]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "hare:six12/six12_shoot",
+    "shoot_3p": "tacz:aa12/aa12_shoot_3p",
+    "silence": "hare:six12/six12_silence",
+    "silence_3p": "tacz:aa12/aa12_silence_3p",
+    "reload_empty": "hare:six12/six12_reload",
+    "reload_tactical": "hare:six12/six12_reload",
+    "inspect": "hare:six12/six12_inspect",
+    "inspect_empty": "hare:six12/six12_inspect",
+    "draw": "hare:ks1/ks1_draw",
+    "put_away": "hare:ks1/ks1_put_away",
+    "flesh_hit": "tacz:hitsounds/hit_indication",
+    "head_hit": "tacz:hitsounds/hit_marker",
+    "kill": "tacz:hitsounds/killsound"
+  },
+  "offhand_show": {
+    "pos": [1, 19, 4],
+    "rotate": [0, 0, 50],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

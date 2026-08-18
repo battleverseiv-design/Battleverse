@@ -1,0 +1,58 @@
+[
+  {
+    "id": "default_match_hud",
+    "name": "Ã‡Ú˜ HUD",
+    "enabled": true,
+    "targetState": "IN_GAME",
+    "zIndex": 0,
+    "elements": [
+      {
+        "width": 180,
+        "height": 24,
+        "borderColorHex": 0,
+        "borderThickness": 0,
+        "cornerRadius": 0,
+        "id": "match_bg",
+        "type": "rect",
+        "alignX": "center",
+        "alignY": "top",
+        "x": 0,
+        "y": 5,
+        "zIndex": 0,
+        "opacity": 1.0,
+        "showIf": "",
+        "colorHex": -1879048192
+      },
+      {
+        "text": "ß6%arenamaster:arena% ß7| ße%arenamaster:timer%",
+        "scale": 1.0,
+        "shadow": true,
+        "id": "match_title",
+        "type": "text",
+        "alignX": "center",
+        "alignY": "top",
+        "x": 0,
+        "y": 10,
+        "zIndex": 0,
+        "opacity": 1.0,
+        "showIf": "",
+        "colorHex": -1
+      },
+      {
+        "text": "ßa¡‡Î‡ÌÒ: ßf$%arenamaster:money%",
+        "scale": 1.0,
+        "shadow": true,
+        "id": "money_hud",
+        "type": "text",
+        "alignX": "right",
+        "alignY": "top",
+        "x": -10,
+        "y": 10,
+        "zIndex": 0,
+        "opacity": 1.0,
+        "showIf": "",
+        "colorHex": -1
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+{
+    "name": "immersive_armorer.gun.railgun",
+    "display": "immersive_armorer:railgun_display",
+    "data": "immersive_armorer:railgun_data",
+    "tooltip": "immersive_armorer.tooltip.railgun",
+    "type": "sniper",
+    "sort": 300
+}

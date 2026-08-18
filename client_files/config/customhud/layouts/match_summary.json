@@ -1,0 +1,90 @@
+{
+  "id": "match_summary",
+  "name": "Match Results Overlay",
+  "targetState": "VICTORY",
+  "zIndex": 450,
+  "elements": [
+    {
+      "id": "summary_bg",
+      "type": "rect",
+      "alignX": "center",
+      "alignY": "center",
+      "x": 0,
+      "y": -20,
+      "width": 260,
+      "height": 130,
+      "color": "#E6080B12",
+      "borderRadius": 8,
+      "borderWidth": 1,
+      "borderColor": "#CC00E5FF"
+    },
+    {
+      "id": "summary_title",
+      "type": "text",
+      "alignX": "center",
+      "alignY": "center",
+      "x": 0,
+      "y": -72,
+      "scale": 1.3,
+      "text": "&b&l%session_result%",
+      "color": "#00E5FF",
+      "shadow": true
+    },
+    {
+      "id": "summary_winner",
+      "type": "text",
+      "alignX": "center",
+      "alignY": "center",
+      "x": 0,
+      "y": -52,
+      "scale": 0.8,
+      "text": "&fПобедитель: &e%session_winner%",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "summary_kills",
+      "type": "text",
+      "alignX": "center",
+      "alignY": "center",
+      "x": -60,
+      "y": -25,
+      "scale": 0.9,
+      "text": "&a⚔ Убийств: &l+%session_kills%",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "summary_deaths",
+      "type": "text",
+      "alignX": "center",
+      "alignY": "center",
+      "x": 60,
+      "y": -25,
+      "scale": 0.9,
+      "text": "&c☠ Смертей: &l%session_deaths%",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "summary_money",
+      "type": "text",
+      "alignX": "center",
+      "alignY": "center",
+      "x": 0,
+      "y": 0,
+      "scale": 1.0,
+      "text": "&a$ Заработано: &e&l+$%session_money_anim%",
+      "color": "#55FF55",
+      "shadow": true
+    },
+    {
+      "id": "summary_footer",
+      "type": "text",
+      "alignX": "center",
+      "alignY": "center",
+      "x": 0,
+      "y": 25,
+      "scale": 0.7,
+      "text": "&7Отмена и возврат через %arenamaster:timer_ms_short% сек. (&eНажмите Tab/Menu чтобы выйти&7)",
+      "color": "#AAAAAA"
+    }
+  ]
+}

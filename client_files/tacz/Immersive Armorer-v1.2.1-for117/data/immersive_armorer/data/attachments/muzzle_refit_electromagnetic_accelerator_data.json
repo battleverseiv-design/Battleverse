@@ -1,0 +1,27 @@
+{
+  "weight": 0.5,
+  "recoil": {
+    "yaw": {
+      "addend": 1
+    },
+    "pitch": {
+      "addend": 2
+    }
+  },
+  "damage": {
+    "addend": 8
+  },
+  "effective_range": {
+    "addend": 10
+  },
+  "ammo_speed": {
+    "addend": 60
+  },
+  "silence": {
+  "distance_addend": 5,
+  "use_silence_sound": true
+  },
+  "armor_ignore":{
+    "addend": 0.2
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "whitelist": [
+  ],
+  "blacklist": [
+    "^immersive_armorer:.*$"
+  ]
+}

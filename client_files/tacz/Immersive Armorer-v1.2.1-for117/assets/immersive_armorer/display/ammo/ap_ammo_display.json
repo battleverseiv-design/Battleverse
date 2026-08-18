@@ -1,0 +1,8 @@
+{
+  "slot": "immersive_armorer:ammo/slot/ap_ammo",
+  "tracer_color": "#27ff2b",
+  "shell": {
+    "model": "tacz:shell/556x45_shell",
+    "texture": "tacz:shell/556x45_shell"
+  }
+}

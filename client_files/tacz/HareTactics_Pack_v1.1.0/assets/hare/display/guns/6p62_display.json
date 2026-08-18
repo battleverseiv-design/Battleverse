@@ -1,0 +1,67 @@
+{
+  "model": "hare:gun/6p62_geo",
+  "texture": "hare:gun/uv/6p62_uv",
+  "hud": "hare:gun/hud/6p62_hud",
+  "slot": "hare:gun/slot/6p62_slot",
+  "animation": "hare:6p62",
+  "state_machine": "hare:mk12_state_machine",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "iron_zoom": 1.33,
+  "zoom_model_fov": 55,
+  "shell": {
+    "initial_velocity": [3, -0.5, 0.25],
+    "random_velocity": [3, 0.5, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -3000, 90],
+    "living_time": 1.0
+  },
+  // 子弹相关渲染参数。ammo display 里也有，但是会被这里的参数覆盖掉
+  "ammo": {
+        "tracer_color": "#FF8888",
+        "particle": {
+          "name": "mycelium",
+          "delta": [
+            0,
+            0,
+            0
+          ],
+          "speed": 0,
+          "life_time": 1,
+          "count": 1
+        }
+  },
+  "sounds": {
+    "shoot": "hare:6p62/6p62_shoot",
+    "shoot_3p": "hare:6p62/6p62_shoot_3p",
+    "draw": "hare:6p62/6p62_draw",
+    "put_away": "hare:6p62/6p62_put_away",
+    "silence": "hare:6p62/6p62_silence",
+    "silence_3p": "hare:6p62/6p62_silence_3p",
+    "melee_push": "tacz:melee_stock/melee_stock_02",
+    "melee_stock": "tacz:melee_stock/melee_stock_03"
+  },
+  "offhand_show": {
+    "pos": [0, 18, 5],
+    "rotate": [-20, 0, 30],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-4, 24, 4],
+      "rotate": [-90, -5, -90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

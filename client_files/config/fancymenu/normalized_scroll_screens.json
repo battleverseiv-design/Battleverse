@@ -1,0 +1,14 @@
+{
+  "disconnected_screen": false,
+  "mouse_settings_screen": true,
+  "container_screen": true,
+  "sound_options_screen": true,
+  "creative_mode_inventory_screen": false,
+  "progress_screen": true,
+  "options_screen": true,
+  "inventory_screen": true,
+  "title_screen": true,
+  "pause_screen": true,
+  "controls_screen": true,
+  "net.customhud.client.HudInteractScreen": true
+}

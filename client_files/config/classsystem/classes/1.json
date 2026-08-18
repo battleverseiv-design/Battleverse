@@ -1,0 +1,17 @@
+{
+  "id": "1",
+  "displayName": "1",
+  "maxHealthMultiplier": 1.0,
+  "sizeMultiplier": 2.0,
+  "speedMultiplier": 1.0,
+  "attackMultiplier": 1.0,
+  "attackSpeedMultiplier": 1.0,
+  "defenseMultiplier": 1.0,
+  "reachMultiplier": 1.0,
+  "stepHeightMultiplier": 1.0,
+  "jumpHeightMultiplier": 1.0,
+  "knockbackMultiplier": 1.0,
+  "miningSpeedMultiplier": 1.0,
+  "price": 0,
+  "canHeal": true
+}

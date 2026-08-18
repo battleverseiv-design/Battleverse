@@ -1,0 +1,9 @@
+{
+  "name": "cib.gun.pp19.name",
+  "display": "cib:pp19_display",
+  "data": "cib:pp19_data",
+  "type": "smg",
+  "tooltip": "cib.gun.pp19.desc",
+  "item_type": "modern_kinetic",
+  "sort": 2461600
+}

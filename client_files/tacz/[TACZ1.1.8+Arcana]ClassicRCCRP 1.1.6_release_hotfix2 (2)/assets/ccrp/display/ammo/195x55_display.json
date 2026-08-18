@@ -1,0 +1,29 @@
+{
+  "model": "tacz:ammo/40mm",
+  "texture": "tacz:ammo/uv/40mm",
+  "slot": "ccrp:ammo/slot/195x55",
+  "shell": {
+    "model": "tacz:shell/40mm_shell",
+    "texture": "tacz:shell/40mm_shell"
+  },
+  "tracer_color": "#FF8888",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  }
+}

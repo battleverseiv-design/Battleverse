@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 50
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/yellow"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "hare:ks1",
+	"attachments": {
+      "muzzle": "hare:muzzle_silencer_ks1",
+	  "stock": "hare:stock_moe"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

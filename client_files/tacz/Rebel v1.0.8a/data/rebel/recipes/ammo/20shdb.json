@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:gunpowder"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:gravel"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "rebel:20shdb",
+    "count": 8
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

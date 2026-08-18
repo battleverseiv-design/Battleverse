@@ -1,0 +1,19 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "cyber_armorer:material_2"
+        }
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "cyber_armorer:mod_ap"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

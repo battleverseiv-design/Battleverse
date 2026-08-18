@@ -1,0 +1,19 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "cyber_armorer:cyber_extended_mag_2"
+        }
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "cyber_armorer:cyber_extended_mag_3"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

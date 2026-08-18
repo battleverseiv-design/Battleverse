@@ -1,0 +1,7 @@
+{
+  "name": "immersive_armorer.attachment.muzzle_refit_melted_metal_spitter.name",
+  "display": "immersive_armorer:muzzle_refit_melted_metal_spitter_display",
+  "data": "immersive_armorer:muzzle_refit_melted_metal_spitter_data",
+  "tooltip": "immersive_armorer.tooltip.attachment.muzzle_refit_melted_metal_spitter",
+  "type": "muzzle"
+}

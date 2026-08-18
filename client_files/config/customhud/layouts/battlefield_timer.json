@@ -1,0 +1,28 @@
+[
+  {
+    "id": "battlefield_hud",
+    "type": "bf_timer",
+    "timer": "bf_timer",
+    "text": "&bDEPLOYING &f%timer:bf_timer%",
+    "format": "s2",
+    "max": 5000,
+    "alignX": "center",
+    "alignY": "bottom",
+    "y": -45,
+    "scale": 0.95,
+    "barWidth": 200,
+    "barHeight": 5,
+    "barRadius": 2,
+    "barColor": "#FF0022AA",
+    "barColor2": "#FF00F0FF",
+    "barBgColor": "#99080B10",
+    "spark": true,
+    "sparkColor": "#FFFFFFFF",
+    "glowColor": "#AA00F0FF",
+    "alignX": "center",
+    "alignY": "bottom",
+    "y": -45,
+    "hideWhenDone": true,
+    "renderMode": "overlay"
+  }
+]

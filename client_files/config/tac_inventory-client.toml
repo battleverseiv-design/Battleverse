@@ -1,0 +1,37 @@
+
+["Custom Tactical Shooter HUD"]
+	#Enable modern shooter-style custom Health bar.
+	customHealthEnabled = true
+	#Enable modern shooter-style custom Armor badge.
+	customArmorEnabled = true
+	#Enable custom Food/Stamina indicator.
+	customFoodEnabled = true
+	#Enable custom Underwater Air indicator.
+	customAirEnabled = true
+	#Display Health as percentage (e.g. 100%) instead of raw numbers (e.g. 20/20).
+	healthDisplayPercent = false
+	#HUD X position (pixels from left of screen).
+	#Range: -2000 ~ 4000
+	hudOffsetX = 21
+	#HUD Y offset (pixels from bottom of screen).
+	#Range: -2000 ~ 4000
+	hudOffsetY = 32
+
+["Vanilla HUD Visibility Controls"]
+	#Hide vanilla hearts bar.
+	hideVanillaHealth = true
+	#Hide vanilla armor bar.
+	hideVanillaArmor = true
+	#Hide vanilla hunger bar.
+	hideVanillaFood = true
+	#Hide vanilla air bubbles.
+	hideVanillaAir = true
+	#Hide vanilla experience bar.
+	hideVanillaExp = false
+	#Hide vanilla hotbar.
+	hideVanillaHotbar = false
+
+["Inventory Automation"]
+	#If true, tagged items automatically move to designated slots.
+	autoSortEnabled = true
+

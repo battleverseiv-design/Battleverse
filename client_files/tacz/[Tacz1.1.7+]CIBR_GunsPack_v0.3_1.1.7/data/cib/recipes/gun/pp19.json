@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 34
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 12
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cib:pp19"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

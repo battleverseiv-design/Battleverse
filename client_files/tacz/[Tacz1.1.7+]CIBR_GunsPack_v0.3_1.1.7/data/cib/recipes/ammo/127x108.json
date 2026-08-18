@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 90
+    },
+    {
+      "item": {
+        "tag": "forge:gunpowder"
+      },
+      "count": 17
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      }
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "cib:127x108",
+    "count": 24
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "immersive_armorer.gun.revolver",
+    "display": "immersive_armorer:revolver_display",
+    "data": "immersive_armorer:revolver_data",
+    "tooltip": "immersive_armorer.tooltip.revolver",
+    "type": "pistol",
+    "sort": 304
+}

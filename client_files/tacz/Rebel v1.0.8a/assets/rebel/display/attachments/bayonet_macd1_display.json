@@ -1,0 +1,10 @@
+{
+  "slot": "rebel:attachment/slot/bayonet_macd1",
+  "model": "rebel:attachment/bayonet_macd1",
+  "texture": "rebel:attachment/uv/bayonet_macd1",
+  "show_muzzle": true,
+  "sounds": {
+    "install": "tacz:attachments/bayonet_install",
+    "uninstall": "tacz:attachments/bayonet_uninstall"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.muzzle_refit_face_melter.name",
+  "display": "immersive_armorer:muzzle_refit_face_melter_display",
+  "data": "immersive_armorer:muzzle_refit_face_melter_data",
+  "type": "muzzle"
+}

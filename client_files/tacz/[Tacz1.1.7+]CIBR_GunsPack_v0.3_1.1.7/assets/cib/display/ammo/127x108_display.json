@@ -1,0 +1,30 @@
+{
+  "model": "cib:ammo/127x108_geo",
+  // 渲染模型使用的材质
+  "texture": "cib:ammo/uv/127x108",
+  "slot": "cib:ammo/slot/127x108",
+  "shell": {
+    "model": "cib:shell/127x108_shell",
+    "texture": "cib:shell/127x108"
+  },
+  "tracer_color": "#FF9999",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "ground": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "fixed": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}

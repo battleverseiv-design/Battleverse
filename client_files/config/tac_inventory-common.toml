@@ -1,0 +1,44 @@
+
+["Custom Tactical Shooter HUD"]
+	#Enable modern shooter-style custom Health bar.
+	customHealthEnabled = false
+	#Enable modern shooter-style custom Armor badge.
+	customArmorEnabled = false
+	#Enable custom Food/Stamina indicator.
+	customFoodEnabled = true
+	#Enable custom Underwater Air indicator.
+	customAirEnabled = false
+	#Master toggle for ArenaMaster integration.
+	customArenaEnabled = false
+	#Display Health as percentage (e.g. 100%) instead of raw numbers (e.g. 20/20).
+	healthDisplayPercent = false
+	#HUD X position (pixels from left of screen).
+	#Range: -2000 ~ 4000
+	hudOffsetX = 10
+	#HUD Y offset (pixels from bottom of screen).
+	#Range: -2000 ~ 4000
+	hudOffsetY = 10
+	#Display ArenaMaster Lives in HUD.
+	customArenaLivesEnabled = false
+	#HUD Scale factor (0.5 to 3.0).
+	#Range: 0.2 ~ 3.5
+	hudScale = 0.8
+
+["Vanilla HUD Visibility Controls"]
+	#Hide vanilla hearts bar.
+	hideVanillaHealth = false
+	#Hide vanilla armor bar.
+	hideVanillaArmor = false
+	#Hide vanilla hunger bar.
+	hideVanillaFood = false
+	#Hide vanilla air bubbles.
+	hideVanillaAir = false
+	#Hide vanilla experience bar.
+	hideVanillaExp = false
+	#Hide vanilla hotbar in survival.
+	hideVanillaHotbar = false
+
+["Loadout Inventory Screen"]
+	#Enable custom TAC Shooter Loadout inventory screen (E). If false, opens default vanilla inventory.
+	customInventoryEnabled = true
+

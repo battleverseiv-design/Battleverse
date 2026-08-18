@@ -1,0 +1,7 @@
+{
+  "name": "cyber_armorer.attachment.optic_01_05.name",
+  "display": "cyber_armorer:optic_01_05_display",
+  "data": "cyber_armorer:optic_01_05_data",
+  "type": "scope",
+  "hidden": true
+}

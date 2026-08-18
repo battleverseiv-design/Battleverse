@@ -1,0 +1,9 @@
+{
+  "name": "cib.gun.ppk.name",
+  "display": "cib:ppk_display",
+  "data": "cib:ppk_data",
+  "type": "pistol",
+  "tooltip": "cib.gun.ppk.desc",
+  "item_type": "modern_kinetic",
+  "sort": 2461600
+}

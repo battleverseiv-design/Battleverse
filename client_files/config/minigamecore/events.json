@@ -1,0 +1,74 @@
+{
+  "ON_JOIN": [
+    "#     ( )",
+    "[delay:10] customhud %player% show pre_match",
+    "[sound] minecraft:entity.experience_orb.pickup 1.0 1.2",
+    "[actionbar] a    e%arena%a!"
+  ],
+  "ON_READY": [
+    "#   ",
+    "[sound] minecraft:block.note_block.pling 1.0 1.5",
+    "[actionbar] a ! 7(%players%/%min_players%)"
+  ],
+  "ON_COUNTDOWN": [
+    "#    (    timer <= 5)",
+    "[title] e%timer_raw%",
+    "[sound] minecraft:block.note_block.hat 1.0 1.0"
+  ],
+  "ON_START": [
+    "#   - !",
+    "customhud %player% hide pre_match",
+    "customhud %player% show main_stats",
+    "[title] cl!",
+    "[subtitle] 7: e%mode%",
+    "[sound] minecraft:entity.ender_dragon.growl 0.5 1.5"
+  ],
+  "ON_KILL": [
+    "#   %victim%",
+    "[actionbar] c? f: e%victim% 7(c%kills% kills7)",
+    "[sound] minecraft:entity.experience_orb.pickup 1.0 0.8"
+  ],
+  "ON_DEATH": [
+    "#   ( %killer%)",
+    "[title] c? f !",
+    "[subtitle] 7: c%killer%",
+    "[sound] minecraft:entity.skeleton.death 1.0 0.5"
+  ],
+  "ON_ELIMINATED": [
+    "#      ",
+    "[title] 4l!",
+    "[subtitle] 7  ",
+    "[sound] minecraft:entity.wither.death 0.3 0.5"
+  ],
+  "ON_SPECTATE": [
+    "#   ",
+    "[actionbar] 7 . e/leave 7 "
+  ],
+  "ON_END": [
+    "#   (  )",
+    "customhud %player% hide main_stats",
+    "[title] 6l ",
+    "[subtitle] e: a%winner%",
+    "[sound] minecraft:ui.toast.challenge_complete 1.0 1.0"
+  ],
+  "ON_WIN": [
+    "#   ",
+    "[title] 6l? ! ?",
+    "[subtitle] a+100 ",
+    "[sound] minecraft:ui.toast.challenge_complete 1.0 1.5"
+  ],
+  "ON_LOSE": [
+    "#    ",
+    "[title] cl",
+    "[subtitle] 7+10   "
+  ],
+  "ON_QUIT": [
+    "#    ",
+    "customhud %player% hide pre_match",
+    "customhud %player% hide main_stats",
+    "[sound] minecraft:entity.enderman.teleport 0.5 0.8"
+  ],
+  "ON_RESTART": [
+    "#   ( target-,   )"
+  ]
+}

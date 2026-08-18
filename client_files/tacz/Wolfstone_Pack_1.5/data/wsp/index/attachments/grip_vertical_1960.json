@@ -1,0 +1,7 @@
+{
+  "name": "wsp.attachment.grip_vertical_1960.name",
+  "display": "wsp:grip_vertical_1960_display",
+  "tooltip": "wsp.attachment.grip_vertical_1960.tooltip",
+  "data": "wsp:grip_vertical_1960_data",
+  "type": "grip"
+}

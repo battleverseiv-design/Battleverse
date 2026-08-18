@@ -1,0 +1,10 @@
+{
+
+    "name": "rebel.ammo.200rl.name",
+
+    "display": "rebel:200rl_display",
+
+    "tooltip": "rebel.gun.200rl.desc",
+
+    "stack_size": 60
+  }

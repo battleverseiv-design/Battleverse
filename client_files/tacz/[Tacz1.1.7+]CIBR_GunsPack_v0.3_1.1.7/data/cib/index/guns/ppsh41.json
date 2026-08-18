@@ -1,0 +1,9 @@
+{
+  "name": "cib.gun.ppsh41.name",
+  "display": "cib:ppsh41_display",
+  "data": "cib:ppsh41_data",
+  "type": "smg",
+  "tooltip": "cib.gun.ppsh41.desc",
+  "item_type": "modern_kinetic",
+  "sort": 2461600
+}

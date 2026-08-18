@@ -1,0 +1,8 @@
+{
+  "name": "suffuse.gun.ptrd41.name",
+  "tooltip": "suffuse.gun.ptrd41.desc",
+  "display": "suffuse:ptrd41_display",
+  "data": "suffuse:ptrd41_data",
+  "type": "sniper",
+  "sort": 5
+}

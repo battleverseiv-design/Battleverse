@@ -1,0 +1,23 @@
+{
+  "slot": "immersive_armorer:ammo/slot/cut_steel_rod",
+  "tracer_color": "#effbff",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.4,
+        0.4,
+        0.4
+      ],
+      "ground": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "fixed": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

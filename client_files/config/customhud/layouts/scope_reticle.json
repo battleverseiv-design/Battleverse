@@ -1,0 +1,13 @@
+[
+  {
+    "type": "circle",
+    "x": "0",
+    "y": "0",
+    "alignX": "center",
+    "alignY": "center",
+    "radius": 1,
+    "color": "#FFFF0000",
+    "id": "scope_dot",
+    "scale": 0.03
+  }
+]

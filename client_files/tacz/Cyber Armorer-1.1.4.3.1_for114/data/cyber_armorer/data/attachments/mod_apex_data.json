@@ -1,0 +1,11 @@
+{
+  "inaccuracy": {
+    "multiplier": 0.85
+  },
+  "ads": {
+    "multiplier": 0.85
+  },
+  "head_shot": {
+    "addend": 0.1
+  }
+}

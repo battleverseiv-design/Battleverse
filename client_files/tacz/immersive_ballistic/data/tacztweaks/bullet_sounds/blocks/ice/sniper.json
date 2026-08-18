@@ -1,0 +1,65 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:338",
+      "tacz:45_70",
+      "tacz:30_06",
+      "hamster:long_ammo",
+      "suffuse:.408ct",
+      "suffuse:6.8tvcm"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:ice",
+    "#immersive_ballistic:ice"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.ice.impact",
+      "volume": 0.55
+    },
+    {
+      "sound": "tacztweaks:bullets.impact.sniper",
+      "volume": 1.2,
+      "range": 82
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.sniper",
+      "volume": 1.2,
+      "range": 12
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.ice.impact",
+      "volume": 0.55
+    },
+    {
+      "sound": "tacztweaks:bullets.impact.sniper",
+      "volume": 1.2,
+      "range": 82
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.sniper",
+      "volume": 1.2,
+      "range": 12
+    }
+  ],
+  "break": [
+    {
+      "sound": "tacztweaks:blocks.ice.impact",
+      "volume": 0.55
+    },
+    {
+      "sound": "tacztweaks:bullets.impact.sniper",
+      "volume": 1.2,
+      "range": 82
+    },
+    {
+      "sound": "tacztweaks:blocks.glass.break",
+      "volume": 1.0
+    }
+  ]
+}

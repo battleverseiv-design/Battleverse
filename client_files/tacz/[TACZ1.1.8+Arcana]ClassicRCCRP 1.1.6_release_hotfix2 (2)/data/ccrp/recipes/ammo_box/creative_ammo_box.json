@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "tacz:ammo_box",
+    "nbt": {
+      "Creative": true
+    }
+  },
+  "pattern": [
+    "PIP",
+    "PAP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:ingots/netherite"
+    },
+    "A": {
+			"item": "minecraft:dragon_egg"
+		},
+    "I": {
+      "item": "minecraft:end_portal_frame"
+    }
+  }
+}

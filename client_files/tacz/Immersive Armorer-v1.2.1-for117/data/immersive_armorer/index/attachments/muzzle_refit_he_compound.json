@@ -1,0 +1,7 @@
+{
+  "name": "immersive_armorer.attachment.muzzle_refit_he_compound.name",
+  "display": "immersive_armorer:muzzle_refit_he_compound_display",
+  "data": "immersive_armorer:muzzle_refit_he_compound_data",
+  "tooltip": "immersive_armorer.tooltip.attachment.muzzle_refit_he_compound",
+  "type": "muzzle"
+}

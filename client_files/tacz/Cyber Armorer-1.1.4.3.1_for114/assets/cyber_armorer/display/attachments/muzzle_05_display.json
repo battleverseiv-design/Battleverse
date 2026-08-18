@@ -1,0 +1,9 @@
+{
+  "slot": "cyber_armorer:attachment/slot/muzzle_05",
+  "model": "cyber_armorer:attachment/muzzle_05",
+  "texture": "cyber_armorer:attachment/uv/muzzle_05",
+  "sounds": {
+    "install": "cyber_armorer:misc/attachment_on",
+    "uninstall": "cyber_armorer:misc/attachment_off"
+  }
+}

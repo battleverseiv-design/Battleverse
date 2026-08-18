@@ -1,0 +1,12 @@
+
+["Configure how perspective is handled while using TACZ guns"]
+	#If enabled, holding the aim button will put you in/out of first person view
+	#This option overrides "switch_first_person_scoping"
+	#This only works while TACZ's Config: tacz-client.key.holdToAim is set to true
+	#Default: false
+	switch_first_person_aiming = false
+	#If enabled, only when holding the aim button on a gun with a scope attachment will put you in/out of first person view
+	#This only works while TACZ's Config: tacz-client.key.holdToAim is set to true
+	#Default: true
+	switch_first_person_scoping = true
+

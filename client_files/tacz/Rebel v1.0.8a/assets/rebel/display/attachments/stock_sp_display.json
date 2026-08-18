@@ -1,0 +1,10 @@
+{
+  "slot": "rebel:attachment/slot/stock_sp",
+  "model": "rebel:attachment/stock_sp",
+  "texture": "rebel:attachment/uv/stock_sp",
+
+  "sounds": {
+   "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

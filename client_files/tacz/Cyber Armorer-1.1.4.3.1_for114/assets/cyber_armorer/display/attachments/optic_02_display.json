@@ -1,0 +1,14 @@
+{
+  "slot": "cyber_armorer:attachment/slot/optic_02",
+  "model": "cyber_armorer:attachment/optic_02",
+  "texture": "cyber_armorer:attachment/uv/optic_02",
+  "zoom": [
+    2
+  ],
+  "scope": true,
+  "fov": 60.0,
+  "sounds": {
+    "install": "cyber_armorer:misc/attachment_on",
+    "uninstall": "cyber_armorer:misc/attachment_off"
+  }
+}

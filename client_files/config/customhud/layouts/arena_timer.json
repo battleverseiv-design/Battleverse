@@ -1,0 +1,38 @@
+[
+  {
+    "id": "arena_timer_bg",
+    "type": "rect",
+    "alignX": "center",
+    "alignY": "top",
+    "x": -65,
+    "y": 12,
+    "width": 130,
+    "height": 34,
+    "color": "#D90D1117",
+    "borderRadius": 8,
+    "borderWidth": 1,
+    "borderColor": "#6600E5FF"
+  },
+  {
+    "id": "arena_timer_title",
+    "type": "text",
+    "alignX": "center",
+    "alignY": "top",
+    "x": 0,
+    "y": 16,
+    "text": "&b&lВРЕМЯ МАТЧА: &f%arenamaster:timer%",
+    "scale": 1.0,
+    "shadow": true
+  },
+  {
+    "id": "arena_timer_sub",
+    "type": "text",
+    "alignX": "center",
+    "alignY": "top",
+    "x": 0,
+    "y": 30,
+    "text": "&7Игроков: &a%arenamaster:players%",
+    "scale": 0.85,
+    "shadow": true
+  }
+]

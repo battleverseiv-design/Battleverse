@@ -1,0 +1,8 @@
+{
+  "name": "hare.gun.mccs5.name",
+  "display": "hare:mccs5_display",
+  "data": "hare:mccs5_data",
+  "tooltip": "hare.gun.mccs5.desc",
+  "type": "sniper",
+  "sort": 22
+}

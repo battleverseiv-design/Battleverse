@@ -1,0 +1,15 @@
+{
+  "slot": "immersive_armorer:attachment/slot/sight_simple_reflex",
+  "model": "immersive_armorer:attachment/sight_simple_reflex",
+  "texture": "immersive_armorer:attachment/uv/sight_simple_reflex",
+
+  "zoom": [
+    1.33
+  ],
+  "sight": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "immersive_armorer:attachments/attachment_install_small",
+    "uninstall": "immersive_armorer:attachments/attachment_uninstall"
+  }
+}

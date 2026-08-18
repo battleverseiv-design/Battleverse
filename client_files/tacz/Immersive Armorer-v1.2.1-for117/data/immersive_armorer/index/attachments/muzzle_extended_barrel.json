@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.muzzle_extended_barrel.name",
+  "display": "immersive_armorer:muzzle_extended_barrel_display",
+  "data": "immersive_armorer:muzzle_extended_barrel_data",
+  "type": "muzzle"
+}

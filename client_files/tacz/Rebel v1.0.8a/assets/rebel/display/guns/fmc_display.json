@@ -1,0 +1,49 @@
+{
+  "model": "rebel:gun/fmc_geo",
+  "texture": "rebel:gun/uv/fmc",
+  "hud": "rebel:gun/hud/fmc",
+  "slot": "rebel:gun/slot/fmc",
+  "animation": "rebel:fmc",
+  "show_crosshair": true,
+  "use_default_animation": "rifle",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.8, 0.8, 0.8],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+        
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0.1
+  },
+
+  "sounds": {
+    "reload_empty": "rebel:fmc/fmc_reload_empty",
+    "reload_tactical": "rebel:fmc/fmc_reload_tactical",
+    "inspect": "rebel:fmc/fmc_inspect",
+    "inspect_empty": "rebel:fmc/fmc_inspect_empty",
+    "draw": "rebel:fmc/fmc_draw",
+    "put_away": "rebel:fmc/fmc_put_away",
+    "dry_fire": "rebel:dry_fire",
+    "flesh_hit": "rebel:flesh_hit",
+    "head_hit": "rebel:head_hit",
+    "kill": "rebel:kill",
+    "shoot": "rebel:fmc/fmc_shoot",
+    "shoot_3p": "rebel:fmc/fmc_shoot_3p"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -2],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-5, 13, -2],
+      "rotate": [-90, -35, 90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

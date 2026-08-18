@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.stock_simple.name",
+  "display": "immersive_armorer:stock_simple_display",
+  "data": "immersive_armorer:stock_simple_data",
+  "type": "stock"
+}

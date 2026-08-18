@@ -1,0 +1,29 @@
+{
+  "model": "suffuse:melee/crowbar_classic_geo",
+  "animation": "suffuse:melee/crowbar_classic",
+  "state_machine": "suffuse:default_melee_state_machine",
+  "texture": "suffuse:melee/crowbar_classic",
+  "slot_texture": "suffuse:melee/slot/crowbar_classic",
+  "sounds": {
+    "crit": "minecraft:entity.player.attack.crit"
+  },
+  "transforms": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        5,
+        10
+      ],
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "cyber_armorer.attachment.mod_consentrate.name",
+  "display": "cyber_armorer:mod_consentrate_display",
+  "data": "cyber_armorer:mod_consentrate_data",
+  "type": "extended_mag"
+}

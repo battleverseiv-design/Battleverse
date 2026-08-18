@@ -1,0 +1,87 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:dirt",
+    "#immersive_ballistic:dirt",
+    "#tacztweaks:grass",
+    "#immersive_ballistic:grass"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:smoke minecraft:dirt 6",
+      "count": 1,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:impact_dirt minecraft:dirt 5",
+      "count": 2,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:debris minecraft:spruce_wood 0.2",
+      "count": 20,
+      "speed": 4,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block %s",
+      "count": 10,
+      "speed": 2,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "immersive_ballistic:debris minecraft:spruce_wood 0.2",
+      "count": 10,
+      "speed": 5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:impact_dirt minecraft:dirt 5",
+      "count": 2,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:smoke minecraft:spruce_wood 6",
+      "count": 1,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block %s",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    }
+  ],
+  "break": [
+    {
+      "particle": "immersive_ballistic:debris %s 0.2",
+      "count": 10,
+      "speed": 5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:explosion_smoke 2.5",
+      "count": 1,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block %s",
+      "count": 20,
+      "speed": 2,
+      "force": true
+    }
+  ]
+}

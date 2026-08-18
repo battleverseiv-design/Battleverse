@@ -1,0 +1,24 @@
+{
+    "model": "rebel:ammo/35he",
+    "texture": "rebel:ammo/uv/35he",
+    "slot": "rebel:ammo/slot/35he",
+
+
+    "particle": {
+
+      "name": "smoke",
+
+      "delta": [
+        0,
+        0,
+        0
+      ],
+
+      "speed": 0,
+
+      "life_time": 50,
+
+      "count": 5
+    }
+  }
+

@@ -1,0 +1,7 @@
+{
+  "name": "immersive_armorer.attachment.bayonet_revolver.name",
+  "display": "immersive_armorer:bayonet_revolver_display",
+  "data": "immersive_armorer:bayonet_revolver_data",
+  "tooltip": "immersive_armorer.tooltip.attachment.bayonet_revolver",
+  "type": "muzzle"
+}

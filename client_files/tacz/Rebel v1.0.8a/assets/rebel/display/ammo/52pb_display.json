@@ -1,0 +1,15 @@
+{
+
+    "slot": "rebel:ammo/slot/52pb",
+    "model":"rebel:ammo/52pb",
+    "texture":"rebel:ammo/uv/52pb",
+
+    "shell": {
+    
+        "model": "rebel:shell/52pb_shell",
+    "texture": "rebel:shell/52pb_shell"
+
+     },
+     "tracer_color": "#FF9999"
+
+}

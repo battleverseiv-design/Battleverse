@@ -1,0 +1,17 @@
+{
+  "enableChatMessages": false,
+  "enableTitleMessages": false,
+  "enableActionbarMessages": true,
+  "globalSpawnTeleport": "§a[ArenaMaster] Телепортирование на главный спавн сервера...",
+  "joinLobby": "§a[ArenaMaster] Вы успешно присоединились к лобби ожидания арены \u0027%arena%\u0027!",
+  "joinArenaDirect": "§a[ArenaMaster] Вы присоединились к арене \u0027%arena%\u0027!",
+  "adventureModeApplied": "",
+  "countdownMessage": "",
+  "matchStartTitle": "§a? МАТЧ НАЧАЛСЯ! ?",
+  "matchStartSubtitle": "§fУдачи на арене %arena%!",
+  "testMatchStarted": "§a[ArenaMaster] ? ТЕСТОВЫЙ МАТЧ ДЛЯ АРЕНЫ \u0027%arena%\u0027 ЗАПУЩЕН!",
+  "playerReady": "§a[ArenaMaster] Вы подтвердили готовность к матчу!",
+  "zoneWarning": "§e?? Внимание: Вы приближаетесь к краю зоны \u0027%zone%\u0027!",
+  "zoneDamage": "§c?? Слишком близко к барьеру зоны \u0027%zone%\u0027! Получение урона!",
+  "zonePushback": "§c[Опасность] Вы вышли за пределы защищенной области \u0027%zone%\u0027!"
+}

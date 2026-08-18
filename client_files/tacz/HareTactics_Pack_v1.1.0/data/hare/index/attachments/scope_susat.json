@@ -1,0 +1,7 @@
+{
+  "hidden": false,
+  "name": "hare.attachment.scope_susat.name",
+  "display": "hare:scope_susat_display",
+  "data": "hare:scope_susat_data",
+  "type": "scope"
+}

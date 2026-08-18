@@ -1,0 +1,9 @@
+{
+  "slot": "immersive_armorer:attachment/slot/stock_steady",
+  "model": "immersive_armorer:attachment/stock_steady",
+  "texture": "immersive_armorer:attachment/uv/stock_steady",
+  "sounds": {
+    "install": "immersive_armorer:attachments/attachment_install_big",
+    "uninstall": "immersive_armorer:attachments/attachment_uninstall"
+  }
+}

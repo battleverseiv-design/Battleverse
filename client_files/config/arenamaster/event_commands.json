@@ -1,0 +1,15 @@
+{
+  "onCountdownStartCommands": [
+    "arenamaster timer start countdown %seconds% deploying_timer"
+  ],
+  "onMatchStartCommands": [
+    "arenamaster timer stop countdown deploying_timer"
+  ],
+  "onMatchEndCommands": [
+    "arenamaster timer stop countdown deploying_timer"
+  ],
+  "onPlayerJoinLobbyCommands": [],
+  "onPlayerLeaveLobbyCommands": [],
+  "onPlayerSelectClassCommands": [],
+  "onPlayerEliminatedCommands": []
+}

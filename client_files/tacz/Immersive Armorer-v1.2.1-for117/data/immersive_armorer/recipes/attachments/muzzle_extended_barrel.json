@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "immersive_armorer:muzzle_extended_barrel"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

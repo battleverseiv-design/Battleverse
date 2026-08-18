@@ -1,0 +1,16 @@
+{
+  "pack.ciblr.name": "§4CIBR 突撃して陣を陥れる：リスタート 附属パッケージ",
+  "pack.ciblr.desc": "突撃して陣を陥れる：リスタート附属パッケージ",
+
+  "item.ciblr.191_bayonet.name": "建設集團 QNL-191 銃剣",
+  "item.ciblr.95_bayonet.name": "北方工業 QNL-95 銃剣",
+  "item.ciblr.81_bayonet.name": "北方工業 QNL-81 銃剣",
+  "item.ciblr.katana.name": "かたな",
+  "item.ciblr.batons.name": "ライオットバトン",
+
+  "item.ciblr.type86.name": "北方工業 86式 手榴弾",
+  "item.ciblr.dsy151.name": "建設集團 DSY-151 手榴弾",
+
+  "cib.cib_smith_table": "§cCIB:R 鍛造テーブル",
+  "cib.cib_smith_table.desc":"§e突撃して陣を陥れて、困難を克服して再出発\n§7ゲームでメレー武器や手榴弾が見つからない？それは対応MOD入ってないからかも。\n§7\"[TACZ] LesRaisins Tactical Equipements\" MODをインストールしてください。\n§7ゲーム版は1.20.1で、Forgeが入ってる事が必須！"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "suffuse.attachment.ash12_silencer.name",
+  "tooltip": "suffuse.attachment.ash12_silencer.desc",
+  "display": "suffuse:ash12_silencer_display",
+  "data": "suffuse:ash12_silencer_data",
+  "type": "muzzle"
+}

@@ -1,0 +1,9 @@
+{
+  "slot": "immersive_armorer:attachment/slot/grip_twined",
+  "model": "immersive_armorer:attachment/grip_twined",
+  "texture": "immersive_armorer:attachment/uv/grip_twined",
+  "sounds": {
+    "install": "immersive_armorer:attachments/attachment_install_small",
+    "uninstall": "immersive_armorer:attachments/attachment_uninstall"
+  }
+}

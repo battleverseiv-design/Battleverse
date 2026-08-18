@@ -1,0 +1,9 @@
+{
+  "slot": "barquitos:attachment/slot/osprey",
+  "model": "barquitos:attachment/osprey_suppressor_geo",
+  "texture": "barquitos:attachment/uv/osprey",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

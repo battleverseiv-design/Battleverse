@@ -1,0 +1,6 @@
+{
+  "name": "rebel.attachment.bayonet_macd1",
+  "display": "rebel:bayonet_macd1_display",
+  "data": "rebel:bayonet_macd1_data",
+  "type": "muzzle"
+}

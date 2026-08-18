@@ -1,0 +1,12 @@
+{
+  "materials": [
+	{"item": {"tag": "forge:ingots/copper"},"count": 20},
+	{"item": {"tag": "forge:gunpowder"},"count": 4}
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "suffuse:338nm",
+    "count": 40
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

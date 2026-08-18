@@ -1,0 +1,46 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:338",
+      "tacz:45_70",
+      "tacz:30_06",
+      "hamster:long_ammo",
+      "suffuse:.408ct",
+      "suffuse:6.8tvcm"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:dirt",
+    "#immersive_ballistic:dirt",
+    "#tacztweaks:grass",
+    "#immersive_ballistic:grass"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:impact_dirt minecraft:spruce_wood 2.5",
+      "count": 1,
+      "speed": 6,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:debris minecraft:spruce_wood 0.6",
+      "count": 10,
+      "speed": 5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:smoke minecraft:spruce_wood 2",
+      "count": 1,
+      "speed": 1,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block %s",
+      "count": 10,
+      "speed": 2,
+      "force": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.muzzle_focused_nozzle.name",
+  "display": "immersive_armorer:muzzle_focused_nozzle_display",
+  "data": "immersive_armorer:muzzle_focused_nozzle_data",
+  "type": "muzzle"
+}

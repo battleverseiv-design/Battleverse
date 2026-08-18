@@ -1,0 +1,18 @@
+{
+  "weight": 0.25,
+  "ammo_speed": {
+    "addend": 10
+  },
+  "damage": {
+    "addend": 1.5
+  },
+  "inaccuracy": {
+    "addend": 3
+  },
+  "aim_inaccuracy": {
+    "addend": 3
+  },
+  "rpm": {
+    "addend": 240
+  }
+}

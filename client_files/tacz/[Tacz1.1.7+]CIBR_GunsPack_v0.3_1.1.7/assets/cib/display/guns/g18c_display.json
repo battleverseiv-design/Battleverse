@@ -1,0 +1,65 @@
+{
+  "model": "cib:gun/g18c_geo",
+  "texture": "cib:gun/uv/g18c",
+  "slot": "cib:gun/slot/g18c",
+  "hud": "cib:gun/hud/g18c",
+  "animation": "cib:g18c",
+  "lod": {
+    "model": "cib:gun/lod/g18c",
+    "texture": "cib:gun/lod/g18c"
+  },
+  "default_animation": "ciba:pistol_default",
+  "player_animator_3rd": "tacz:pistol_default.player_animation",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "cib:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "shell": {
+    "initial_velocity": [
+      5,
+      2,
+      1
+    ],
+    "random_velocity": [
+      1,
+      1,
+      0.25
+    ],
+    "acceleration": [
+      0,
+      -10,
+      0
+    ],
+    "angular_velocity": [
+      360,
+      -1200,
+      90
+    ],
+    "living_time": 1
+  },
+  "sounds": {
+    "shoot": "cib:g18c/g18c_shoot",
+    "shoot_3p": "cib:g18c/g18c_shoot_3p",
+    "silence": "cib:g18c/g18c_silence",
+    "silence_3p": "cib:g18c/g18c_silence_3p",
+    "draw": "cib:g18c/g18c_draw",
+    "put_away": "cib:usp/usp_put_away",
+    "reload_empty": "cib:g18c/g18c_reload_empty",
+    "reload_tactical": "cib:g18c/g18c_reload_tactical",
+    "inspect": "cib:g18c/g18c_inspect",
+    "inspect_empty": "cib:g18c/g18c_inspect_empty",
+    "dry_fire": "cib:dry_fire",
+    "fire_select": "cib:fire_select",
+    "head_hit": "cib:head_hit",
+    "flesh_hit": "cib:flesh_hit",
+    "kill": "cib:kill"
+  }
+}

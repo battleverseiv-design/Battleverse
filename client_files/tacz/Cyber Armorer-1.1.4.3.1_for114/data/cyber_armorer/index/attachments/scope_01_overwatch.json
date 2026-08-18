@@ -1,0 +1,7 @@
+{
+  "name": "cyber_armorer.attachment.scope_01_overwatch.name",
+  "display": "cyber_armorer:scope_01_overwatch_display",
+  "data": "cyber_armorer:scope_01_overwatch_data",
+  "type": "scope",
+  "hidden": true
+}

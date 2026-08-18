@@ -1,0 +1,6 @@
+{
+  "name": "hare.attachment.muzzle_hider_dragon.name",
+  "display": "hare:muzzle_hider_dragon_display",
+  "data": "hare:muzzle_hider_dragon_data",
+  "type": "muzzle"
+}

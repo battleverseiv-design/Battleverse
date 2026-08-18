@@ -1,0 +1,6 @@
+{
+  "name": "hare.ammo.ht127x108mm.name",
+  "display": "hare:ht127x108mm_display",
+  // 堆叠数量
+  "stack_size": 24
+}

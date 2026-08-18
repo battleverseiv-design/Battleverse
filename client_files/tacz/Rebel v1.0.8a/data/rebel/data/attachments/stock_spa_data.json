@@ -1,0 +1,16 @@
+{
+  "weight": 0.3,
+  "ads_addend": 0.02,
+  "inaccuracy_addend": -0.5,
+  "recoil_modifier": {
+    "pitch": -0.35,
+    "yaw": -0.2
+  },
+  "melee": {
+    "distance": 1.5,
+    "range_angle": 50,
+    "damage": 4,
+    "knockback": 0.1,
+    "prep": 0.3
+  }
+}

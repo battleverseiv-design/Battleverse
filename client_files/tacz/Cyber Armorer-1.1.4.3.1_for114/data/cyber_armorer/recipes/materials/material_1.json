@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:planks"
+    },
+    {
+      "tag": "forge:leather"
+    }
+  ],
+  "result": {
+    "item": "tacz:ammo",
+    "nbt": {
+      "AmmoId": "cyber_armorer:material_1"
+    },
+    "count": 2
+  }
+}

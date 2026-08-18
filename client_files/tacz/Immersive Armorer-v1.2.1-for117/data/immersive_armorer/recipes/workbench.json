@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "minecraft:planks"
+    },
+    "0": {
+      "tag": "forge:storage_blocks/copper"
+    },
+    "2": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "202",
+    "2 2"
+  ],
+  "result": {
+    "item": "tacz:workbench_b",
+    "nbt": {
+      "BlockId": "immersive_armorer:workbench"
+    },
+    "count": 1
+  }
+}

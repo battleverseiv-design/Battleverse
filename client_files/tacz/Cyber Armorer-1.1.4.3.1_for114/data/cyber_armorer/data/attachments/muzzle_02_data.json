@@ -1,0 +1,9 @@
+{
+  "silence": {
+    "distance_addend": -15,
+    "use_silence_sound": true
+  },
+  "effective_range": {
+    "multiplier": 1.2
+  }
+}

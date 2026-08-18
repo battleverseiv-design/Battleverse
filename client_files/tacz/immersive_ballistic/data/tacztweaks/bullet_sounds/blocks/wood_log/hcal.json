@@ -1,0 +1,49 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:log",
+    "#immersive_ballistic:log"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.wood_log.debris",
+      "volume": 2
+    },
+    {
+      "sound": "tacztweaks:blocks.wood.debris",
+      "volume": 2
+    },
+    {
+      "sound": "tacztweaks:bullets.impact.50bmg",
+      "volume": 2,
+      "range": 88
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.50bmg",
+      "volume": 2,
+      "range": 5
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.wood_log.debris",
+      "volume": 2
+    },
+    {
+      "sound": "tacztweaks:bullets.impact.50bmg",
+      "volume": 2,
+      "range": 88
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.50bmg",
+      "volume": 2,
+      "range": 5
+    }
+  ]
+}

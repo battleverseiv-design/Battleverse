@@ -1,0 +1,27 @@
+{
+  "slot": "hare:ammo/slot/12gdb",
+  "shell": {
+    "model": "tacz:shell/12g_shell",
+    "texture": "tacz:shell/12g_shell"
+  },
+  "tracer_color": "#FF3030",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  }
+}

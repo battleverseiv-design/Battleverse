@@ -1,0 +1,7 @@
+{
+  "name": "cyber_armorer.attachment.mod_hurt.name",
+  "display": "cyber_armorer:mod_hurt_display",
+  "data": "cyber_armorer:mod_hurt_data",
+  "tooltip": "tooltip.cyber_armorer.mod_hurt",
+  "type": "muzzle"
+}

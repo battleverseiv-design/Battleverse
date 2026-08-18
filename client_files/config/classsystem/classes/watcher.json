@@ -1,0 +1,18 @@
+{
+  "id": "watcher",
+  "displayName": "Watcher",
+  "price": 0,
+  "canHeal": true,
+  "icon": "",
+  "invisible": false,
+  "description": "",
+  "category": "SNIPER\u0027S",
+  "actions": {},
+  "pehkuiScales": {},
+  "attributes": {},
+  "abilitySound": "",
+  "abilityParticle": "",
+  "abilitySoundVolume": 1.0,
+  "abilitySoundPitch": 1.0,
+  "abilityParticleCount": 10
+}

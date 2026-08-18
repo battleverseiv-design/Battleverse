@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.stock_crude.name",
+  "display": "immersive_armorer:stock_crude_display",
+  "data": "immersive_armorer:stock_crude_data",
+  "type": "stock"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:338",
+      "tacz:45_70",
+      "tacz:30_06",
+      "hamster:long_ammo",
+      "suffuse:.408ct",
+      "suffuse:6.8tvcm"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:fabric",
+    "#immersive_ballistic:fabric"
+  ],
+  "hit": [
+    {
+      "sound": "tacztweaks:blocks.fabric.hit",
+      "volume": 2
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.sniper",
+      "volume": 0.4,
+      "range": 4
+    }
+  ],
+  "pierce": [
+    {
+      "sound": "tacztweaks:blocks.fabric.hit",
+      "volume": 2
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.sniper",
+      "volume": 0.4,
+      "range": 4
+    }
+  ],
+  "break": [
+    {
+      "sound": "tacztweaks:blocks.fabric.hit",
+      "volume": 2
+    },
+    {
+      "sound": "tacztweaks:bullets.ricochet.sniper",
+      "volume": 0.4,
+      "range": 4
+    }
+  ]
+}

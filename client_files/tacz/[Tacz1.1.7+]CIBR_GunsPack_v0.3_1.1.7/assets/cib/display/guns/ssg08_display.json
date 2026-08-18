@@ -1,0 +1,70 @@
+{
+  "model": "cib:gun/ssg08_geo",
+  "texture": "cib:gun/uv/ssg08",
+  "slot": "cib:gun/slot/ssg08",
+  "hud": "cib:gun/hud/ssg08",
+  "animation": "cib:ssg08",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "lod": {
+    "model": "cib:gun/lod/ssg08",
+    "texture": "cib:gun/lod/ssg08"
+  },
+  "iron_zoom": 1.5,
+  "zoom_model_fov": 45,
+  "default_animation": "ciba:sniper_default",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "ammo":{
+    "particle": {
+      // 名称，具体可选粒子可参考 wiki：https://minecraft.fandom.com/zh/wiki/%E7%B2%92%E5%AD%90
+      "name": "mycelium",
+      // 生成的区域，默认为 0 0 0
+      "delta": [
+        0,
+        0,
+        0
+      ],
+      // 速度，默认为0，必须至少为 0
+      "speed": 0.0,
+      // 粒子存在时间，单位 tick，默认为 20 tick
+      "life_time": 20,
+      // 粒子数量，当子弹速度过快时，可以增大此数量，能够填满子弹路径的空隙
+      "count": 100
+    }
+  },
+  "muzzle_flash": {
+    "texture": "cib:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "cib:ssg08/ssg08_shoot",
+    "shoot_3p": "cib:ssg08/ssg08_shoot_3p",
+    "silence": "cib:ssg08/ssg08_silence",
+    "silence_3p": "cib:ssg08/ssg08_silence_3p",
+    "draw": "cib:ssg08/ssg08_draw",
+    "put_away": "cib:ssg08/ssg08_put_away",
+    "reload_empty": "cib:ssg08/ssg08_reload_empty",
+    "reload_tactical": "cib:ssg08/ssg08_reload_tactical",
+    "inspect": "cib:ssg08/ssg08_inspect",
+    "bolt": "cib:ssg08/ssg08_bolt",
+    "inspect_empty": "cib:ssg08/ssg08_inspect_empty",
+    "dry_fire": "cib:dry_fire",
+    "fire_select": "cib:fire_select",
+    "head_hit": "cib:head_hit",
+    "flesh_hit": "cib:flesh_hit",
+    "kill": "cib:kill"
+  }
+}

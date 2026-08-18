@@ -1,0 +1,8 @@
+{
+  "slot": "immersive_armorer:ammo/slot/20mm",
+  "tracer_color": "#57ffe1",
+  "shell": {
+    "model": "immersive_armorer:shell/20mm_shell",
+    "texture": "immersive_armorer:shell/20mm_shell"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "minecraft:bucket"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "immersive_armorer:extended_jar_1"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

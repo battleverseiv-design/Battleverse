@@ -1,0 +1,25 @@
+{
+  "slot": "suffuse:attachment/slot/scope_acogta01",
+  "model": "suffuse:attachment/scope_acogta01_geo",
+  "texture": "suffuse:attachment/uv/scope_acogta01",
+  "zoom": [
+    2.5,
+	1,
+	1
+  ],
+  "views": [
+    1,
+    2,
+	3
+  ],
+  "views_fov": [
+    45.0,
+    70.0,
+	70
+  ],
+  "scope": true,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_a",
+    "uninstall": "tacz:attachments/scope_general_a"
+  }
+}

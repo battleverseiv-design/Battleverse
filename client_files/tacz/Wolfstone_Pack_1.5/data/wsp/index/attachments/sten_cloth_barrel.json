@@ -1,0 +1,7 @@
+{
+  "name": "wsp.attachment.sten_cloth_barrel.name",
+  "tooltip": "wsp.attachment.sten_cloth_barrel.tooltip",
+  "display": "wsp:sten_cloth_barrel_display",
+  "data": "wsp:sten_cloth_barrel_data",
+  "type": "grip"
+}

@@ -1,0 +1,25 @@
+{
+  "weight": 0.28,
+  "ads_addend": 0.03,
+  "ignite": {
+    "entity": true
+  },
+  "armor_ignore":{
+    "addend": -0.1
+  },
+  "melee": {
+    "distance": 2.5,
+    "range_angle": 70,
+    "damage": 13,
+    "knockback": 0.2,
+    "prep": 0.4,
+    "effects": [
+    {
+      "id": "minecraft:nausea",
+      "time": 7,
+      "amplifier": 1,
+      "hide_particles": true
+      }
+    ]
+  }
+}

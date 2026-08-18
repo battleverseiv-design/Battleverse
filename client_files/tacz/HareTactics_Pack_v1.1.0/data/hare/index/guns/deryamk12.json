@@ -1,0 +1,8 @@
+{
+  "name": "hare.gun.DeryaMK12.name",
+  "display": "hare:deryamk12_display",
+  "data": "hare:deryamk12_data",
+  "tooltip": "hare.gun.DeryaMK12.desc",
+  "type": "shotgun",
+  "sort": 22
+}

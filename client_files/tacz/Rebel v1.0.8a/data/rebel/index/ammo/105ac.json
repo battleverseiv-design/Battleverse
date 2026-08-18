@@ -1,0 +1,10 @@
+{
+
+    "name": "rebel.ammo.105ac.name",
+
+    "display": "rebel:105ac_display",
+
+    "tooltip": "rebel.gun.105ac.desc",
+
+    "stack_size": 4
+  }

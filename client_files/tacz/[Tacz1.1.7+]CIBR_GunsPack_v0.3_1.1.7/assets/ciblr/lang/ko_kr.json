@@ -1,0 +1,16 @@
+{
+  "pack.ciblr.name": "§4교전개시:리부트 팩",
+  "pack.ciblr.desc": "Charge into Battle:Reboot 애드온 팩",
+
+  "item.ciblr.191_bayonet.name": "중국남방공업 QNL-191 총검",
+  "item.ciblr.95_bayonet.name": "중국북방공업 QNL-95 총검",
+  "item.ciblr.81_bayonet.name": "중국북방공업 QNL-81 총검",
+  "item.ciblr.katana.name": "일본도",
+  "item.ciblr.batons.name": "폭동 진압 경찰봉",
+
+  "item.ciblr.type86.name": "중국북방공업 86式 수류탄",
+  "item.ciblr.dsy151.name": "중국남방공업 DSY-151 수류탄",
+
+  "cib.cib_smith_table": "§cCIB:R 제작대",
+  "cib.cib_smith_table.desc":"§e돌격하여 진지를 돌파하고, 다시 출발하여 투쟁을 이어간다\n§7야, 근접무기랑 수류탄 안 보이면? 해당 MOD가 설치되지 않은 것입니다.\n§7해결 방법: \"[TACZ] LesRaisins Tactical Equipements\" MOD를 설치하세요.\n§7단, 게임 버전 1.20.1에 Forge 깔아야 작동해."
+}

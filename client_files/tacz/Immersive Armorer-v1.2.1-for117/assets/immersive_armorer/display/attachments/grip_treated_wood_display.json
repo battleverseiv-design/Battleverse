@@ -1,0 +1,9 @@
+{
+  "slot": "immersive_armorer:attachment/slot/grip_treated_wood",
+  "model": "immersive_armorer:attachment/grip_treated_wood",
+  "texture": "immersive_armorer:attachment/uv/grip_treated_wood",
+  "sounds": {
+    "install": "immersive_armorer:attachments/attachment_install_small",
+    "uninstall": "immersive_armorer:attachments/attachment_uninstall"
+  }
+}

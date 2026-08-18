@@ -1,0 +1,7 @@
+{
+  "name": "rebel.gun.fmc.name",
+  "display": "rebel:fmc_display",
+  "data": "rebel:fmc_data",
+  "tooltip": "rebel.gun.fmc.desc",
+  "type": "rpg"
+}

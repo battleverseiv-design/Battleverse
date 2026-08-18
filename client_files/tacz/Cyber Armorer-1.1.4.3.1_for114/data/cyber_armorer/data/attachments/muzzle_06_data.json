@@ -1,0 +1,13 @@
+{
+  "head_shot":{
+    "addend": -0.03
+  },
+  "recoil": {
+    "yaw": {
+      "multiplier": 0.85
+    },
+    "pitch": {
+      "multiplier": 0.85
+    }
+  }
+}

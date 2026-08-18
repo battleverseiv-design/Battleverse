@@ -1,0 +1,23 @@
+{
+  "slot": "immersive_armorer:ammo/slot/high_power_capacitor",
+  "tracer_color": "#0024ff",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.4,
+        0.4,
+        0.4
+      ],
+      "ground": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "fixed": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

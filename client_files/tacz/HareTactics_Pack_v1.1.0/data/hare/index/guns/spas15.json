@@ -1,0 +1,9 @@
+{
+  "name": "hare.gun.spas15.name",
+  "display": "hare:spas15_display",
+  "data": "hare:spas15_data",
+  "tooltip": "hare.gun.spas15.desc",
+  "type": "shotgun",
+  "item_type": "modern_kinetic",
+  "sort": 22
+}

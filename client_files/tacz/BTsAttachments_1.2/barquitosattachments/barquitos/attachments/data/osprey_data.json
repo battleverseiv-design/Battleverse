@@ -1,0 +1,9 @@
+{
+  "weight": 0.7,
+  "ads_addend": 0.05,
+  "silence": {
+    "distance_addend": -16,
+    "use_silence_sound": true
+  }
+}
+

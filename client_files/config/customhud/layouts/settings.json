@@ -1,0 +1,50 @@
+{
+  "boss_bar": {
+    "hidden": true,
+    "offsetX": 0,
+    "offsetY": 0,
+    "scale": 1.0
+  },
+  "chat": {
+    "hidden": true,
+    "offsetX": 0,
+    "offsetY": 0,
+    "scale": 1.0
+  },
+  "health": {
+    "hidden": true,
+    "offsetX": 0,
+    "offsetY": 0,
+    "scale": 1.0
+  },
+  "armor": {
+    "hidden": true,
+    "offsetX": 0,
+    "offsetY": 0,
+    "scale": 1.0
+  },
+  "food": {
+    "hidden": true,
+    "offsetX": 0,
+    "offsetY": 0,
+    "scale": 1.0
+  },
+  "mount_health": {
+    "hidden": true,
+    "offsetX": 0,
+    "offsetY": 0,
+    "scale": 1.0
+  },
+  "experience": {
+    "hidden": true,
+    "offsetX": 0,
+    "offsetY": 0,
+    "scale": 1.0
+  },
+  "hotbar": {
+    "hidden": true,
+    "offsetX": 0,
+    "offsetY": 0,
+    "scale": 1.0
+  }
+}

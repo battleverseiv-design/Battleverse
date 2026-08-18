@@ -1,0 +1,6 @@
+﻿{
+  "pack": {
+    "pack_format": 34,
+    "description": "No HUD by 1qmik"
+  }
+}

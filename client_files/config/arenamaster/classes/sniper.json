@@ -1,0 +1,17 @@
+{
+  "id": "sniper",
+  "displayName": "Снайпер",
+  "price": 0,
+  "canHeal": true,
+  "icon": "",
+  "description": "",
+  "category": "Default",
+  "actions": {},
+  "pehkuiScales": {},
+  "attributes": {},
+  "abilitySound": "",
+  "abilityParticle": "",
+  "abilitySoundVolume": 1.0,
+  "abilitySoundPitch": 1.0,
+  "abilityParticleCount": 10
+}

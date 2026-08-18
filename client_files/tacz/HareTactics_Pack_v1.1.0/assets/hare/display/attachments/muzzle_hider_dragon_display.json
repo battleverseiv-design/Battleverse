@@ -1,0 +1,9 @@
+{
+  "slot": "hare:attachment/slot/muzzle_hider_dragon_slot",
+  "model": "hare:attachment/muzzle_hider_dragon_geo",
+  "texture": "hare:attachment/uv/muzzle_hider_bmd",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

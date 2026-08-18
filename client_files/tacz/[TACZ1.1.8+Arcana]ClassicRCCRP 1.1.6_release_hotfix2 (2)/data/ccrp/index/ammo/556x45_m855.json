@@ -1,0 +1,6 @@
+{
+  "name": "ccrp.ammo.556x45_m855.name",
+  "display": "ccrp:556x45_m855_display",
+  // 堆叠数量
+  "stack_size": 60
+}

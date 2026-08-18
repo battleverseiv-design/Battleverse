@@ -1,0 +1,6 @@
+{
+  "name": "cyber_armorer.attachment.mod_equal.name",
+  "display": "cyber_armorer:mod_equal_display",
+  "data": "cyber_armorer:mod_equal_data",
+  "type": "extended_mag"
+}

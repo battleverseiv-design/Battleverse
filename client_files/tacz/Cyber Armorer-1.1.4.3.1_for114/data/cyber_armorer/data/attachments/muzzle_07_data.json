@@ -1,0 +1,16 @@
+{
+  "head_shot":{
+    "multiplier": 0.95
+  },
+  "armor_ignore":{
+    "multiplier": 1.1
+  },
+  "recoil": {
+    "yaw": {
+      "multiplier": 0.93
+    },
+    "pitch": {
+      "multiplier": 0.93
+    }
+  }
+}

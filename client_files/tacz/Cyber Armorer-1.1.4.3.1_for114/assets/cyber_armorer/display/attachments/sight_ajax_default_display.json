@@ -1,0 +1,14 @@
+{
+  "slot": "cyber_armorer:attachment/slot/sight_ajax_default",
+  "model": "cyber_armorer:attachment/sight_ajax_default",
+  "texture": "cyber_armorer:attachment/uv/sight_ajax_default",
+  "zoom": [
+    1.33
+  ],
+  "sight": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "cyber_armorer:misc/attachment_on",
+    "uninstall": "cyber_armorer:misc/attachment_off"
+  }
+}

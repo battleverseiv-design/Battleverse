@@ -1,0 +1,8 @@
+{
+  "name": "hare.gun.SpectreM4.name",
+  "display": "hare:spectrem4_display",
+  "data": "hare:spectrem4_data",
+  "tooltip": "hare.gun.SpectreM4.desc",
+  "type": "smg",
+  "sort": 22
+}

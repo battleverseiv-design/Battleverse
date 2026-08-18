@@ -1,0 +1,27 @@
+{
+  "id": "stormscout",
+  "displayName": "Грозовой Разведчик",
+  "price": 0,
+  "canHeal": true,
+  "icon": "",
+  "invisible": false,
+  "description": "Очень быстрый и прыгучий класс, окруженный электрическими разрядами молний.",
+  "category": "Shotgunner\u0027S",
+  "actions": {
+    "5": {
+      "type": "ABILITY",
+      "value": 1
+    },
+    "10": {
+      "type": "ABILITY",
+      "value": 1
+    }
+  },
+  "pehkuiScales": {},
+  "attributes": {},
+  "abilitySound": "",
+  "abilityParticle": "",
+  "abilitySoundVolume": 1.0,
+  "abilitySoundPitch": 1.0,
+  "abilityParticleCount": 10
+}

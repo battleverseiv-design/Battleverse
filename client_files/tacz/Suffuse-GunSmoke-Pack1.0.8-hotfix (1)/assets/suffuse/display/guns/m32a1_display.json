@@ -1,0 +1,32 @@
+{
+  "model": "suffuse:gun/m32a1_geo",
+  "texture": "suffuse:gun/uv/m32a1",
+  "hud": "suffuse:gun/hud/m32a1_hud",
+  "slot": "suffuse:gun/slot/m32a1",
+  "animation": "suffuse:m32a1",
+  "use_default_animation": "rifle",
+  "state_machine": "suffuse:m32a1_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "sounds": {
+    "shoot": "suffuse:m32/m32_fire",
+    "shoot_3p": "suffuse:m32/m32_fire"
+  },
+  "offhand_show": {
+    "pos": [1, 20, 4],
+    "rotate": [0, 0, 45],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [1, 16, -2],
+    "rotate": [0, 0, 20],
+    "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

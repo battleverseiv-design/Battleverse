@@ -1,0 +1,45 @@
+{
+  "model": "cib:gun/ppk_geo",
+  "texture": "cib:gun/uv/ppk",
+  "slot": "cib:gun/slot/ppk",
+  "hud": "cib:gun/hud/ppk",
+  "animation": "cib:ppk",
+  "player_animator_3rd": "tacz:pistol_default.player_animation",
+  "lod": {
+    "model": "cib:gun/lod/ppk",
+    "texture": "cib:gun/lod/ppk"
+  },
+  "default_animation": "ciba:pistol_default",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "cib:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "draw": "tacz:m1911/m1911_draw",
+    "put_away": "tacz:m1911/m1911_put_away",
+    "shoot": "cib:ppk/ppk_shoot",
+    "shoot_3p": "cib:ppk/ppk_shoot_3p",
+    "silence": "cib:ppk/ppk_silence",
+    "silence_3p": "cib:ppk/ppk_silence_3p",
+    "dry_fire": "cib:dry_fire",
+    "fire_select": "cib:fire_select",
+    "head_hit": "cib:head_hit",
+    "flesh_hit": "cib:flesh_hit",
+    "kill": "cib:kill"
+  }
+}

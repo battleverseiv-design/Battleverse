@@ -1,0 +1,16 @@
+{
+  "pack.ciblr.name": "§4§4CIBR GUN Pack",
+  "pack.ciblr.desc": "Charge into battle:Reboot GUN Pack.",
+
+  "item.ciblr.191_bayonet.name": "QNL-191 bayonet",
+  "item.ciblr.95_bayonet.name": "QNL-95 bayonet",
+  "item.ciblr.81_bayonet.name": "QNL-81 bayonet",
+  "item.ciblr.katana.name": "Katana",
+  "item.ciblr.batons.name": "Riot batons",
+
+  "item.ciblr.type86.name": "Type 86 Grenade",
+  "item.ciblr.dsy151.name": "DSY-151 Grenade",
+
+  "cib.cib_smith_table": "§cCIB:R Forging Table",
+  "cib.cib_smith_table.desc":"§eCIB:R, cleave through illusions with blade's light!\n§7Heads up! If you can't find the melee weapons or grenades, it's because you're missing the required mod.\n§7Fix: Just grab the \"[TACZ] LesRaisins Tactical Equipements\" mod.\n§7Make sure your game is on version 1.20.1 and already has Forge installed!"
+}

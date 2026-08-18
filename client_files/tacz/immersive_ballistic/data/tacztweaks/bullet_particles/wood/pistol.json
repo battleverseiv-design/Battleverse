@@ -1,0 +1,68 @@
+{
+  "type": "block",
+  "blocks": [
+    "#tacztweaks:wood",
+    "#immersive_ballistic:wood"
+  ],
+  "hit": [
+    {
+      "particle": "immersive_ballistic:impact_dust minecraft:smooth_stone 0.35",
+      "count": 1,
+      "speed": 0.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:wood_log %s 0.45",
+      "count": 2,
+      "speed": 1,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block %s",
+      "count": 10,
+      "speed": 2,
+      "force": true
+    }
+  ],
+  "pierce": [
+    {
+      "particle": "immersive_ballistic:impact_dust minecraft:smooth_stone 0.35",
+      "count": 1,
+      "speed": 0.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:wood_log %s 0.45",
+      "count": 2,
+      "speed": 1,
+      "force": true
+    },
+    {
+      "particle": "minecraft:block %s",
+      "count": 10,
+      "speed": 2,
+      "force": true
+    }
+  ],
+  "break": [
+    {
+      "particle": "immersive_ballistic:wood_planks %s 0.45",
+      "count": 10,
+      "speed": 1.5,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:impact_dust minecraft:smooth_stone 0.75",
+      "count": 2,
+      "speed": 2,
+      "force": true
+    },
+    {
+      "particle": "immersive_ballistic:smoke minecraft:smooth_stone 6",
+      "count": 1,
+      "speed": 1,
+      "duration": 0.1,
+      "force": true
+    }
+  ]
+}

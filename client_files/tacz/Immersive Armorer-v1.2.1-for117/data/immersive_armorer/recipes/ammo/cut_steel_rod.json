@@ -1,0 +1,16 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "immersive_armorer:cut_steel_rod",
+    "count": 16
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

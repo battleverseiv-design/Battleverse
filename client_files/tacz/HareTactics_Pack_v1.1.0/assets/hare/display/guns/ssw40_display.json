@@ -1,0 +1,40 @@
+{
+  "model": "hare:gun/ssw40_geo",
+  "texture": "hare:gun/uv/ssw40_uv",
+  "hud": "hare:gun/hud/ssw40_hud",
+  "slot": "hare:gun/slot/ssw40_slot",
+  "animation": "hare:ssw40",
+  "use_default_animation": "rifle",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "sounds": {
+	"reload_tactical": "hare:ssw40/ssw40_reload_tactical",
+    "reload_empty": "hare:ssw40/ssw40_reload_empty",
+    "inspect": "hare:ssw40/ssw40_inspect",
+    "inspect_empty": "hare:ssw40/ssw40_inspect_empty",
+    "draw": "hare:ssw40/ssw40_draw",
+    "put_away":"hare:ssw40/ssw40_put_away",
+    "shoot": "hare:ssw40/ssw40_shoot",
+    "shoot_3p": "tacz:m320/m320_shoot",
+    "melee_push": "tacz:melee_stock/melee_stock_02",
+    "melee_stock": "tacz:melee_stock/melee_stock_03"
+  },
+  "offhand_show": {
+    "pos": [1, 20, 4],
+    "rotate": [0, 0, 45],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [1, 16, -2],
+    "rotate": [0, 0, 20],
+    "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slot": "rebel:attachment/slot/scope_70s",
+
+  "model": "rebel:attachment/scope_70s_geo",
+
+  "texture": "rebel:attachment/uv/scope_70s",
+
+  "zoom": [
+    2,
+    3.5
+  ],
+
+  "scope": true,
+
+  "fov": 40,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_c",
+    "uninstall": "tacz:attachments/scope_general_c"
+  }
+}

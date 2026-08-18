@@ -1,0 +1,25 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "immersive_armorer:grip_treated_wood"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:string"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "immersive_armorer:grip_twined"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

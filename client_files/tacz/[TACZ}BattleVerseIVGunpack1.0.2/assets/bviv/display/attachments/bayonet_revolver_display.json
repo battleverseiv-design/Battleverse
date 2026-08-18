@@ -1,0 +1,10 @@
+{
+  "slot": "immersive_armorer:attachment/slot/bayonet_revolver",
+  "model": "immersive_armorer:attachment/bayonet_revolver",
+  "texture": "immersive_armorer:attachment/uv/bayonet_revolver",
+  "show_muzzle": true,
+  "sounds": {
+    "install": "immersive_armorer:attachments/attachment_install_bayonet",
+    "uninstall": "immersive_armorer:attachments/attachment_uninstall_bayonet"
+  }
+}

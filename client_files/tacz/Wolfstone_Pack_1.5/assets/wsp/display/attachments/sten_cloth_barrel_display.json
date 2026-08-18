@@ -1,0 +1,7 @@
+{
+  "slot": "wsp:attachment/slot/sten_cloth_barrel",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

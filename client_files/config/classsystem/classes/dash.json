@@ -1,0 +1,22 @@
+{
+  "id": "dash",
+  "displayName": "Рывок",
+  "price": 0,
+  "canHeal": true,
+  "icon": "",
+  "description": "Класс с быстрым рывком вперед.",
+  "invisible": false,
+  "actions": {
+    "5": {
+      "type": "ABILITY",
+      "value": 1
+    }
+  },
+  "pehkuiScales": {},
+  "attributes": {},
+  "abilitySound": "",
+  "abilityParticle": "",
+  "abilitySoundVolume": 1.0,
+  "abilitySoundPitch": 1.0,
+  "abilityParticleCount": 10
+}

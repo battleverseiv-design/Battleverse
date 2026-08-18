@@ -1,0 +1,12 @@
+{
+  "silence": {
+    "distance_addend": -15,
+    "use_silence_sound": true
+  },
+  "head_shot":{
+    "addend": 0.08
+  },
+  "effective_range": {
+    "multiplier": 1.05
+  }
+}

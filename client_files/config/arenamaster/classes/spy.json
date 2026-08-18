@@ -1,0 +1,19 @@
+{
+  "id": "spy",
+  "displayName": "Шпион",
+  "price": 0,
+  "canHeal": true,
+  "icon": "",
+  "description": "",
+  "category": "Default",
+  "actions": {},
+  "pehkuiScales": {
+    "visibility": 0.0
+  },
+  "attributes": {},
+  "abilitySound": "",
+  "abilityParticle": "",
+  "abilitySoundVolume": 1.0,
+  "abilitySoundPitch": 1.0,
+  "abilityParticleCount": 10
+}

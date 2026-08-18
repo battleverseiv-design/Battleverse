@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.sight_simple_reflex.name",
+  "display": "immersive_armorer:sight_simple_reflex_display",
+  "data": "immersive_armorer:sight_simple_reflex_data",
+  "type": "scope"
+}

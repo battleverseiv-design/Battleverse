@@ -1,0 +1,6 @@
+{
+  "name": "rebel.attachment.stock_sp",
+  "display": "rebel:stock_sp_display",
+  "data": "rebel:stock_sp_data",
+  "type": "stock"
+}

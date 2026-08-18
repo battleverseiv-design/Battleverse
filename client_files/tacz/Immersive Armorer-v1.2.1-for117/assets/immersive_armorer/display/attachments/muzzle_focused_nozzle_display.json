@@ -1,0 +1,10 @@
+{
+  "slot": "immersive_armorer:attachment/slot/muzzle_focused_nozzle",
+  "model": "immersive_armorer:attachment/muzzle_focused_nozzle",
+  "texture": "immersive_armorer:attachment/uv/muzzle_focused_nozzle",
+  "show_muzzle": true,
+  "sounds": {
+    "install": "immersive_armorer:attachments/attachment_install_small",
+    "uninstall": "immersive_armorer:attachments/attachment_uninstall"
+  }
+}

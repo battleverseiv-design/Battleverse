@@ -1,0 +1,12 @@
+{
+
+    "slot": "rebel:ammo/slot/37aphe",
+
+    "shell": {
+    
+        "model": "rebel:shell/37aphe_shell",
+    "texture": "rebel:shell/37aphe_shell"
+
+     }
+
+}

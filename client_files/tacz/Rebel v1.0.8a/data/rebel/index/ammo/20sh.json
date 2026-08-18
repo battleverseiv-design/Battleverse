@@ -1,0 +1,10 @@
+{
+
+    "name": "rebel.ammo.20sh.name",
+
+    "display": "rebel:20sh_display",
+
+    "tooltip": "rebel.gun.20sh.desc",
+
+    "stack_size": 64
+  }

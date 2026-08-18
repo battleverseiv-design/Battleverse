@@ -1,0 +1,7 @@
+{
+  "name": "cyber_armorer.attachment.mod_blood.name",
+  "display": "cyber_armorer:mod_blood_display",
+  "data": "cyber_armorer:mod_blood_data",
+  "tooltip": "tooltip.cyber_armorer.mod_blood",
+  "type": "muzzle"
+}

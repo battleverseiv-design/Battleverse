@@ -1,0 +1,26 @@
+{
+  "type": "block",
+  "target": {
+    "type": "ammo",
+    "values": [
+      "tacz:50bmg"
+    ]
+  },
+  "blocks": [
+    "#tacztweaks:stone",
+    "#immersive_ballistic:stone",
+    "#tacztweaks:concrete",
+    "#immersive_ballistic:concrete"
+  ],
+  "block_break": {
+    "type": "fixed_damage",
+    "damage": 0.3,
+    "render_bullet_hole": true,
+    "drop": false
+  },
+  "pierce": {
+    "render_bullet_hole": true,
+    "type": "damage",
+    "damage_multiplier": 0.14
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.extended_capacitor_1.name",
+  "display": "immersive_armorer:extended_capacitor_1_display",
+  "data": "immersive_armorer:extended_capacitor_1_data",
+  "type": "extended_mag"
+}

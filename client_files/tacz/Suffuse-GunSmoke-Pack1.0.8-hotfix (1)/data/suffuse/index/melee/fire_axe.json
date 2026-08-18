@@ -1,0 +1,62 @@
+{
+  "name": "item.suffuse.fire_axe",
+  "type": "lrtactical:normal",
+  "base_item": "lrtactical:melee",
+  "data": {
+    "attributes": {
+      "generic.attack_damage": 15,
+      "minecraft:generic.movement_speed": {
+        "amount": -0.07,
+        "operation": "percent"
+      }
+    },
+    // tick
+    "draw_time": 13.4,
+    // tick
+    "put_away_time": 8.6,
+    "attack": {
+      "attack_left": {
+        // 伤害倍率
+        "factor": 1,
+        // 击退
+        "knockback": 0.2,
+        // 攻击冷却(tick)
+        "cooldown": 12,
+        // 延迟出伤(tick)
+        "delay": 4.6,
+        // 判定类型
+        "hitbox": {
+          // 圆锥区域
+          "type": "cone",
+          // 最大距离
+          "max_range": 3,
+          // 角度
+          "max_angle": 120,
+          // 排除自己
+          "exclude_self": true
+        }
+      },
+      "attack_right": {
+        // 伤害倍率
+        "factor": 2.4,
+        // 击退
+        "knockback": 0.25,
+        // 攻击冷却(tick)
+        "cooldown": 17.6,
+        // 延迟出伤(tick)
+        "delay": 8.4,
+        // 判定类型
+        "hitbox": {
+          // 圆锥区域
+          "type": "cone",
+          // 最大距离
+          "max_range": 4,
+          // 角度
+          "max_angle": 45,
+          // 排除自己
+          "exclude_self": true
+        }
+      }
+    }
+  }
+}

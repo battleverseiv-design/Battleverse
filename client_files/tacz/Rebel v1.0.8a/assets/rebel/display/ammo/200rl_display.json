@@ -1,0 +1,17 @@
+{
+  "slot": "rebel:ammo/slot/200rl",
+  "tracer_color": "#ff6a00",
+  "particle": {
+    "name": "lava",
+    "delta": [
+      0,
+      0,
+      0
+    ],
+    "speed": 0.004,
+    "life_time": 2,
+    "count": 3
+  }
+
+  
+}

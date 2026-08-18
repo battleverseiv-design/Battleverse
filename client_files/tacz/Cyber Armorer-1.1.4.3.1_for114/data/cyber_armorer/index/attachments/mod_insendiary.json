@@ -1,0 +1,6 @@
+{
+  "name": "cyber_armorer.attachment.mod_insendiary.name",
+  "display": "cyber_armorer:mod_insendiary_display",
+  "data": "cyber_armorer:mod_insendiary_data",
+  "type": "extended_mag"
+}

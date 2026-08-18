@@ -1,0 +1,30 @@
+{
+  "weight": 0.25,
+  "inaccuracy": {
+    "addend": -1.25
+  },
+  "aim_inaccuracy": {
+    "addend": -1.25
+  },
+  "armor_ignore":{
+    "addend": 0.2
+  },
+  "head_shot":{
+    "addend": 0.5
+  },
+  "recoil": {
+    "yaw": {
+      "addend": 0.25
+    },
+    "pitch": {
+      "addend": 0.5
+    }
+  },
+  "silence": {
+    "distance_addend": 10,
+    "use_silence_sound": false
+  },
+  "effective_range": {
+    "addend": 10
+  }
+}

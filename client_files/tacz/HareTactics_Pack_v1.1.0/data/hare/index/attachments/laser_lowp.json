@@ -1,0 +1,6 @@
+{
+  "name": "hare.attachment.laser_lowp",
+  "display": "hare:laser_lowp_display",
+  "data": "hare:laser_lowp_data",
+  "type": "laser"
+}

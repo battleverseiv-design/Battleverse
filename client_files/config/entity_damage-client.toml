@@ -1,0 +1,8 @@
+
+[render]
+	#If true, corpse/limb render distance is limited by maxRenderDistanceBlocks.
+	useMaxRenderDistance = true
+	#Maximum render distance for corpse/limb models in blocks.
+	#Range: 1.0 ~ 512.0
+	maxRenderDistanceBlocks = 28.0
+

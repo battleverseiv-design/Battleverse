@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 20
+    },
+	{
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "hare:muzzle_hider_dragon"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

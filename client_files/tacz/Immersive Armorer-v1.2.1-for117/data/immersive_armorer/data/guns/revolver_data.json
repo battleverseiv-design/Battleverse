@@ -1,0 +1,134 @@
+{
+  "ammo": "immersive_armorer:454_casul",
+  "ammo_amount": 8,
+  "extended_mag_ammo_amount": [
+    10,
+    12,
+    14
+  ],
+  "weight": 1.3,
+  "can_crawl": true,
+  "can_slide": false,
+  "bolt": "open_bolt",
+  "rpm": 150,
+  "bullet": {
+    "life": 2,
+    "bullet_amount": 1,
+    "damage": 16,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.3,
+      "head_shot_multiplier": 1.25,
+      "damage_adjust": [
+        {
+          "distance": 12.0,
+          "damage": 8.0
+        },
+        {
+          "distance": 40.0,
+          "damage": 12.0
+        },
+        {
+          "distance": "infinite",
+          "damage": 14.0
+        }
+      ]
+    },
+    "speed": 194,
+    "gravity": 0.13,
+    "knockback": 0.1,
+    "friction": 0.01,
+    "ignite": false,
+    "pierce": 1
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 1.04,
+      "tactical": 1.04
+    },
+    "cooldown": {
+      "empty": 2.25,
+      "tactical": 2.25
+    }
+  },
+  "draw_time": 0.3,
+  "put_away_time": 0.5,
+  "aim_time": 0.2,
+  "sprint_time": 0.2,
+  "fire_mode": [
+    "semi"
+  ],
+  "recoil": {
+    "pitch": [
+      {
+        "time": 0,
+        "value": [
+          2.25,
+          2.25
+        ]
+      },
+      {
+        "time": 0.4,
+        "value": [
+          2.25,
+          2.25
+        ]
+      },
+      {
+        "time": 0.6,
+        "value": [
+          -0.075,
+          -0.075
+        ]
+      },
+      {
+        "time": 0.75,
+        "value": [
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "yaw": [
+      {
+        "time": 0,
+        "value": [
+          -0.5,
+          0.5
+        ]
+      },
+      {
+        "time": 0.3,
+        "value": [
+          -0.5,
+          0.5
+        ]
+      },
+      {
+        "time": 0.5,
+        "value": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "inaccuracy": {
+    "stand": 3,
+    "move": 3.5,
+    "sneak": 2,
+    "lie": 2,
+    "aim": 0.075
+  },
+  "melee": {
+    "distance": 1,
+    "cooldown": 0.5
+  },
+  "allow_attachment_types": [
+    "muzzle",
+    "grip",
+    "scope",
+    "extended_mag"
+  ]
+}

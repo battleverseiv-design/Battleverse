@@ -1,0 +1,97 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-4, 0, -1.5],
+							"size": [8, 5, 3],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [8, 5]},
+								"east": {"uv": [9, 8], "uv_size": [3, 5]},
+								"south": {"uv": [0, 6], "uv_size": [8, 5]},
+								"west": {"uv": [0, 12], "uv_size": [3, 5]},
+								"up": {"uv": [9, 0], "uv_size": [8, 3]},
+								"down": {"uv": [9, 7], "uv_size": [8, -3]}
+							}
+						},
+						{
+							"origin": [-3.40625, 3.375, -1.50363],
+							"size": [4.07813, 0.75, 3.00363],
+							"uv": {
+								"north": {"uv": [2, 19], "uv_size": [30, 5]}
+							}
+						},
+						{
+							"origin": [-3.40625, 2.5, -1.50363],
+							"size": [1.96875, 0.75, 3.00363],
+							"uv": {
+								"north": {"uv": [2, 24], "uv_size": [14.5, 5]}
+							}
+						},
+						{
+							"origin": [0.67188, 3.375, -1.50363],
+							"size": [1.39063, 0.75, 3.00363],
+							"uv": {
+								"north": {"uv": [22, 24.5], "uv_size": [10, 5]}
+							}
+						},
+						{
+							"origin": [-0.67187, 3.375, -1.5],
+							"size": [4.07813, 0.75, 3.00363],
+							"uv": {
+								"south": {"uv": [2, 19], "uv_size": [30, 5]}
+							}
+						},
+						{
+							"origin": [1.4375, 2.5, -1.5],
+							"size": [1.96875, 0.75, 3.00363],
+							"uv": {
+								"south": {"uv": [2, 24], "uv_size": [14.5, 5]}
+							}
+						},
+						{
+							"origin": [-2.0625, 3.375, -1.5],
+							"size": [1.39063, 0.75, 3.00363],
+							"uv": {
+								"south": {"uv": [22, 24.5], "uv_size": [10, 5]}
+							}
+						}
+					]
+				},
+				{
+					"name": "positioning",
+					"pivot": [-3.025, -8.95, -11.225]
+				},
+				{
+					"name": "ground",
+					"parent": "positioning",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "fixed",
+					"parent": "positioning",
+					"pivot": [0, 6, 0]
+				},
+				{
+					"name": "thirdperson_hand",
+					"parent": "positioning",
+					"pivot": [-0.025, 1.55, -0.225],
+					"rotation": [0, -90, 0]
+				}
+			]
+		}
+	]
+}

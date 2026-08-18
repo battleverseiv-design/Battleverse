@@ -1,0 +1,27 @@
+{
+  "weight": 0.7,
+  "damage": {
+    "addend": -20
+  },
+  "armor_ignore":{
+    "addend": -0.1
+  },
+  "recoil": {
+    "yaw": {
+      "addend": 1.5
+    },
+    "pitch": {
+      "addend": 3
+    }
+  },
+  "explosion": {
+    "explode": true,
+    "radius": {
+      "addend": 0.75
+    },
+    "damage": {
+      "addend": 7
+    },
+    "knockback": false
+  }
+}

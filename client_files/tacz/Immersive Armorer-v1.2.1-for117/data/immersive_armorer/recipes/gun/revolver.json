@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "minecraft:planks"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "immersive_armorer:revolver"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

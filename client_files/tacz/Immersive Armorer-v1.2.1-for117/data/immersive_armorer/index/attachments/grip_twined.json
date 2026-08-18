@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.grip_twined.name",
+  "display": "immersive_armorer:grip_twined_display",
+  "data": "immersive_armorer:grip_twined_data",
+  "type": "grip"
+}

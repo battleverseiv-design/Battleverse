@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.sight_light.name",
+  "display": "immersive_armorer:sight_light_display",
+  "data": "immersive_armorer:sight_light_data",
+  "type": "scope"
+}

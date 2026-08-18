@@ -1,0 +1,7 @@
+{
+  "slot": "wsp:attachment/slot/grip_vertical_1960",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

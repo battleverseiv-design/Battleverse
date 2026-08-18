@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:leather"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:string"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "wsp:sten_cloth_barrel"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

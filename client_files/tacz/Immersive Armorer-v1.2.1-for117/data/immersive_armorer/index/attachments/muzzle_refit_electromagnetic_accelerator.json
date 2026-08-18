@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.muzzle_refit_electromagnetic_accelerator.name",
+  "display": "immersive_armorer:muzzle_refit_electromagnetic_accelerator_display",
+  "data": "immersive_armorer:muzzle_refit_electromagnetic_accelerator_data",
+  "type": "muzzle"
+}
