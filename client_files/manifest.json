@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "version": "1.1.70",
-  "generated_at": "2026-08-18 18:10:23",
+  "version": "1.1.71",
+  "generated_at": "2026-08-18 18:28:47",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "config",
@@ -29,9 +29,9 @@
     ".battleverse*/*",
     "runtime/*"
   ],
-  "total_files": 102,
-  "total_size_bytes": 946682976,
-  "total_size_mb": 902.83,
+  "total_files": 127,
+  "total_size_bytes": 946679216,
+  "total_size_mb": 902.82,
   "files": {
     "config.zip": {
       "sha256": "e60c06f1828b41679448d97178761277fcf05510da67c504076054c0f8dcaad3",
@@ -43,10 +43,109 @@
       "size": 22,
       "extract_to": "defaultconfigs"
     },
-    "kubejs.zip": {
-      "sha256": "0094664c1cc3b60118363f82972c88cf8480c6eda0aaa67a97f56ef62fb1c2e7",
-      "size": 10046937,
-      "extract_to": "kubejs"
+    "kubejs/README.txt": {
+      "sha256": "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af",
+      "size": 1203
+    },
+    "kubejs/assets/kubejs/sounds.json": {
+      "sha256": "15fdef07c94c5cef4522777442ad12119f1f6c7412012344396bc3cc3cff7c7c",
+      "size": 2571
+    },
+    "kubejs/assets/kubejs/sounds/airstrike_warning.ogg": {
+      "sha256": "df69898de6c3cf4b1e41f742e441c7ab03c98c450e1259f053ec4ddca4246c90",
+      "size": 23052
+    },
+    "kubejs/assets/kubejs/sounds/background1.ogg": {
+      "sha256": "6b2968d0258b961b18567a92ea20a38c0cab67c25ab17b6a725d5005c053d9be",
+      "size": 1410542
+    },
+    "kubejs/assets/kubejs/sounds/background2.ogg": {
+      "sha256": "3c45baa178e55c0f1fdef4c1a6b789166077f2854e91a397e6aa976331d7dc67",
+      "size": 1511604
+    },
+    "kubejs/assets/kubejs/sounds/background3.ogg": {
+      "sha256": "cb53049fb6f34b8bb68f01c9e9f0bb3de20a23e8c3fee1c0ae1cff874bb00845",
+      "size": 1558959
+    },
+    "kubejs/assets/kubejs/sounds/background4.ogg": {
+      "sha256": "fa094e9f441a3fd65c82112ce1c79e01ce7742ab29e56f43c3a71d8a7aacfeee",
+      "size": 1888981
+    },
+    "kubejs/assets/kubejs/sounds/background5.ogg": {
+      "sha256": "fa10ff6be7397bfbeda27261ed4c24e42eaaf9d45cc2fc926d133f5610c71d83",
+      "size": 3332634
+    },
+    "kubejs/assets/kubejs/sounds/error.ogg": {
+      "sha256": "540d002d11514f972d052cf63bba2ed2d31a412a2f2c26d79f28345260c0e740",
+      "size": 13556
+    },
+    "kubejs/assets/kubejs/sounds/freesound_community-phone-hang-up-46793.mp3": {
+      "sha256": "8685d3d50b1d3c43ea9b6b641843239b17517754d3e767e434d7f5ad349d027a",
+      "size": 15360
+    },
+    "kubejs/assets/kubejs/sounds/ready.ogg": {
+      "sha256": "ce84e24a59a5375cf122c59bdb62a8eedfdad9a3867003466df72eabe8f83376",
+      "size": 14771
+    },
+    "kubejs/assets/kubejs/sounds/sound1.ogg": {
+      "sha256": "40f02ac4c5fdb8233143ab6649f1d2b14782679f3e9ae3658e0b6def364f2e1e",
+      "size": 64351
+    },
+    "kubejs/assets/kubejs/sounds/sound2.ogg": {
+      "sha256": "02b53abd5ed044485c4dbe3e008565236194d5876c1e1cf08d6d2383806a8900",
+      "size": 43729
+    },
+    "kubejs/assets/kubejs/sounds/sound3.ogg": {
+      "sha256": "791a63b79ec5474d5c928da1a4ef27b3dcef9ee346d09016a24fe51d9dbbcd47",
+      "size": 42538
+    },
+    "kubejs/assets/kubejs/sounds/sound4.ogg": {
+      "sha256": "e52dae22473bc7c58e03fc97a94f3cac084b3a47dba7e03cbfe254016ef33bb0",
+      "size": 99948
+    },
+    "kubejs/assets/kubejs/textures/item/laser_designator.png": {
+      "sha256": "84451ec5f284bb4ad92ee993670e05cc49a271e42cba79bf5a9b4cd4b257dcb0",
+      "size": 311
+    },
+    "kubejs/assets/kubejs/textures/item/recon_charge.png": {
+      "sha256": "b00087769f9fc0bd35fff21acef0c20a9f8d1947a7c0f2403cbdb4b148e1c544",
+      "size": 9436
+    },
+    "kubejs/client_scripts/example.js": {
+      "sha256": "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7",
+      "size": 126
+    },
+    "kubejs/config/client.properties": {
+      "sha256": "a25abcd787edf75b5a8dcc090e3457c7e7d20b59b1c9e523ea8f1b53777470d7",
+      "size": 375
+    },
+    "kubejs/config/common.properties": {
+      "sha256": "87fdbecbd0d98371accce3c6e40285f4f21695c97d8be85f755cbbedf27e52d1",
+      "size": 329
+    },
+    "kubejs/server_scripts/example.js": {
+      "sha256": "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2",
+      "size": 126
+    },
+    "kubejs/server_scripts/items/airstrike_logic.js": {
+      "sha256": "4ceaba11b6feb8242b2e32f6a1ddd58c9d513189098e345e8df0c0293c986252",
+      "size": 3344
+    },
+    "kubejs/server_scripts/mechanics/bullet.js": {
+      "sha256": "dacc01b64733aa777cb3cfe687bb15974f9ff35e947f9bdf63e2e60afa2cd3fd",
+      "size": 4466
+    },
+    "kubejs/server_scripts/mechanics/tacz_to_superb.js": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "kubejs/startup_scripts/item/bombardment.js": {
+      "sha256": "850bbfccba5e034a6086941d4d1b1b6cd7e30a366701d8fc59759be4375e239d",
+      "size": 428
+    },
+    "kubejs/startup_scripts/item/recon_charge.js": {
+      "sha256": "edd20288906cf90c3cc28ec95b96b0108a205aaa83504d21d668e3940aa32af8",
+      "size": 437
     },
     "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1 — копия.jar": {
       "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
