@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "version": "1.1.75",
-  "generated_at": "2026-08-18 19:00:17",
+  "version": "1.1.76",
+  "generated_at": "2026-08-18 19:04:28",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "config",
@@ -29,9 +29,9 @@
     ".battleverse*/*",
     "runtime/*"
   ],
-  "total_files": 103,
-  "total_size_bytes": 533213362,
-  "total_size_mb": 508.51,
+  "total_files": 101,
+  "total_size_bytes": 533109133,
+  "total_size_mb": 508.41,
   "files": {
     "config.zip": {
       "sha256": "e60c06f1828b41679448d97178761277fcf05510da67c504076054c0f8dcaad3",
@@ -47,10 +47,6 @@
       "sha256": "0094664c1cc3b60118363f82972c88cf8480c6eda0aaa67a97f56ef62fb1c2e7",
       "size": 10046937,
       "extract_to": "kubejs"
-    },
-    "mods/.battleverse_launcher.lnk": {
-      "sha256": "3dbf22e2cf6a2f44b0fd68ad817c7dd33fbf7d397b55af1f7b2661152c32769e",
-      "size": 1171
     },
     "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1 — копия.jar": {
       "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
@@ -315,10 +311,6 @@
     "mods/tacz_aim_addon-1.0.0.jar": {
       "sha256": "3ace0989a76638cf2e3450b0bdc54cbb6f141cd682fabc10826bc19438142988",
       "size": 1480109
-    },
-    "mods/tac_inventory-1.0.0-1.20.1 — копия.jar": {
-      "sha256": "63ea25819a6fa29686b224075bd9d9c90d550971589d5c35c84c2962add94a6d",
-      "size": 103058
     },
     "mods/tac_inventory-1.0.0-1.20.1.jar": {
       "sha256": "63ea25819a6fa29686b224075bd9d9c90d550971589d5c35c84c2962add94a6d",
