@@ -1,7 +1,0 @@
-{
-  "name": "hamster.gun.uppercut.name",
-  "display": "hamster:uppercut_display",
-  "data": "hamster:uppercut_data",
-  "tooltip": "hamster.gun.uppercut.desc",
-  "type": "pistol"
-}

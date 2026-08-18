@@ -1,7 +1,0 @@
-{
-  "name": "wsp.gun.panzerfaust.name",
-  "display": "wsp:panzerfaust_display",
-  "data": "wsp:panzerfaust_data",
-  "tooltip": "wsp.gun.panzerfaust.desc",
-  "type": "rpg"
-}

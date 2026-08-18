@@ -1,9 +1,0 @@
-{
-  "name": "ccrp.gun.a545.name",
-  "display": "ccrp:a545_display",
-  "data": "ccrp:a545_data",
-  "tooltip": "ccrp.gun.a545.desc",
-  "type": "rifle",
-  "item_type": "modern_kinetic",
-  "sort": 919
-}

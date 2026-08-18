@@ -1,7 +1,0 @@
-{
-  "slot": "wsp:attachment/slot/bipod_deployed",
-  "sounds": {
-    "install": "tacz:attachments/attachment_general_b",
-    "uninstall": "tacz:attachments/attachment_general_uninstall"
-  }
-}

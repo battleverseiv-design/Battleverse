@@ -1,8 +1,0 @@
-{
-    "name": "immersive_armorer.gun.dual_barrel_cannon",
-    "display": "immersive_armorer:dual_barrel_cannon_display",
-    "data": "immersive_armorer:dual_barrel_cannon_data",
-    "tooltip": "immersive_armorer.tooltip.dual_barrel_cannon",
-    "type": "rpg",
-    "sort": 302
-}

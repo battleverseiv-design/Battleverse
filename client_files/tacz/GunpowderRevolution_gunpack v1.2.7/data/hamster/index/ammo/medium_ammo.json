@@ -1,6 +1,0 @@
-{
-  "name": "hamster.ammo.medium_ammo.name",
-  "display": "hamster:medium_ammo_display",
-  // 堆叠数量
-  "stack_size": 48
-}

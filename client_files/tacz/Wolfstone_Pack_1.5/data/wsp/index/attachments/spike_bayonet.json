@@ -1,7 +1,0 @@
-{
-  "name": "wsp.attachment.spike_bayonet.name",
-  "tooltip": "wsp.attachment.spike_bayonet.tooltip",
-  "display": "wsp:spike_bayonet_display",
-  "data": "wsp:spike_bayonet_data",
-  "type": "muzzle"
-}

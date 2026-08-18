@@ -1,7 +1,0 @@
-{
-  "slot": "cyber_armorer:attachment/slot/mod_equal",
-  "sounds": {
-    "install": "cyber_armorer:misc/attachment_on",
-    "uninstall": "cyber_armorer:misc/attachment_off"
-  }
-}

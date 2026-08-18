@@ -1,7 +1,0 @@
-{
-  "name": "immersive_armorer.attachment.muzzle_refit_extra_wires.name",
-  "display": "immersive_armorer:muzzle_refit_extra_wires_display",
-  "data": "immersive_armorer:muzzle_refit_extra_wires_data",
-  "tooltip": "immersive_armorer.tooltip.attachment.muzzle_refit_extra_wires",
-  "type": "muzzle"
-}

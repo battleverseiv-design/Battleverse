@@ -1,9 +1,0 @@
-{
-  "slot": "barquitos:attachment/slot/gt308",
-  "model": "barquitos:attachment/gt308_geo",
-  "texture": "barquitos:attachment/uv/gt308",
-  "sounds": {
-    "install": "tacz:attachments/muzzle_general",
-    "uninstall": "tacz:attachments/muzzle_general"
-  }
-}

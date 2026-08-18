@@ -1,8 +1,0 @@
-{
-  "name": "hare.gun.lr300.name",
-  "display": "hare:lr300_display",
-  "data": "hare:lr300_data",
-  "type": "rifle",
-  "tooltip": "hare.gun.lr300.desc",
-  "sort": 22
-}

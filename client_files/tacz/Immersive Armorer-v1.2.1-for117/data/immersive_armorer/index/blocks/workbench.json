@@ -1,7 +1,0 @@
-{
-  "name": "immersive_armorer.block.workbench.name",
-  "display": "immersive_armorer:workbench_display",
-  "data": "immersive_armorer:workbench",
-  "id": "tacz:workbench_b",
-  "sort": 40
-}

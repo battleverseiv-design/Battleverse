@@ -1,8 +1,0 @@
-{
-  "effective_range": {
-    "multiplier": 1.175
-  },
-  "inaccuracy": {
-    "multiplier": 0.95
-  }
-}

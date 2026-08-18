@@ -1,7 +1,0 @@
-{
-  "name": "cib.attachment.usp_tactical_silencer.name",
-  "display": "cib:usp_tactical_silencer_display",
-  "data": "cib:usp_tactical_silencer_data",
-  "type": "muzzle",
-  "sort": 2461600
-}

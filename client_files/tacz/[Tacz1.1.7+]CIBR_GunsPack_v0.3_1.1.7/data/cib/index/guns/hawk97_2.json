@@ -1,9 +1,0 @@
-{
-  "name": "cib.gun.hawk97_2.name",
-  "display": "cib:hawk97_2_display",
-  "data": "cib:hawk97_2_data",
-  "type": "shotgun",
-  "item_type": "modern_kinetic",
-  "tooltip": "cib.gun.hawk97_2.desc",
-  "sort": 2461600
-}

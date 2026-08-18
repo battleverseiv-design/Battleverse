@@ -1,9 +1,0 @@
-{
-  "name": "cibs.gun.usps.name",
-  "display": "cibs:usps_display",
-  "data": "cibs:usps_data",
-  "type": "pistol",
-  "tooltip": "cibs.gun.usps.desc",
-  "item_type": "modern_kinetic",
-  "sort": 530200
-}

@@ -1,9 +1,0 @@
-{
-  "name": "ccrp.gun.requiem.name",
-  "display": "ccrp:requiem_display",
-  "data": "ccrp:requiem_data",
-  "type": "pistol",
-  "tooltip": "ccrp.gun.requiem.desc",
-  "sort": 919,
-  "item_type": "modern_kinetic"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "suffuse.gun.famas.name",
-  "tooltip": "suffuse.gun.famas.desc",
-  "data": "suffuse:famas_data",
-  "display": "suffuse:famas_display",
-  "type": "rifle",
-  "item_type": "modern_kinetic",
-  "sort": 1
-}

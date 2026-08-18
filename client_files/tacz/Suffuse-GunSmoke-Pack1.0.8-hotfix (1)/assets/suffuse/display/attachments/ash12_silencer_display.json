@@ -1,9 +1,0 @@
-{
-  "slot": "suffuse:attachment/slot/ash12_silencer",
-  "model": "suffuse:attachment/ash12_silencer_geo",
-  "texture": "suffuse:attachment/uv/ash12_silencer",
-  "sounds": {
-    "install": "tacz:attachments/muzzle_general",
-    "uninstall": "tacz:attachments/muzzle_general"
-  }
-}

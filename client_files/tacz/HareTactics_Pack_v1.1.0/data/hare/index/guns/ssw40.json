@@ -1,8 +1,0 @@
-{
-  "name": "hare.gun.SSW40.name",
-  "display": "hare:ssw40_display",
-  "data": "hare:ssw40_data",
-  "tooltip": "hare.gun.SSW40.desc",
-  "type": "rpg",
-  "sort": 22
-}

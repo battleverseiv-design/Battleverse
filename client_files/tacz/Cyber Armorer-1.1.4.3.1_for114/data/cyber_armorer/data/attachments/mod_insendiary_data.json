@@ -1,8 +1,0 @@
-{
-  "ignite": {
-    "entity": true
-  },
-  "damage": {
-      "multiplier": 0.8
-  }
-}
