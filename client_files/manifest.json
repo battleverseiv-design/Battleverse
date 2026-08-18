@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "version": "1.1.63",
-  "generated_at": "2026-08-18 17:41:28",
+  "version": "1.1.67",
+  "generated_at": "2026-08-18 17:48:28",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "config",
