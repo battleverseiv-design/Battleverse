@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "version": "1.1.64",
-  "generated_at": "2026-08-18 17:11:47",
+  "version": "1.1.65",
+  "generated_at": "2026-08-18 17:17:00",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "config",
@@ -29,9 +29,9 @@
     ".battleverse*/*",
     "runtime/*"
   ],
-  "total_files": 100,
-  "total_size_bytes": 735456350,
-  "total_size_mb": 701.39,
+  "total_files": 101,
+  "total_size_bytes": 788885576,
+  "total_size_mb": 752.34,
   "files": {
     "config.zip": {
       "sha256": "5ee6e8b6b03e4dc9a954d6060cbd039a7dad1e3950b712f04f446abb834e8cc2",
@@ -47,6 +47,10 @@
       "sha256": "6872f35a1b8671524c9cd24762a61c48c43e5b0ec1019514c0722c4af55d9106",
       "size": 9920369,
       "extract_to": "kubejs"
+    },
+    "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar": {
+      "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
+      "size": 53429226
     },
     "mods/architectury-9.2.14-forge.jar": {
       "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
