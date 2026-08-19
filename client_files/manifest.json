@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "version": "1.1.87",
-  "generated_at": "2026-08-19 01:30:39",
+  "version": "1.1.88",
+  "generated_at": "2026-08-19 17:21:59",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "config",
@@ -29,8 +29,8 @@
     ".battleverse*/*",
     "runtime/*"
   ],
-  "total_files": 101,
-  "total_size_bytes": 955783858,
+  "total_files": 102,
+  "total_size_bytes": 955792570,
   "total_size_mb": 911.51,
   "files": {
     "config.zip": {
@@ -313,8 +313,8 @@
       "size": 1480109
     },
     "mods/tac_inventory-1.0.0-1.20.1.jar": {
-      "sha256": "63ea25819a6fa29686b224075bd9d9c90d550971589d5c35c84c2962add94a6d",
-      "size": 103058
+      "sha256": "9d1ce866812132f3d4eac130d0dbf564332649c1928a436482f18202886b6505",
+      "size": 104127
     },
     "mods/warborn-1.20.1-2.3.3.jar": {
       "sha256": "a3c7e837341d5101a64ffc3495c9688ab5ce3f110c819df1c33bce4cbdcff13f",
@@ -335,6 +335,10 @@
     "mods/yuushya-1.20.1-forge-2.2.3.jar": {
       "sha256": "53d82ee8583e01ecb91952e8ec2670b67650adf95eab89ab7cc5f500f92764dc",
       "size": 23411995
+    },
+    "options.txt": {
+      "sha256": "d0961092ba4d82b6673640e1ff440d8984578c604b5b7fda500c10d2afcb6750",
+      "size": 7643
     },
     "resourcepacks.zip": {
       "sha256": "e7ed52f351c9b36beb75009f706ba053e0ca6b32b70da23969e9191d4842a8e8",
