@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "version": "1.1.88",
-  "generated_at": "2026-08-19 17:58:46",
+  "version": "1.1.89",
+  "generated_at": "2026-08-19 18:05:13",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "config",
@@ -33,21 +33,6 @@
   "total_size_bytes": 955792570,
   "total_size_mb": 911.51,
   "files": {
-    "config.zip": {
-      "sha256": "e60c06f1828b41679448d97178761277fcf05510da67c504076054c0f8dcaad3",
-      "size": 70606423,
-      "extract_to": "config"
-    },
-    "defaultconfigs.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22,
-      "extract_to": "defaultconfigs"
-    },
-    "kubejs.zip": {
-      "sha256": "0094664c1cc3b60118363f82972c88cf8480c6eda0aaa67a97f56ef62fb1c2e7",
-      "size": 10046937,
-      "extract_to": "kubejs"
-    },
     "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1 — копия.jar": {
       "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
       "size": 53429226
@@ -340,14 +325,33 @@
       "sha256": "d0961092ba4d82b6673640e1ff440d8984578c604b5b7fda500c10d2afcb6750",
       "size": 7643
     },
+    "tacz/.export-state.json": {
+      "sha256": "154de175664df4fa2084867c922491ca76d12ffe20eaf04c6200cb54e52eb9fa",
+      "size": 658
+    },
+    "tacz/tacz-pre.toml": {
+      "sha256": "410ba74dc6cb6c070db25c8fcfc0657b02a0523a3a25722da8e6f4310215d133",
+      "size": 222
+    },
+    "config.zip": {
+      "sha256": "e60c06f1828b41679448d97178761277fcf05510da67c504076054c0f8dcaad3",
+      "size": 70606423,
+      "extract_to": "config"
+    },
+    "defaultconfigs.zip": {
+      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
+      "size": 22,
+      "extract_to": "defaultconfigs"
+    },
+    "kubejs.zip": {
+      "sha256": "0094664c1cc3b60118363f82972c88cf8480c6eda0aaa67a97f56ef62fb1c2e7",
+      "size": 10046937,
+      "extract_to": "kubejs"
+    },
     "resourcepacks.zip": {
       "sha256": "e7ed52f351c9b36beb75009f706ba053e0ca6b32b70da23969e9191d4842a8e8",
       "size": 573739,
       "extract_to": "resourcepacks"
-    },
-    "tacz/.export-state.json": {
-      "sha256": "154de175664df4fa2084867c922491ca76d12ffe20eaf04c6200cb54e52eb9fa",
-      "size": 658
     },
     "tacz/BTsAttachments_1.2.zip": {
       "sha256": "e5ad307d49db3b0cc8540daf6549d56316e5af1d65fca0978f0ef18d0ecb1484",
@@ -428,10 +432,6 @@
       "sha256": "aa83cdcae18ee3b58d3b08578cb0fd8f4fc1238e3b7ef98e50aab5021b17bc60",
       "size": 266331,
       "extract_to": "tacz/TACZ TAC SPRINT v1.3"
-    },
-    "tacz/tacz-pre.toml": {
-      "sha256": "410ba74dc6cb6c070db25c8fcfc0657b02a0523a3a25722da8e6f4310215d133",
-      "size": 222
     },
     "tacz/tacz_default_gun.zip": {
       "sha256": "a1b2d2836dd817f8807ee30a29a072cb075309c89005932be420812ded78984b",
