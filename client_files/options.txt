@@ -140,9 +140,13 @@ key_key.tac_inventory.slot_primary:key.keyboard.1
 key_key.tac_inventory.slot_secondary:key.keyboard.2
 key_key.tac_inventory.slot_sidearm:key.keyboard.3
 key_key.tac_inventory.slot_melee:key.keyboard.f
+key_key.tac_inventory.slot_support:key.keyboard.x
 key_key.warbornrenewed.nvg_toggle:key.keyboard.n
 key_key.warbornrenewed.reb_backpack_toggle:key.keyboard.unknown
 key_key.hook.hook:key.keyboard.f
+key_key.cardecor.start_engine:key.keyboard.j
+key_key.cardecor.horn:key.keyboard.keypad.5
+key_key.cardecor.headlights:key.keyboard.keypad.8
 key_placebo.toggleTrails:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
@@ -199,7 +203,7 @@ key_key.gt.cycle:key.keyboard.keypad.3
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.tacz_aim_addon.toggle_nvg:key.keyboard.n
 key_key.presencefootsteps.settings:key.keyboard.unknown
-soundCategory_master:0.0
+soundCategory_master:0.11054421768707479
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.5093896713615024
