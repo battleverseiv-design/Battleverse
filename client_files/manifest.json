@@ -29,10 +29,19 @@
       "options.txt": {
         "mode": "KEYS",
         "allowed_keys": [
-          "!gamma",
           "key_*",
-          "soundCategory_*"
-        ]
+          "soundCategory_*",
+          "fov",
+          "gamma",
+          "*"
+        ],
+        "locked_values": {},
+        "value_ranges": {
+          "gamma": {
+            "min": 0.0,
+            "max": 0.5
+          }
+        }
       },
       "config/custom.toml": {
         "mode": "ALL",
