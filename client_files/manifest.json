@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-24 16:24:42",
+  "generated_at": "2026-08-24 16:34:20",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "tacz_aim_addon",
@@ -14,21 +14,15 @@
   ],
   "file_permissions": {
     "default_mode": "ENFORCED",
-    "allowed_files": [
-      "options.txt",
-      "optionsof.txt",
-      "optionsshaders.txt"
-    ],
     "enforced_files": [
       "mods/*",
-      "config/arenamaster/*",
       "kubejs/*",
       "defaultconfigs/*",
       "tacz/*",
-      "scripts/*",
-      "config/xaerominimap*",
-      "config/xaeroworldmap*",
-      "config/journeymap/*"
+      "scripts/*"
+    ],
+    "allowed_files": [
+      "options.txt"
     ],
     "line_rules": {
       "options.txt": {
@@ -43,19 +37,13 @@
   },
   "enforced_patterns": [
     "mods/*",
-    "config/arenamaster/*",
     "kubejs/*",
     "defaultconfigs/*",
     "tacz/*",
-    "scripts/*",
-    "config/xaerominimap*",
-    "config/xaeroworldmap*",
-    "config/journeymap/*"
+    "scripts/*"
   ],
   "protected_patterns": [
-    "options.txt",
-    "optionsof.txt",
-    "optionsshaders.txt"
+    "options.txt"
   ],
   "total_files": 103,
   "total_size_bytes": 969016681,
