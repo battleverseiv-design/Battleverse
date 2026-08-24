@@ -1,37 +1,67 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-22 19:11:40",
+  "generated_at": "2026-08-24 16:00:38",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
-    "config",
-    "defaultconfigs",
     "kubejs",
+    "tacz",
+    "config",
+    "shaderpacks",
     "mods",
     "resourcepacks",
-    "tacz",
-    "tacz_aim_addon"
+    "defaultconfigs",
+    "scripts"
+  ],
+  "file_permissions": {
+    "default_mode": "ENFORCED",
+    "allowed_files": [
+      "options.txt",
+      "optionsof.txt",
+      "optionsshaders.txt"
+    ],
+    "enforced_files": [
+      "mods/*",
+      "config/arenamaster/*",
+      "kubejs/*",
+      "defaultconfigs/*",
+      "tacz/*",
+      "scripts/*"
+    ],
+    "line_rules": {
+      "options.txt": {
+        "mode": "ALL",
+        "allowed_keys": [
+          "gamma",
+          "key_*",
+          "soundCategory_*",
+          "fov",
+          "guiScale",
+          "renderDistance",
+          "simulationDistance",
+          "fullscreen",
+          "vsync",
+          "*"
+        ]
+      }
+    }
+  },
+  "enforced_patterns": [
+    "mods/*",
+    "config/arenamaster/*",
+    "kubejs/*",
+    "defaultconfigs/*",
+    "tacz/*",
+    "scripts/*"
   ],
   "protected_patterns": [
     "options.txt",
     "optionsof.txt",
-    "servers.dat",
-    "servers.dat_old",
-    "usercache.json",
-    "usernamecache.json",
-    "launcher_profiles.json",
-    "*.log",
-    "*.tmp",
-    "crash-reports/*",
-    "logs/*",
-    "saves/*",
-    "screenshots/*",
-    ".battleverse*/*",
-    "runtime/*"
+    "optionsshaders.txt"
   ],
   "total_files": 104,
-  "total_size_bytes": 968207292,
-  "total_size_mb": 923.35,
+  "total_size_bytes": 969016572,
+  "total_size_mb": 924.13,
   "files": {
     "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1 — копия.jar": {
       "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
@@ -338,8 +368,8 @@
       "size": 222
     },
     "tacz/[TACZ}BattleVerseIVGunpack1.0.4.zip": {
-      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
-      "size": 22,
+      "sha256": "a7bed462fd8ad29fc2ae6d99afd2d4a323dd90ec7416210db12a7cfdc36ea263",
+      "size": 2925610,
       "extract_to": "tacz/[TACZ}BattleVerseIVGunpack1.0.4"
     },
     "config.zip": {
