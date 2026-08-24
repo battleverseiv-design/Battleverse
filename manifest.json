@@ -1,16 +1,16 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-24 17:06:03",
+  "generated_at": "2026-08-24 17:26:56",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
-    "tacz",
-    "defaultconfigs",
-    "mods",
-    "config",
     "resourcepacks",
-    "tacz_aim_addon",
-    "kubejs"
+    "mods",
+    "tacz",
+    "config",
+    "defaultconfigs",
+    "kubejs",
+    "tacz_aim_addon"
   ],
   "file_permissions": {
     "default_mode": "ENFORCED",
@@ -22,7 +22,8 @@
       "scripts/*"
     ],
     "allowed_files": [
-      "options.txt"
+      "options.txt",
+      "screenshots/*"
     ],
     "line_rules": {
       "options.txt": {
@@ -32,6 +33,24 @@
           "key_*",
           "soundCategory_*"
         ]
+      },
+      "config/custom.toml": {
+        "mode": "ALL",
+        "allowed_keys": [
+          "volume",
+          "key_*",
+          "fov",
+          "*"
+        ],
+        "locked_values": {
+          "gamma": "0.50"
+        },
+        "value_ranges": {
+          "gamma": {
+            "min": 0.0,
+            "max": 0.5
+          }
+        }
       }
     }
   },
@@ -43,7 +62,8 @@
     "scripts/*"
   ],
   "protected_patterns": [
-    "options.txt"
+    "options.txt",
+    "screenshots/*"
   ],
   "total_files": 103,
   "total_size_bytes": 969016681,
