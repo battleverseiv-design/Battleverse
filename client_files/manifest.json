@@ -1,16 +1,16 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-24 16:00:38",
+  "generated_at": "2026-08-24 16:05:29",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
-    "kubejs",
-    "tacz",
+    "defaultconfigs",
+    "mods",
     "config",
     "shaderpacks",
-    "mods",
+    "tacz",
     "resourcepacks",
-    "defaultconfigs",
+    "kubejs",
     "scripts"
   ],
   "file_permissions": {
@@ -26,7 +26,10 @@
       "kubejs/*",
       "defaultconfigs/*",
       "tacz/*",
-      "scripts/*"
+      "scripts/*",
+      "config/xaerominimap*",
+      "config/xaeroworldmap*",
+      "config/journeymap/*"
     ],
     "line_rules": {
       "options.txt": {
@@ -52,7 +55,10 @@
     "kubejs/*",
     "defaultconfigs/*",
     "tacz/*",
-    "scripts/*"
+    "scripts/*",
+    "config/xaerominimap*",
+    "config/xaeroworldmap*",
+    "config/journeymap/*"
   ],
   "protected_patterns": [
     "options.txt",
