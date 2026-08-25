@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-25 11:26:14",
+  "generated_at": "2026-08-25 11:28:43",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "tacz",
@@ -213,10 +213,6 @@
       "sha256": "46412f3b46b51acbbd02cef501147b0c4d9d3b6bae4fba31247d86f4dea052e5",
       "size": 146245,
       "extract_to": "tacz_aim_addon"
-    },
-    "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1 — копия.jar": {
-      "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
-      "size": 53429226
     },
     "mods/architectury-9.2.14-forge.jar": {
       "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
@@ -497,6 +493,10 @@
     "mods/yuushya-1.20.1-forge-2.2.3.jar": {
       "sha256": "53d82ee8583e01ecb91952e8ec2670b67650adf95eab89ab7cc5f500f92764dc",
       "size": 23411995
+    },
+    "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar": {
+      "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
+      "size": 53429226
     }
   }
 }
