@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-24 17:29:30",
+  "generated_at": "2026-08-25 11:22:07",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "resourcepacks",
@@ -72,9 +72,9 @@
     "options.txt",
     "screenshots/*"
   ],
-  "total_files": 103,
-  "total_size_bytes": 969016681,
-  "total_size_mb": 924.13,
+  "total_files": 101,
+  "total_size_bytes": 981971889,
+  "total_size_mb": 936.48,
   "files": {
     "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1 — копия.jar": {
       "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
@@ -120,10 +120,6 @@
       "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
       "size": 1181413
     },
-    "mods/colorful_lighting-1.20.1-2.6.1.jar": {
-      "sha256": "4f4708047acecc1f3dc51e4698f8c282ac21f9440a490be68d98cdf712f9e374",
-      "size": 264804
-    },
     "mods/connectivity-1.20.1-7.6.jar": {
       "sha256": "fbfa83da5a6f5717d34068af5283ebbb9f9a2474482bc818f588cd1bdbc11acd",
       "size": 120598
@@ -136,10 +132,6 @@
       "sha256": "eec8f9e98d456bbc0e6b2b82e928fbaedc4fd6c1055bd50311cb35d81802d6fc",
       "size": 97480
     },
-    "mods/cupboard-1.20.1-3.9.jar": {
-      "sha256": "e24e1d4c6ffbe8fca9b8da4aad14f3ea9b685b2830ddc33d67ab51aaea0c3d51",
-      "size": 31724
-    },
     "mods/curios-forge-5.14.1+1.20.1.jar": {
       "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
       "size": 398066
@@ -147,14 +139,6 @@
     "mods/doomsday_decoration-1.1.3-forge-1.20.1.jar": {
       "sha256": "2572f9e0ce97cce8ff6f3f207ad164e3da8cb8b45f6658705943af176f39cc63",
       "size": 9658884
-    },
-    "mods/Drip Sounds-0.5.2+1.20.4-Forge.jar": {
-      "sha256": "4e16d9f6ab9684e35a7980c2629843349ecd8a25c97735793e7c4041ca94135a",
-      "size": 58959
-    },
-    "mods/drippyloadingscreen_forge_3.1.2_MC_1.20.1.jar": {
-      "sha256": "fd548c4b9fd87f9389f74989ff5a41369d315b11826ad6637dafcf84abae50aa",
-      "size": 287611
     },
     "mods/embeddium-0.3.31+mc1.20.1.jar": {
       "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
@@ -179,10 +163,6 @@
     "mods/Explosion-Overhaul-0.2.3.0-forge-.jar": {
       "sha256": "feac2ed262604f01e74609acdeba83c9b0bbe2b602ba0da40196fb1041f2c64f",
       "size": 84444256
-    },
-    "mods/fancymenu_forge_3.9.8_MC_1.20.1.jar": {
-      "sha256": "70ed037969990c4cceeb0af80ed419d78e1c8f15189c80b5b5b520ca90dc6871",
-      "size": 25772373
     },
     "mods/fastboot-1.20.x-1.2.jar": {
       "sha256": "66c44b0648a3e3d4115c37593208b85668a97ce012355bad3d33f3cd8142a11f",
@@ -224,10 +204,6 @@
       "sha256": "dab997ea3593b110f8220abd4a90038e0a431cac5900a6ec60f6f2212fca9aa6",
       "size": 6125997
     },
-    "mods/Hook-0.3.jar": {
-      "sha256": "62e19939644dc8ba70f0ee362c1554758522ee0f5e2cd35f71b50e8cd6572594",
-      "size": 57755
-    },
     "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar": {
       "sha256": "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b",
       "size": 625185
@@ -252,17 +228,9 @@
       "sha256": "cae5f556c1722de1b1cc3ff112eef9cd6054fdc16e77d879eaabadb6bf0a1670",
       "size": 887220
     },
-    "mods/lrtactical-1.20.1-0.4.1.jar": {
-      "sha256": "42f3b2f5a4194baa10ce76720b5770290a64105634f0dcd9182fc0ef33800e6e",
-      "size": 5439652
-    },
     "mods/marbledsarsenal-1.20.1forge-2.4.0.0.jar": {
       "sha256": "e399a59a30d40651d1cab943c5f80dd79fb58d7d1ff7268ae1e314cae8a3b63b",
       "size": 389987
-    },
-    "mods/maxstuff-1.8.2_ammofix.jar": {
-      "sha256": "8f1d99b5d8901b382c76e00e146505cd155e25a102ad8ddb4a2ff57e1ceedbbe",
-      "size": 33738744
     },
     "mods/mcore-1.20.1-1.0.3.0.jar": {
       "sha256": "b9a5e6fa48b9d02806f6ee34899d84d27e09c7cded035f2834de2bed83fc4267",
@@ -280,10 +248,6 @@
       "sha256": "35f27982242a3ea58c526204a28704ddf355d19bb2e9b0ff10f9585c255a4f16",
       "size": 45246
     },
-    "mods/modernfix-forge-5.27.66+mc1.20.1.jar": {
-      "sha256": "7db0c735b9037937757dcc9d40e0b6e2dee5f01336096e1a3a2a371ed0cfda4d",
-      "size": 1002234
-    },
     "mods/morebarriers-1.0.0-[Forge][1.20.1].jar": {
       "sha256": "b11b6be6eee0dd151730f83273f28e48ac7bd5609d0f28f2b352b1863fcd6ecf",
       "size": 148668
@@ -291,10 +255,6 @@
     "mods/nof3b-1.0.0.jar": {
       "sha256": "d59e17f91c70bec129c32be75e070970222fb1c6844c50369dc1100a3c62e8f9",
       "size": 14285
-    },
-    "mods/particlerain-4.0.0-beta.10+1.20.1-forge.jar": {
-      "sha256": "84b9fa953a77a88b69e9fa80442f4e3c5c92bace4467b014f8128a1128707b7c",
-      "size": 1239956
     },
     "mods/Pehkui-3.8.2+1.20.1-forge.jar": {
       "sha256": "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc",
@@ -324,10 +284,6 @@
       "sha256": "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500",
       "size": 110583
     },
-    "mods/superbwarfare-0.8.9-final-mc1.20.1-6effe4385-all.jar": {
-      "sha256": "6eece0df9c927bddee3bd373fe90a2bbcba7157e9408ee0f94d13e04dc638395",
-      "size": 31691008
-    },
     "mods/survival_instinct-1.0.2-forge-1.20.1.jar": {
       "sha256": "9f73d8ec5fcf6bb6641f46c0484c63dbfc4ed883c73f7dbbad38de8fcc753e62",
       "size": 2136620
@@ -347,10 +303,6 @@
     "mods/tac_inventory-1.0.0-1.20.1.jar": {
       "sha256": "9d1ce866812132f3d4eac130d0dbf564332649c1928a436482f18202886b6505",
       "size": 104127
-    },
-    "mods/warborn-1.20.1-2.3.3.jar": {
-      "sha256": "a3c7e837341d5101a64ffc3495c9688ab5ce3f110c819df1c33bce4cbdcff13f",
-      "size": 1703964
     },
     "mods/worldedit-mod-7.2.15.jar": {
       "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
@@ -514,6 +466,46 @@
       "sha256": "46412f3b46b51acbbd02cef501147b0c4d9d3b6bae4fba31247d86f4dea052e5",
       "size": 146245,
       "extract_to": "tacz_aim_addon"
+    },
+    "mods/colorful_lighting-1.20.1-2.7.0.jar": {
+      "sha256": "b41e0f713b16e139999195d3d708c70500b362dfe3451b971343fe8a94618c65",
+      "size": 520259
+    },
+    "mods/cupboard-1.20.1-4.0.jar": {
+      "sha256": "f0b009883912595746114466c9045c3678f4612734f5dbbe10e447e4037cf44e",
+      "size": 32483
+    },
+    "mods/drippyloadingscreen_forge_3.1.5_MC_1.20.1.jar": {
+      "sha256": "3213b0a5ae3b487360bc2cafd036a11f35c4e1465122e18e218968c0771ddc42",
+      "size": 281881
+    },
+    "mods/fancymenu_forge_3.9.10_MC_1.20.1.jar": {
+      "sha256": "b9dfc9099466f062ca425e42dbe601365c3f39e4e48db03115ae86085433ee7c",
+      "size": 26174393
+    },
+    "mods/fracturepoint-1.20.1-3.0.0-PT2-all.jar": {
+      "sha256": "0ec243efe680c4fb5303fb91620ecf68bf7232752f52af525641e07aec1b01f9",
+      "size": 2465304
+    },
+    "mods/lrtactical-1.20.1-0.4.3.jar": {
+      "sha256": "930372cab33e1f563f597c74f9155b5ed25e6f2b0ff7e12dfc86255e1020ef2d",
+      "size": 6614642
+    },
+    "mods/maxstuff-legacy-1.8.3_hotfix.jar": {
+      "sha256": "ea4495edbcdf96b085130ad05ddc2b5092fc54c162aa7ae4a327b84ef328d0f2",
+      "size": 33737826
+    },
+    "mods/modernfix-forge-5.27.77+mc1.20.1.jar": {
+      "sha256": "d4be9281c569eb761a5764a27c7733e6cb6a34adaff5392b711edf09bba32636",
+      "size": 1001858
+    },
+    "mods/particlerain-4.0.0-beta.11+1.20.1-forge.jar": {
+      "sha256": "d0a0cfde04071f186c43bd5b18ccfac3a247d8c74ca334b5cf36e1288532dc5a",
+      "size": 1252832
+    },
+    "mods/superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar": {
+      "sha256": "3aaf4c239bc0fb31f9217927a44d74071d904d1dd03c5308ca3395ecd67d86dc",
+      "size": 42162514
     }
   }
 }
