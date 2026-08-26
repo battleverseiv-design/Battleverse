@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-26 17:41:14",
+  "generated_at": "2026-08-26 17:41:43",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "tacz_aim_addon",
@@ -64,7 +64,7 @@
     "screenshots/*"
   ],
   "total_files": 101,
-  "total_size_bytes": 932896432,
+  "total_size_bytes": 932894140,
   "total_size_mb": 889.68,
   "files": {
     "options.txt": {
@@ -80,8 +80,8 @@
       "size": 222
     },
     "config.zip": {
-      "sha256": "43b85e272229bd5f5a902da89a08cd38e9426bbe037f13850c9a365c9edb7a8f",
-      "size": 21539377,
+      "sha256": "165e99bb9cdd9c17fcd35ec5fdf1375a8774c1f527c9205f3d98a23704e43f35",
+      "size": 21537085,
       "extract_to": "config"
     },
     "defaultconfigs.zip": {
