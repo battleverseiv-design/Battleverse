@@ -1,16 +1,16 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-25 11:52:25",
+  "generated_at": "2026-08-26 17:41:14",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
-    "defaultconfigs",
-    "kubejs",
-    "tacz",
-    "config",
     "tacz_aim_addon",
+    "config",
+    "defaultconfigs",
     "mods",
-    "resourcepacks"
+    "kubejs",
+    "resourcepacks",
+    "tacz"
   ],
   "file_permissions": {
     "default_mode": "ENFORCED",
@@ -64,8 +64,8 @@
     "screenshots/*"
   ],
   "total_files": 101,
-  "total_size_bytes": 932881147,
-  "total_size_mb": 889.66,
+  "total_size_bytes": 932896432,
+  "total_size_mb": 889.68,
   "files": {
     "options.txt": {
       "sha256": "0cb7a6d91c236423eaa5027f05fae774ce7308f8714ca82f49f947847b1fb2d3",
@@ -214,7 +214,7 @@
       "size": 146245,
       "extract_to": "tacz_aim_addon"
     },
-    "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1 — копия.jar": {
+    "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar": {
       "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
       "size": 53429226
     },
@@ -223,8 +223,8 @@
       "size": 580602
     },
     "mods/arenamaster-2.0.1.jar": {
-      "sha256": "f7bab9f0e0c5d3dc8cb735ec30e1c43ed6556a7169152569da2d97bcfe8c3146",
-      "size": 2426817
+      "sha256": "58ac1ea8b4ff5f2bed9d710e575f2f6db74885af177c489ed028f396145c8122",
+      "size": 2442102
     },
     "mods/AttributeFix-Forge-1.20.1-21.0.5.jar": {
       "sha256": "43ccfd91c1a24d1b3c9d3ccf2dd6a86e9f0c2ba442b111a2238fbff3cf88af11",
