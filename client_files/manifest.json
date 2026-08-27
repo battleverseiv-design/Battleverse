@@ -1,15 +1,15 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-27 12:48:33",
+  "generated_at": "2026-08-27 13:24:58",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
-    "tacz",
     "mods",
-    "resourcepacks",
+    "tacz",
+    "tacz_aim_addon",
     "defaultconfigs",
     "kubejs",
-    "tacz_aim_addon",
+    "resourcepacks",
     "config"
   ],
   "file_permissions": {
@@ -63,9 +63,9 @@
     "options.txt",
     "screenshots/*"
   ],
-  "total_files": 101,
-  "total_size_bytes": 996197765,
-  "total_size_mb": 950.05,
+  "total_files": 100,
+  "total_size_bytes": 996171165,
+  "total_size_mb": 950.02,
   "files": {
     "options.txt": {
       "sha256": "0cb7a6d91c236423eaa5027f05fae774ce7308f8714ca82f49f947847b1fb2d3",
@@ -321,10 +321,6 @@
     "mods/fastboot-1.20.x-1.2.jar": {
       "sha256": "66c44b0648a3e3d4115c37593208b85668a97ce012355bad3d33f3cd8142a11f",
       "size": 24477
-    },
-    "mods/FastSuite-1.20.1-5.1.2.jar": {
-      "sha256": "5e05cb3ce05785a0061a41b7a83443074a6c26dd7d9db75c453fa2487481d54e",
-      "size": 26600
     },
     "mods/ferritecore-6.0.1-forge.jar": {
       "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
