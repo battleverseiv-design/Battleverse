@@ -1,15 +1,15 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-27 12:30:03",
+  "generated_at": "2026-08-27 12:48:33",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
-    "mods",
     "tacz",
-    "tacz_aim_addon",
+    "mods",
+    "resourcepacks",
     "defaultconfigs",
     "kubejs",
-    "resourcepacks",
+    "tacz_aim_addon",
     "config"
   ],
   "file_permissions": {
@@ -64,7 +64,7 @@
     "screenshots/*"
   ],
   "total_files": 101,
-  "total_size_bytes": 996197414,
+  "total_size_bytes": 996197765,
   "total_size_mb": 950.05,
   "files": {
     "options.txt": {
@@ -223,8 +223,8 @@
       "size": 580602
     },
     "mods/arenamaster-2.0.1.jar": {
-      "sha256": "7066c740e1a3f466c821b00d71cac400e74a67e41c6d6f5167532efe498a1eee",
-      "size": 2452113
+      "sha256": "d673a691672f9946d3a94de25ea7cba31d64c01763d65d46b27ceb299b5030b0",
+      "size": 2452464
     },
     "mods/AttributeFix-Forge-1.20.1-21.0.5.jar": {
       "sha256": "43ccfd91c1a24d1b3c9d3ccf2dd6a86e9f0c2ba442b111a2238fbff3cf88af11",
