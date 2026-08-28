@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-28 17:13:13",
+  "generated_at": "2026-08-28 17:19:42",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
     "mods",
@@ -65,7 +65,7 @@
     "screenshots/*"
   ],
   "total_files": 253,
-  "total_size_bytes": 993862419,
+  "total_size_bytes": 993862936,
   "total_size_mb": 947.82,
   "files": {
     "options.txt": {
@@ -860,8 +860,8 @@
       "size": 13976837
     },
     "mods/cardecor-1.20.1-1.0.0.jar": {
-      "sha256": "b3c061c57236e4ffd7dedba58964cde88d2edfa29a174106f74bcf416d98f685",
-      "size": 224148
+      "sha256": "1c3a7b2ff89765d2fbc48fd3759c0a77438f9a10d8dad5ec311c33cc4ec69ea8",
+      "size": 224665
     },
     "mods/ccore-1.0.0.jar": {
       "sha256": "42b256aed0cfa17ce73cd6f4f37af90b28d6d1b80383fb27bb7f54fb95895baa",
