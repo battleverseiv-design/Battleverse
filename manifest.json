@@ -1,16 +1,17 @@
 {
   "format_version": 1,
   "version": "0.0.1.4",
-  "generated_at": "2026-08-27 13:24:58",
+  "generated_at": "2026-08-28 17:04:46",
   "base_download_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/",
   "managed_folders": [
+    "resourcepacks",
     "mods",
-    "tacz",
     "tacz_aim_addon",
     "defaultconfigs",
-    "kubejs",
-    "resourcepacks",
-    "config"
+    "tacz",
+    "cardecor_packs",
+    "config",
+    "kubejs"
   ],
   "file_permissions": {
     "default_mode": "ENFORCED",
@@ -63,9 +64,9 @@
     "options.txt",
     "screenshots/*"
   ],
-  "total_files": 100,
-  "total_size_bytes": 996171165,
-  "total_size_mb": 950.02,
+  "total_files": 253,
+  "total_size_bytes": 1006836064,
+  "total_size_mb": 960.19,
   "files": {
     "options.txt": {
       "sha256": "0cb7a6d91c236423eaa5027f05fae774ce7308f8714ca82f49f947847b1fb2d3",
@@ -493,6 +494,618 @@
     "mods/yuushya-1.20.1-forge-2.2.3.jar": {
       "sha256": "53d82ee8583e01ecb91952e8ec2670b67650adf95eab89ab7cc5f500f92764dc",
       "size": 23411995
+    },
+    "cardecor_packs/cardecor_official_pack/pack.mcmeta": {
+      "sha256": "073f34e68415671933a15ca0a110605662c117ab24456733dffee8fc18629b14",
+      "size": 158
+    },
+    "cardecor_packs/cardecor_official_pack/vehicle.json": {
+      "sha256": "904a464312bfe29c10622c0a6fc40c6233a28e9d97af786972ac074f9ce4b6e9",
+      "size": 2664
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds.json": {
+      "sha256": "df5db5e1098e539633befd8880f5f11a08042b8c1ee1e1c331db0dd2d80e1994",
+      "size": 14131
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/brake_hard_1.ogg": {
+      "sha256": "e550e6a8d79fe9ecc78b858fd35d2570c0e126f170ede682b88a54403dc5741b",
+      "size": 104166
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/brake_hard_2.ogg": {
+      "sha256": "aff85f7da03645f227c290794d3f7e0cf5a6000ada5af078a0919ab580924a35",
+      "size": 74826
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/brake_slow.ogg": {
+      "sha256": "f6efa1b8f9e7cc8b81a6da1117a69bcfe70e197427cf3ca051f6832029b78a3e",
+      "size": 92315
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_crash_1.ogg": {
+      "sha256": "0ad7849a47b69b70d69fef070e894224ba5bce7eed5f540d68d82da02657c090",
+      "size": 30905
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_crash_2.ogg": {
+      "sha256": "2a31ad8fb6d3381f43ef63d908aea4c7b923995b7d884ae55b5da17b5bcf4323",
+      "size": 30365
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_crash_3.ogg": {
+      "sha256": "e77bf0183ade8198cca8ad1811cad9a5694c2c6aa82466d18b38199d80754cf4",
+      "size": 27700
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_explode_1.ogg": {
+      "sha256": "a5a546a32ccad2dd1b0b1224e218830ddc70f50c64b5c0a06e0ca60cb08dddc7",
+      "size": 149729
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_explode_2.ogg": {
+      "sha256": "f99493926a6e791774f53aca875f79bb4e88da57c6cbc85f2873db166fe2e400",
+      "size": 135396
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_explode_3.ogg": {
+      "sha256": "2b0bb9d87f41c2220d549fcb1cb2599517d35074452b5d9888a7f13886ab3cc7",
+      "size": 139313
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_explode_4.ogg": {
+      "sha256": "5c2e90084addbe29e10a3744c9d136cd20f9bc9a043eec7a2db41c443471abd8",
+      "size": 136401
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_horn_1.ogg": {
+      "sha256": "330cc43539f390e9afdb0f602dac360e4e82e33f44bf8207d520aa459340dd76",
+      "size": 24206
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_horn_2.ogg": {
+      "sha256": "a8193bbd84e050b30e6e1a56c04b9e40e2e1e04cf3f3197c9a9963432f7cd506",
+      "size": 21729
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_landing.ogg": {
+      "sha256": "dd6f7e82019b9de513470651264bb750e23bc3ecc9848faf5318f31a8fadade0",
+      "size": 34730
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_landing_heavy.ogg": {
+      "sha256": "b55ba47da8b633ae6e4529b9bee1f7ac88f6fd9e91a43cf7a35e0f3cfb467b3b",
+      "size": 19546
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_landing_heavy_1.ogg": {
+      "sha256": "f1e89ff43ba301a699cbaa6292782dd869be1ee361758e40c4e672b261720fd0",
+      "size": 24817
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_landing_heavy_2.ogg": {
+      "sha256": "8a3e9561767542d0c78bbfc20ae065830040902677d4d2b535df74d609a87f8c",
+      "size": 24434
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_landing_heavy_3.ogg": {
+      "sha256": "12134029e92b3622b9e841de76d90b82d00139b02673f8175dbf2f05dd1e53b4",
+      "size": 23525
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_landing_heavy_4.ogg": {
+      "sha256": "f9e4614fcfbdafaa895027ac38fac42c63eb393aaa59a4b876634f3d14b82317",
+      "size": 24663
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/car_landing_light.ogg": {
+      "sha256": "63c22aee7cef8a9317358cae319570321b853dbf85ad88396eb1cb459439ebaa",
+      "size": 20926
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/engine_loop_1.ogg": {
+      "sha256": "9780b2759c80c04d3b51aa6514d5c439bb7b9e636c04da143249d14bb3d6c39e",
+      "size": 19522
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/engine_loop_2.ogg": {
+      "sha256": "8537ec5d55f4fee6d3b42d878c70e4475ee72e78397b7da322c1fbc9e1684ca5",
+      "size": 22334
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/engine_loop_3.ogg": {
+      "sha256": "91191360b6e7eaac29e09ff9cfc18d51baf707d5f05ffd8e2884a778fc0aa99d",
+      "size": 27169
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/engine_loop_4.ogg": {
+      "sha256": "316ac78904f9987d2c4a8d2eb0baf50dfb9cb4edd9301c2858dd808b11b6096a",
+      "size": 28290
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/engine_loop_5.ogg": {
+      "sha256": "0881ae5efe7bd08bceb08341766660e7df6b6145063f4ee850f3ce9ab6eb7021",
+      "size": 27771
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/engine_loop_6.ogg": {
+      "sha256": "d47ce7425864657870962f8f71ab2d636050aabde9606bbc198e3609f877b4e7",
+      "size": 27833
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/engine_loop_7.ogg": {
+      "sha256": "02ac16486f63796322210e3da8645a1b8b6a2fcd3520d67587ad77b7ad5fc9b5",
+      "size": 26711
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/engine_loop_8.ogg": {
+      "sha256": "244165d74d6155a4f9f2145da89a1691e6e45d944682731e081f9041c23da786",
+      "size": 23833
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/engine_loop_9.ogg": {
+      "sha256": "665998bd2d01e0c34007a54e25737ae5fe0e37d2c2aa76c477d7154d55d75205",
+      "size": 33291
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/engine_stop_i6.ogg": {
+      "sha256": "5933feb45913c708dbaae7e50100642a637fc32b00f2aff5e80c2ee696cb476b",
+      "size": 16422
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/engine_stop_v8.ogg": {
+      "sha256": "e68f76163f5b6a08a9d963742c8ef2c4e4c09882d820dd3c4465491610b70831",
+      "size": 18090
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/gear_shift_1.ogg": {
+      "sha256": "4f16dbf32c2476a73680fe11b949211a5ebfd0f22c00f0cfd12a5c109a501251",
+      "size": 14062
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/gear_shift_2.ogg": {
+      "sha256": "0e73fb6dd0557157ccbc1cf53c2c5fd89dc94ecee0807e52bd27c59a413c5bf1",
+      "size": 13345
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/gear_shift_3.ogg": {
+      "sha256": "3f52c56901fcff5c409661a464ba4323c1daf7cf87d75d05a4ec823c1c9fe265",
+      "size": 13499
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/gear_shift_4.ogg": {
+      "sha256": "65835e1663676787ba3a743a6db7ee6434d7c0d799eb1f8d9f2a6dc677c00f7a",
+      "size": 14441
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/pickup_engine_0.ogg": {
+      "sha256": "89bf50c7b0427b74a37e270e10a710fcca16fd39fc738cb5af993a062d26a1ca",
+      "size": 202119
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/pickup_engine_1.ogg": {
+      "sha256": "35faa9051bcecd094ecff64319799ca97d78142be7c849961aca4275e735befc",
+      "size": 148452
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/pickup_engine_2.ogg": {
+      "sha256": "31339538328cae8efaa9194d3e0450842dd038cfbd5b40c946cc7b08df89abd6",
+      "size": 148364
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/pickup_engine_3.ogg": {
+      "sha256": "408b4691160bc757a7d44ada9c42ac3073b2b535ef86a30d18525a5adbc81c95",
+      "size": 142399
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/pickup_engine_4.ogg": {
+      "sha256": "76abe59e71fd37df1b4df51553927df250ddf432b9b9ada180f6f9bbadf93dbf",
+      "size": 145108
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/starter_i4.ogg": {
+      "sha256": "185e70be13a1e7850a61d32a25250ffe56537cad6b26dae4a9d74e133c5df29c",
+      "size": 45138
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/starter_i6.ogg": {
+      "sha256": "887d95bd5685702ef955d922a8636089cc1dbfed6cec5b61ffd1f6ba6a01e01c",
+      "size": 63112
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/starter_v8.ogg": {
+      "sha256": "a3d127c22f0a55b9a1ffe37394780a6a5131eeb5655170f3b751e4cf325de29d",
+      "size": 57458
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/suspension_creak_1.ogg": {
+      "sha256": "415a94626fba832aee9ac5bf069e25c8f1c736148eba8b0c124b80f8166a92eb",
+      "size": 11280
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/suspension_creak_2.ogg": {
+      "sha256": "690683343b4926aaf8619f6f1395e54894da68a428f8fec2768d9b67adfb50f1",
+      "size": 8230
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/suspension_creak_3.ogg": {
+      "sha256": "79ae0bf9c12c3e77de5b002f20362150ee9f66304dfb38147051816585f62c87",
+      "size": 11753
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/suspension_creak_4.ogg": {
+      "sha256": "f498a60cc138a8c772f907f42cdf128e77a20782da4f21c7db6373d1741f6ab5",
+      "size": 9575
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/tire_deflate_1.ogg": {
+      "sha256": "23c90d3cafc50654da7686aff1f37fae34042d9a14d6457acdb7520c9e2c25c3",
+      "size": 115013
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/tire_deflate_2.ogg": {
+      "sha256": "6ac810c9a242eace56825e2dad4931099fb9eed8cd0d706b0bf26dc59a105baa",
+      "size": 109462
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/tire_deflate_3.ogg": {
+      "sha256": "5c6433e29653d7e52324a8a3791e6db35e5d47ebea1c628d999716e1d7bb821a",
+      "size": 102886
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/tire_deflate_4.ogg": {
+      "sha256": "efb7e3df2ea0fbf135a48e839102b9a7f9dca9031a82353e0adb1751479eb146",
+      "size": 108568
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/tire_explode_1.ogg": {
+      "sha256": "c663b6db7c02f0814b42bfcdac75a74735e44e9dccbd5289c5f2674f7c574290",
+      "size": 36756
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/tire_explode_2.ogg": {
+      "sha256": "845c2541e4cd33dd13d656a7a2b7ed216889d3f51f40e5d6a22b95d6c3c98fba",
+      "size": 37902
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/tire_explode_3.ogg": {
+      "sha256": "b90761ecb207343f6defaab27bae6169f0c5018f5f14a864ccba4b7d98111547",
+      "size": 41620
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/tire_explode_4.ogg": {
+      "sha256": "d713d954e87f9d83fca9030bee20bd303b32e147791b9da379a1aca7b5c95bcd",
+      "size": 41095
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/tire_roll_dirt.ogg": {
+      "sha256": "389b0778a832a6feb21008a5a44077b1edf1b1ae8f06be614b9055179650403a",
+      "size": 106576
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/tire_roll_road.ogg": {
+      "sha256": "bee327607ebb25a05618a4496fa70d9b5655a2ea3036920a1e915f4c4e37f03d",
+      "size": 93225
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/tire_screech.ogg": {
+      "sha256": "f1fadacdcd3bc1b85fcabaf87c62d24bac15799d1de1f1432fda4bc18f76c97a",
+      "size": 29642
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/vintage_engine_crank_fail.ogg": {
+      "sha256": "c8a5e66ac7094629766f3ab1177f741dd3c53b2e2b3965219a55004118037249",
+      "size": 29070
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/vintage_engine_high.ogg": {
+      "sha256": "b9ec640c3a56054463748feff6d65b769a733a364b607609e6e64da43993b331",
+      "size": 36112
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/vintage_engine_idle.ogg": {
+      "sha256": "903e0c86abb750d9974a487aad0d9b43f49ea63bf34bc890604c62493e2a7da7",
+      "size": 34206
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/vintage_engine_loop.ogg": {
+      "sha256": "be10047c8f4fa45efff3ec738cf1c1b677f8e18f2e8057d217c8b077aca79baa",
+      "size": 59350
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/vintage_engine_loop.wav": {
+      "sha256": "6911d4e52bb1c58eb9c29d24796914a4df6a7a0e23c79a302956c47694956c0a",
+      "size": 176444
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/vintage_engine_start.ogg": {
+      "sha256": "69098dcb97e8f4eb3860c38c1b9bcd8ea9a790c6d9465f332c57ad65d5800f60",
+      "size": 15195
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/wheel_hub_grind.ogg": {
+      "sha256": "7c1ba3b475b16a17797b111b19ae00388a9872a60f4f0e62ba225182ab0aecf2",
+      "size": 39052
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/blue_sedan/high.ogg": {
+      "sha256": "bc24213b67b1336b0b129ecb92d6af8e5b368b2fe614395b6c5960aeb67c9e7d",
+      "size": 128464
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/blue_sedan/idle.ogg": {
+      "sha256": "70333db47c431f84e23b23f824e5a5af740174cc622651c601af2c9024f351b5",
+      "size": 129034
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/blue_sedan/low.ogg": {
+      "sha256": "7f306ae5a3be4eaa22a2ffd2b4b85d2432fb49853d61a61675b17895b1e44eff",
+      "size": 135304
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/blue_sedan/max.ogg": {
+      "sha256": "31a839e8129cb9095cf23fab7589d00a47de1b9c28a213868b547c6d5d1951bf",
+      "size": 69127
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/blue_sedan/mid.ogg": {
+      "sha256": "b7afee6cb2d4c6c18f1db1258dc10fac083036a1228902ef5e8d6d5a0481f2fc",
+      "size": 131937
+    },
+    "cardecor_packs/cardecor_official_pack/assets/cardecor/sounds/blue_sedan/start.ogg": {
+      "sha256": "8e1c63fa6ec59839264dbf5ad0ce415799b2d0109bc1f682506d444f685d3650",
+      "size": 66454
+    },
+    "cardecor_packs/cardecor_official_pack/models/pickup_chassis.obj": {
+      "sha256": "9c2ff6c959de8d2947a1dcee0214d53d46fc4619f8ecff9f34fad468c42cf00c",
+      "size": 847741
+    },
+    "cardecor_packs/cardecor_official_pack/models/pickup_steering_wheel.obj": {
+      "sha256": "b721c6da19979fc07b63aa5489e2571108e9d3c32e4cb68428a4a7d8f731b038",
+      "size": 27374
+    },
+    "cardecor_packs/cardecor_official_pack/models/pickup_wheel.obj": {
+      "sha256": "0e2c58f53bf46154b3be2aaec2f41712f235cb4b8dede23fb26790be8a01a321",
+      "size": 45050
+    },
+    "cardecor_packs/cardecor_official_pack/models/sedan_chassis.obj": {
+      "sha256": "6d6a49eac8335493bba54dba20012341c51e0f02bcd082a0c013eccbfe4debfc",
+      "size": 836725
+    },
+    "cardecor_packs/cardecor_official_pack/models/sedan_steering_wheel.obj": {
+      "sha256": "8c7f24ca12d92587165256ec089262d9c631e169969881a6cbeefa8b4abd3b4a",
+      "size": 13145
+    },
+    "cardecor_packs/cardecor_official_pack/models/sedan_wheel.obj": {
+      "sha256": "42233d6aff408de3b8b0d1afa30f879831e56ae8adf3e671cb7d981fb84608ae",
+      "size": 48151
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/brake_hard_1.ogg": {
+      "sha256": "e550e6a8d79fe9ecc78b858fd35d2570c0e126f170ede682b88a54403dc5741b",
+      "size": 104166
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/brake_hard_2.ogg": {
+      "sha256": "aff85f7da03645f227c290794d3f7e0cf5a6000ada5af078a0919ab580924a35",
+      "size": 74826
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/brake_slow.ogg": {
+      "sha256": "f6efa1b8f9e7cc8b81a6da1117a69bcfe70e197427cf3ca051f6832029b78a3e",
+      "size": 92315
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_crash_1.ogg": {
+      "sha256": "0ad7849a47b69b70d69fef070e894224ba5bce7eed5f540d68d82da02657c090",
+      "size": 30905
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_crash_2.ogg": {
+      "sha256": "2a31ad8fb6d3381f43ef63d908aea4c7b923995b7d884ae55b5da17b5bcf4323",
+      "size": 30365
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_crash_3.ogg": {
+      "sha256": "e77bf0183ade8198cca8ad1811cad9a5694c2c6aa82466d18b38199d80754cf4",
+      "size": 27700
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_explode_1.ogg": {
+      "sha256": "a5a546a32ccad2dd1b0b1224e218830ddc70f50c64b5c0a06e0ca60cb08dddc7",
+      "size": 149729
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_explode_2.ogg": {
+      "sha256": "f99493926a6e791774f53aca875f79bb4e88da57c6cbc85f2873db166fe2e400",
+      "size": 135396
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_explode_3.ogg": {
+      "sha256": "2b0bb9d87f41c2220d549fcb1cb2599517d35074452b5d9888a7f13886ab3cc7",
+      "size": 139313
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_explode_4.ogg": {
+      "sha256": "5c2e90084addbe29e10a3744c9d136cd20f9bc9a043eec7a2db41c443471abd8",
+      "size": 136401
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_horn_1.ogg": {
+      "sha256": "330cc43539f390e9afdb0f602dac360e4e82e33f44bf8207d520aa459340dd76",
+      "size": 24206
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_horn_2.ogg": {
+      "sha256": "a8193bbd84e050b30e6e1a56c04b9e40e2e1e04cf3f3197c9a9963432f7cd506",
+      "size": 21729
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_landing.ogg": {
+      "sha256": "dd6f7e82019b9de513470651264bb750e23bc3ecc9848faf5318f31a8fadade0",
+      "size": 34730
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_landing_heavy.ogg": {
+      "sha256": "b55ba47da8b633ae6e4529b9bee1f7ac88f6fd9e91a43cf7a35e0f3cfb467b3b",
+      "size": 19546
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_landing_heavy_1.ogg": {
+      "sha256": "f1e89ff43ba301a699cbaa6292782dd869be1ee361758e40c4e672b261720fd0",
+      "size": 24817
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_landing_heavy_2.ogg": {
+      "sha256": "8a3e9561767542d0c78bbfc20ae065830040902677d4d2b535df74d609a87f8c",
+      "size": 24434
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_landing_heavy_3.ogg": {
+      "sha256": "12134029e92b3622b9e841de76d90b82d00139b02673f8175dbf2f05dd1e53b4",
+      "size": 23525
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_landing_heavy_4.ogg": {
+      "sha256": "f9e4614fcfbdafaa895027ac38fac42c63eb393aaa59a4b876634f3d14b82317",
+      "size": 24663
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/car_landing_light.ogg": {
+      "sha256": "63c22aee7cef8a9317358cae319570321b853dbf85ad88396eb1cb459439ebaa",
+      "size": 20926
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/engine_loop_1.ogg": {
+      "sha256": "9780b2759c80c04d3b51aa6514d5c439bb7b9e636c04da143249d14bb3d6c39e",
+      "size": 19522
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/engine_loop_2.ogg": {
+      "sha256": "8537ec5d55f4fee6d3b42d878c70e4475ee72e78397b7da322c1fbc9e1684ca5",
+      "size": 22334
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/engine_loop_3.ogg": {
+      "sha256": "91191360b6e7eaac29e09ff9cfc18d51baf707d5f05ffd8e2884a778fc0aa99d",
+      "size": 27169
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/engine_loop_4.ogg": {
+      "sha256": "316ac78904f9987d2c4a8d2eb0baf50dfb9cb4edd9301c2858dd808b11b6096a",
+      "size": 28290
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/engine_loop_5.ogg": {
+      "sha256": "0881ae5efe7bd08bceb08341766660e7df6b6145063f4ee850f3ce9ab6eb7021",
+      "size": 27771
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/engine_loop_6.ogg": {
+      "sha256": "d47ce7425864657870962f8f71ab2d636050aabde9606bbc198e3609f877b4e7",
+      "size": 27833
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/engine_loop_7.ogg": {
+      "sha256": "02ac16486f63796322210e3da8645a1b8b6a2fcd3520d67587ad77b7ad5fc9b5",
+      "size": 26711
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/engine_loop_8.ogg": {
+      "sha256": "244165d74d6155a4f9f2145da89a1691e6e45d944682731e081f9041c23da786",
+      "size": 23833
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/engine_loop_9.ogg": {
+      "sha256": "665998bd2d01e0c34007a54e25737ae5fe0e37d2c2aa76c477d7154d55d75205",
+      "size": 33291
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/engine_stop_i6.ogg": {
+      "sha256": "5933feb45913c708dbaae7e50100642a637fc32b00f2aff5e80c2ee696cb476b",
+      "size": 16422
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/engine_stop_v8.ogg": {
+      "sha256": "e68f76163f5b6a08a9d963742c8ef2c4e4c09882d820dd3c4465491610b70831",
+      "size": 18090
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/gear_shift_1.ogg": {
+      "sha256": "4f16dbf32c2476a73680fe11b949211a5ebfd0f22c00f0cfd12a5c109a501251",
+      "size": 14062
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/gear_shift_2.ogg": {
+      "sha256": "0e73fb6dd0557157ccbc1cf53c2c5fd89dc94ecee0807e52bd27c59a413c5bf1",
+      "size": 13345
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/gear_shift_3.ogg": {
+      "sha256": "3f52c56901fcff5c409661a464ba4323c1daf7cf87d75d05a4ec823c1c9fe265",
+      "size": 13499
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/gear_shift_4.ogg": {
+      "sha256": "65835e1663676787ba3a743a6db7ee6434d7c0d799eb1f8d9f2a6dc677c00f7a",
+      "size": 14441
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/high.ogg": {
+      "sha256": "bc24213b67b1336b0b129ecb92d6af8e5b368b2fe614395b6c5960aeb67c9e7d",
+      "size": 128464
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/idle.ogg": {
+      "sha256": "70333db47c431f84e23b23f824e5a5af740174cc622651c601af2c9024f351b5",
+      "size": 129034
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/low.ogg": {
+      "sha256": "7f306ae5a3be4eaa22a2ffd2b4b85d2432fb49853d61a61675b17895b1e44eff",
+      "size": 135304
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/max.ogg": {
+      "sha256": "31a839e8129cb9095cf23fab7589d00a47de1b9c28a213868b547c6d5d1951bf",
+      "size": 69127
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/mid.ogg": {
+      "sha256": "b7afee6cb2d4c6c18f1db1258dc10fac083036a1228902ef5e8d6d5a0481f2fc",
+      "size": 131937
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/pickup_engine_0.ogg": {
+      "sha256": "89bf50c7b0427b74a37e270e10a710fcca16fd39fc738cb5af993a062d26a1ca",
+      "size": 202119
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/pickup_engine_1.ogg": {
+      "sha256": "35faa9051bcecd094ecff64319799ca97d78142be7c849961aca4275e735befc",
+      "size": 148452
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/pickup_engine_2.ogg": {
+      "sha256": "31339538328cae8efaa9194d3e0450842dd038cfbd5b40c946cc7b08df89abd6",
+      "size": 148364
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/pickup_engine_3.ogg": {
+      "sha256": "408b4691160bc757a7d44ada9c42ac3073b2b535ef86a30d18525a5adbc81c95",
+      "size": 142399
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/pickup_engine_4.ogg": {
+      "sha256": "76abe59e71fd37df1b4df51553927df250ddf432b9b9ada180f6f9bbadf93dbf",
+      "size": 145108
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/start.ogg": {
+      "sha256": "8e1c63fa6ec59839264dbf5ad0ce415799b2d0109bc1f682506d444f685d3650",
+      "size": 66454
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/starter_i4.ogg": {
+      "sha256": "185e70be13a1e7850a61d32a25250ffe56537cad6b26dae4a9d74e133c5df29c",
+      "size": 45138
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/starter_i6.ogg": {
+      "sha256": "887d95bd5685702ef955d922a8636089cc1dbfed6cec5b61ffd1f6ba6a01e01c",
+      "size": 63112
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/starter_v8.ogg": {
+      "sha256": "a3d127c22f0a55b9a1ffe37394780a6a5131eeb5655170f3b751e4cf325de29d",
+      "size": 57458
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/suspension_creak_1.ogg": {
+      "sha256": "415a94626fba832aee9ac5bf069e25c8f1c736148eba8b0c124b80f8166a92eb",
+      "size": 11280
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/suspension_creak_2.ogg": {
+      "sha256": "690683343b4926aaf8619f6f1395e54894da68a428f8fec2768d9b67adfb50f1",
+      "size": 8230
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/suspension_creak_3.ogg": {
+      "sha256": "79ae0bf9c12c3e77de5b002f20362150ee9f66304dfb38147051816585f62c87",
+      "size": 11753
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/suspension_creak_4.ogg": {
+      "sha256": "f498a60cc138a8c772f907f42cdf128e77a20782da4f21c7db6373d1741f6ab5",
+      "size": 9575
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/tire_deflate_1.ogg": {
+      "sha256": "23c90d3cafc50654da7686aff1f37fae34042d9a14d6457acdb7520c9e2c25c3",
+      "size": 115013
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/tire_deflate_2.ogg": {
+      "sha256": "6ac810c9a242eace56825e2dad4931099fb9eed8cd0d706b0bf26dc59a105baa",
+      "size": 109462
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/tire_deflate_3.ogg": {
+      "sha256": "5c6433e29653d7e52324a8a3791e6db35e5d47ebea1c628d999716e1d7bb821a",
+      "size": 102886
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/tire_deflate_4.ogg": {
+      "sha256": "efb7e3df2ea0fbf135a48e839102b9a7f9dca9031a82353e0adb1751479eb146",
+      "size": 108568
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/tire_explode_1.ogg": {
+      "sha256": "c663b6db7c02f0814b42bfcdac75a74735e44e9dccbd5289c5f2674f7c574290",
+      "size": 36756
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/tire_explode_2.ogg": {
+      "sha256": "845c2541e4cd33dd13d656a7a2b7ed216889d3f51f40e5d6a22b95d6c3c98fba",
+      "size": 37902
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/tire_explode_3.ogg": {
+      "sha256": "b90761ecb207343f6defaab27bae6169f0c5018f5f14a864ccba4b7d98111547",
+      "size": 41620
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/tire_explode_4.ogg": {
+      "sha256": "d713d954e87f9d83fca9030bee20bd303b32e147791b9da379a1aca7b5c95bcd",
+      "size": 41095
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/tire_roll_dirt.ogg": {
+      "sha256": "389b0778a832a6feb21008a5a44077b1edf1b1ae8f06be614b9055179650403a",
+      "size": 106576
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/tire_roll_road.ogg": {
+      "sha256": "bee327607ebb25a05618a4496fa70d9b5655a2ea3036920a1e915f4c4e37f03d",
+      "size": 93225
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/tire_screech.ogg": {
+      "sha256": "f1fadacdcd3bc1b85fcabaf87c62d24bac15799d1de1f1432fda4bc18f76c97a",
+      "size": 29642
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/vintage_engine_crank_fail.ogg": {
+      "sha256": "c8a5e66ac7094629766f3ab1177f741dd3c53b2e2b3965219a55004118037249",
+      "size": 29070
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/vintage_engine_high.ogg": {
+      "sha256": "b9ec640c3a56054463748feff6d65b769a733a364b607609e6e64da43993b331",
+      "size": 36112
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/vintage_engine_idle.ogg": {
+      "sha256": "903e0c86abb750d9974a487aad0d9b43f49ea63bf34bc890604c62493e2a7da7",
+      "size": 34206
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/vintage_engine_loop.ogg": {
+      "sha256": "be10047c8f4fa45efff3ec738cf1c1b677f8e18f2e8057d217c8b077aca79baa",
+      "size": 59350
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/vintage_engine_loop.wav": {
+      "sha256": "6911d4e52bb1c58eb9c29d24796914a4df6a7a0e23c79a302956c47694956c0a",
+      "size": 176444
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/vintage_engine_start.ogg": {
+      "sha256": "69098dcb97e8f4eb3860c38c1b9bcd8ea9a790c6d9465f332c57ad65d5800f60",
+      "size": 15195
+    },
+    "cardecor_packs/cardecor_official_pack/sounds/wheel_hub_grind.ogg": {
+      "sha256": "7c1ba3b475b16a17797b111b19ae00388a9872a60f4f0e62ba225182ab0aecf2",
+      "size": 39052
+    },
+    "cardecor_packs/cardecor_official_pack/textures/pickup_skin.png": {
+      "sha256": "dd43aeeb05ffa1f8986cd96edec70bc01c560c2ec1fbf6fed5febd5685aee43e",
+      "size": 100077
+    },
+    "cardecor_packs/cardecor_official_pack/textures/sedan_skin.png": {
+      "sha256": "53e9162498bc4101cdc2005f23885b07545d006ded13a5fd99846147530813c4",
+      "size": 56426
+    },
+    "cardecor_packs/cardecor_official_pack/vehicles/blue_sedan.json": {
+      "sha256": "eb2ff208fd81ca73a8e50aa09a8776cfbeca4232b69b9b59253636966f26dc72",
+      "size": 5389
+    },
+    "cardecor_packs/cardecor_official_pack/vehicles/vintage_pickup.json": {
+      "sha256": "57bfaa217aa7d254e34e5b883958c5245f5c569a72e86daaf81b7b3abc049f0c",
+      "size": 4294
     }
   }
 }

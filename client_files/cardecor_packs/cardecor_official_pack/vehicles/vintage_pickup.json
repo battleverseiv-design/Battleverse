@@ -1,0 +1,190 @@
+{
+  "id": "vintage_pickup",
+  "name": "Винтажный Пикап",
+  "category": "pickup",
+  "models": {
+    "chassis": "models/pickup_chassis.obj",
+    "wheel": "models/pickup_wheel.obj",
+    "steering_wheel": "models/pickup_steering_wheel.obj"
+  },
+  "textures": {
+    "chassis": "textures/pickup_skin.png"
+  },
+  "physics": {
+    "mass_kg": 2000.0,
+    "horsepower": 100.0,
+    "torque_nm": 280.0,
+    "drivetrain": "awd",
+    "engine_type": "v8_muscle",
+    "max_speed_kmh": 85.0,
+    "boost_speed_kmh": 105.0,
+    "gears": 4,
+    "steering_angle_deg": 30.0,
+    "steering_response": 0.85,
+    "turn_in_bite": 0.85,
+    "suspension_stiffness": 0.9,
+    "body_roll_factor": 1.15,
+    "offroad_capability": 1.85,
+    "steer_curve_speed": 36.0,
+    "steer_curve_power": 1.35,
+    "steer_min_ratio": 0.25,
+    "wheelbase": 3.25,
+    "track_width": 1.85,
+    "wheel_radius": 0.42,
+    "tire_pressure_fl": 1.0,
+    "tire_pressure_fr": 2.2,
+    "tire_pressure_rl": 1.0,
+    "tire_pressure_rr": 1.0,
+    "aspiration_type": "na",
+    "boost_pressure_bar": 3.0,
+    "supercharger_pulley": 2.1,
+    "idle_rpm": 750.0,
+    "redline_rpm": 6500.0,
+    "front_overhang": 0.9,
+    "rear_overhang": 1.25,
+    "drag_coefficient": 0.75,
+    "frontal_area": 2.2,
+    "downforce_coefficient": 0.15,
+    "body_shake_intensity": 0.3,
+    "camera_shake_intensity": 0.1,
+    "turbo_spool_rpm": 4500.0,
+    "turbo_peak_rpm": 5500.0,
+    "steering_agility": 1.7
+  },
+  "scale": 1.0,
+  "ground_offset_y": 0.0,
+  "wheelbase": 3.15,
+  "wheels": {
+    "radius": 0.42,
+    "wheel_hp": 220.0,
+    "front_left": [
+      0.973,
+      0.42,
+      -2.057
+    ],
+    "front_right": [
+      -0.987,
+      0.453,
+      -2.057
+    ],
+    "rear_left": [
+      0.974,
+      0.438,
+      1.255
+    ],
+    "rear_right": [
+      -0.986,
+      0.438,
+      1.255
+    ]
+  },
+  "steering_wheel": {
+    "enabled": true,
+    "pos": [
+      0.45,
+      1.36,
+      -0.88
+    ],
+    "tilt_angle_deg": 0.0,
+    "rotation_multiplier": 3.0
+  },
+  "seats": [
+    {
+      "seatIndex": 0,
+      "name": "Водитель",
+      "pos": [
+        -0.45,
+        0.22,
+        0.3
+      ],
+      "is_driver": true,
+      "allow_weapons": false,
+      "lock_yaw": true,
+      "yaw_offset_deg": 0.0,
+      "dismount_offset": [
+        -1.2,
+        0.0,
+        0.3
+      ],
+      "can_dismount": true
+    },
+    {
+      "seatIndex": 1,
+      "name": "Передний пассажир",
+      "pos": [
+        0.45,
+        0.22,
+        0.3
+      ],
+      "is_driver": false,
+      "allow_weapons": true,
+      "lock_yaw": true,
+      "yaw_offset_deg": 0.0,
+      "dismount_offset": [
+        1.2,
+        0.0,
+        0.3
+      ],
+      "can_dismount": true
+    },
+    {
+      "seatIndex": 2,
+      "name": "Кузов (Стрелок 360°)",
+      "pos": [
+        -0.45,
+        0.3,
+        -0.75
+      ],
+      "is_driver": false,
+      "allow_weapons": true,
+      "lock_yaw": false,
+      "yaw_offset_deg": 0.0,
+      "dismount_offset": [
+        0.0,
+        0.0,
+        -1.8
+      ],
+      "can_dismount": true
+    }
+  ],
+  "hitboxes": {
+    "body_damage_multiplier": 0.35,
+    "wheel_damage_multiplier": 0.8,
+    "window_damage_multiplier": 1.0,
+    "engine_damage_multiplier": 0.85,
+    "trunk_damage_multiplier": 0.4
+  },
+  "sounds": {
+    "engine_type": "legacy_pickup",
+    "master_volume": 1.0,
+    "pitch_multiplier": 1.0,
+    "tire_explode_sound": "cardecor:tire_explode",
+    "tire_explode_volume": 2.40,
+    "tire_explode_pitch": 0.95,
+    "tire_deflate_sound": "cardecor:tire_deflate",
+    "tire_deflate_volume": 1.30,
+    "tire_deflate_pitch": 0.95
+  },
+  "engine_start": {
+    "start_chance": 0.65,
+    "crank_ticks": 28,
+    "fail_allowed": true
+  },
+  "engine": {
+    "name": "1950s Naturally Aspirated V8",
+    "type": "legacy_pickup",
+    "horsepower": 120.0,
+    "torque_nm": 280.0,
+    "idle_rpm": 650.0,
+    "redline_rpm": 5200.0,
+    "starter": {
+      "start_chance": 0.65,
+      "crank_ticks": 28,
+      "fail_allowed": true
+    },
+    "sounds": {
+      "engine_type": "legacy_pickup",
+      "master_volume": 1.0
+    }
+  }
+}

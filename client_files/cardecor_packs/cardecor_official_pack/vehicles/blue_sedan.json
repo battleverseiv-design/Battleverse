@@ -1,0 +1,234 @@
+{
+  "id": "blue_sedan",
+  "name": "Синий Седан",
+  "category": "sedan",
+  "models": {
+    "chassis": "models/sedan_chassis.obj",
+    "wheel": "models/sedan_wheel.obj",
+    "steering_wheel": "models/sedan_steering_wheel.obj"
+  },
+  "textures": {
+    "chassis": "textures/sedan_skin.png"
+  },
+  "physics": {
+    "mass_kg": 2000.0,
+    "horsepower": 100.0,
+    "torque_nm": 210.0,
+    "drivetrain": "awd",
+    "engine_type": "diesel",
+    "max_speed_kmh": 145.0,
+    "boost_speed_kmh": 160.0,
+    "gears": 6,
+    "steering_angle_deg": 25.0,
+    "steering_response": 3.0,
+    "turn_in_bite": 1.0,
+    "suspension_stiffness": 1.0,
+    "body_roll_factor": 0.5,
+    "offroad_capability": 0.95,
+    "steer_curve_speed": 36.0,
+    "steer_curve_power": 1.35,
+    "steer_min_ratio": 0.12,
+    "steering_agility": 1.0,
+    "wheelbase": 3.0,
+    "track_width": 1.56,
+    "wheel_radius": 0.35,
+    "tire_pressure_fl": 2.2,
+    "tire_pressure_fr": 2.2,
+    "tire_pressure_rl": 2.2,
+    "tire_pressure_rr": 2.2,
+    "brake_power": 18000.0,
+    "auto_max_speed": true,
+    "drag_coefficient": 0.55,
+    "frontal_area": 2.35,
+    "downforce_coefficient": 0.3,
+    "boost_pressure_bar": 1.5,
+    "aspiration_type": "supercharger",
+    "weight_distribution_front": 0.55,
+    "center_of_gravity_height": 0.55,
+    "turbo_spool_rpm": 3500.0,
+    "turbo_peak_rpm": 4500.0,
+    "supercharger_pulley": 1.8,
+    "idle_rpm": 850.0,
+    "redline_rpm": 7200.0,
+    "front_overhang": 1.15,
+    "rear_overhang": 1.24,
+    "cockpit_shake_intensity": 0.35,
+    "body_shake_intensity": 0.35,
+    "camera_shake_intensity": 0.35
+  },
+  "camera": {
+    "pitch_follow": 0.70,
+    "roll_follow": 0.45,
+    "cornering_bank": 0.20,
+    "look_ahead": 0.10,
+    "shake_intensity": 0.35
+  },
+  "scale": 1.1,
+  "ground_offset_y": -0.04,
+  "wheelbase": 3.2,
+  "wheels": {
+    "radius": 0.4,
+    "wheel_hp": 150.0,
+    "front_left": [
+      1.033,
+      0.456,
+      -2.005
+    ],
+    "front_right": [
+      -1.033,
+      0.456,
+      -2.005
+    ],
+    "rear_left": [
+      1.033,
+      0.456,
+      1.64
+    ],
+    "rear_right": [
+      -1.033,
+      0.456,
+      1.64
+    ]
+  },
+  "steering_wheel": {
+    "enabled": true,
+    "pos": [
+      -0.50,
+      1.26,
+      -0.52
+    ],
+    "tilt_angle_deg": -25.0,
+    "rotation_multiplier": 2.8
+  },
+  "seats": [
+    {
+      "seatIndex": 0,
+      "name": "Водитель",
+      "pos": [
+        0.45,
+        0.22,
+        0.25
+      ],
+      "is_driver": true,
+      "allow_weapons": true,
+      "lock_yaw": true,
+      "yaw_offset_deg": 0.0,
+      "dismount_offset": [
+        1.2,
+        0.0,
+        0.25
+      ],
+      "can_dismount": true
+    },
+    {
+      "seatIndex": 1,
+      "name": "Передний пассажир",
+      "pos": [
+        -0.45,
+        0.22,
+        0.25
+      ],
+      "is_driver": false,
+      "allow_weapons": true,
+      "lock_yaw": true,
+      "yaw_offset_deg": 0.0,
+      "dismount_offset": [
+        -1.2,
+        0.0,
+        0.25
+      ],
+      "can_dismount": true
+    },
+    {
+      "seatIndex": 2,
+      "name": "Задний левый",
+      "pos": [
+        0.45,
+        0.22,
+        -0.65
+      ],
+      "is_driver": false,
+      "allow_weapons": true,
+      "lock_yaw": true,
+      "yaw_offset_deg": 0.0,
+      "dismount_offset": [
+        1.2,
+        0.0,
+        -0.65
+      ],
+      "can_dismount": true
+    },
+    {
+      "seatIndex": 3,
+      "name": "Задний правый",
+      "pos": [
+        -0.45,
+        0.22,
+        -0.65
+      ],
+      "is_driver": false,
+      "allow_weapons": true,
+      "lock_yaw": true,
+      "yaw_offset_deg": 0.0,
+      "dismount_offset": [
+        -1.2,
+        0.0,
+        -0.65
+      ],
+      "can_dismount": true
+    }
+  ],
+  "hitboxes": {
+    "body_damage_multiplier": 0.35,
+    "wheel_damage_multiplier": 0.8,
+    "window_damage_multiplier": 1.0,
+    "engine_damage_multiplier": 1.0,
+    "trunk_damage_multiplier": 0.4
+  },
+  "sounds": {
+    "engine_type": "i6",
+    "master_volume": 1.0,
+    "pitch_multiplier": 1.0,
+    "rpm_idle_to_low": 1800.0,
+    "rpm_low_to_mid": 3300.0,
+    "rpm_mid_to_high": 4800.0,
+    "rpm_high_to_max": 6200.0,
+    "crossfade_curve": "equal_power",
+    "temporal_smoothing": 0.22,
+    "tire_explode_sound": "cardecor:tire_explode",
+    "tire_explode_volume": 2.20,
+    "tire_explode_pitch": 1.0,
+    "tire_deflate_sound": "cardecor:tire_deflate",
+    "tire_deflate_volume": 1.30,
+    "tire_deflate_pitch": 1.0
+  },
+  "engine_start": {
+    "start_chance": 1.0,
+    "crank_ticks": 18,
+    "fail_allowed": false
+  },
+  "engine": {
+    "name": "3.0L Inline-6 Twin Turbo",
+    "type": "i6",
+    "horsepower": 100.0,
+    "torque_nm": 210.0,
+    "idle_rpm": 850.0,
+    "redline_rpm": 7200.0,
+    "starter": {
+      "start_chance": 1.0,
+      "crank_ticks": 18,
+      "fail_allowed": false
+    },
+    "sounds": {
+      "engine_type": "i6",
+      "master_volume": 1.0,
+      "pitch_multiplier": 1.0,
+      "rpm_idle_to_low": 1800.0,
+      "rpm_low_to_mid": 3300.0,
+      "rpm_mid_to_high": 4800.0,
+      "rpm_high_to_max": 6200.0,
+      "crossfade_curve": "equal_power",
+      "temporal_smoothing": 0.22
+    }
+  }
+}

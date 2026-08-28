@@ -1,0 +1,119 @@
+{
+  "physics": {
+    "horsepower": 75.0,
+    "mass_kg": 1500.0,
+    "idle_rpm": 850.0,
+    "redline_rpm": 6200.0,
+    "gears": 5,
+    "drivetrain": "rwd",
+    "aspiration_type": "na",
+    "boost_pressure_bar": 1.2,
+    "turbo_spool_rpm": 2200.0,
+    "turbo_peak_rpm": 4600.0,
+    "supercharger_pulley": 1.8,
+    "wheelbase": 2.85,
+    "track_width": 1.75,
+    "wheel_radius": 0.35,
+    "front_overhang": 0.85,
+    "body_shake_intensity": 0.35,
+    "camera_shake_intensity": 0.35,
+    "tire_pressure_fl": 2.2,
+    "tire_pressure_fr": 2.2,
+    "tire_pressure_rl": 2.2,
+    "tire_pressure_rr": 2.2,
+    "drag_coefficient": 0.35,
+    "frontal_area": 2.2,
+    "downforce_coefficient": 0.15,
+    "offroad_capability": 1.0,
+    "steering_agility": 1.35,
+    "steering_response": 1.25,
+    "turn_in_bite": 1.2,
+    "steering_angle_deg": 38.0,
+    "steer_curve_speed": 36.0,
+    "steer_curve_power": 1.35,
+    "steer_min_ratio": 0.12
+  },
+  "camera": {
+    "pitch_follow": 0.70,
+    "roll_follow": 0.45,
+    "cornering_bank": 0.20,
+    "look_ahead": 0.10,
+    "shake_intensity": 0.35
+  },
+  "sounds": {
+    "engine_type": "v8",
+    "master_volume": 3.0,
+    "pitch_multiplier": 0.55,
+    "temporal_smoothing": 0.22,
+    "tire_explode_volume": 1.65,
+    "rpm_idle_to_low": 1800.0,
+    "rpm_low_to_mid": 3300.0,
+    "rpm_mid_to_high": 4800.0,
+    "rpm_high_to_max": 6200.0
+  },
+  "engine_start": {
+    "crank_ticks": 28,
+    "start_chance": 0.85
+  },
+  "seats": [
+    {
+      "seat_index": 0,
+      "name": "Водитель",
+      "is_driver": true,
+      "allow_weapons": true,
+      "lock_yaw": true,
+      "yaw_offset_deg": 0.0,
+      "pos": [
+        0.45,
+        0.22,
+        0.25
+      ]
+    },
+    {
+      "seat_index": 1,
+      "name": "Передний пассажир",
+      "is_driver": false,
+      "allow_weapons": true,
+      "lock_yaw": true,
+      "yaw_offset_deg": 0.0,
+      "pos": [
+        -0.45,
+        0.22,
+        0.25
+      ]
+    },
+    {
+      "seat_index": 2,
+      "name": "Задний левый",
+      "is_driver": false,
+      "allow_weapons": true,
+      "lock_yaw": true,
+      "yaw_offset_deg": 0.0,
+      "pos": [
+        0.45,
+        0.22,
+        -0.65
+      ]
+    },
+    {
+      "seat_index": 3,
+      "name": "Задний правый",
+      "is_driver": false,
+      "allow_weapons": true,
+      "lock_yaw": true,
+      "yaw_offset_deg": 0.0,
+      "pos": [
+        -0.45,
+        0.22,
+        -0.65
+      ]
+    }
+  ],
+  "hitboxes": {
+    "body_damage_multiplier": 0.35,
+    "wheel_damage_multiplier": 0.8,
+    "window_damage_multiplier": 1.0,
+    "engine_damage_multiplier": 0.85,
+    "trunk_damage_multiplier": 0.4
+  }
+}
