@@ -3,7 +3,7 @@
   "web_site_url": "https://battleverseiv.netlify.app/",
   "discord_url": "https://discord.gg/fQBgEpWZ4R",
   "launcher_version": "2.0.0",
-  "launcher_download": "https://github.com/battleverseiv-design/BattleverseLauncher/releases/download/v2.0.0/Battleverse-Setup.exe",
+  "launcher_download": "https://pub-0646a10461414cce94afbc1a5bfda4bc.r2.dev/Battleverse-Setup.exe",
   "greeting": "Добро пожаловать в BATTLEVERSE!",
   "news_text": "hotfix Были исправлены мелкие недочёты",
   "events_text": "Отсутствуют",
@@ -18,5 +18,5 @@
     "options.txt"
   ],
   "jvm_args": [],
-  "manifest_url": "https://raw.githubusercontent.com/battleverseiv-design/Battleverse/refs/heads/main/client_files/manifest.json"
+  "manifest_url": "https://pub-0646a10461414cce94afbc1a5bfda4bc.r2.dev/manifest.json"
 }
