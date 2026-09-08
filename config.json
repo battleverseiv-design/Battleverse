@@ -7,7 +7,7 @@
   "greeting": "Добро пожаловать в BATTLEVERSE!",
   "news_text": "hotfix: Обновление компонентов клиента",
   "events_text": "Отсутствуют",
-  "min_ram": 3,
+  "min_ram": 6,
   "default_ram": 8,
   "server_address": "5.9.123.120:50520",
   "version": "1788268723",
