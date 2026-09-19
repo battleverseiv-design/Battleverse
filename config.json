@@ -5,7 +5,7 @@
   "launcher_version": "2.0.0",
   "launcher_download": "https://pub-0646a10461414cce94afbc1a5bfda4bc.r2.dev/Battleverse-Setup.exe",
   "greeting": "Добро пожаловать в BATTLEVERSE!",
-  "news_text": "Умная система Pre-Match синхронизации карты перед началом матча",
+  "news_text": "Fixed map zoom overdetailing and color consistency",
   "events_text": "Отсутствуют",
   "min_ram": 6,
   "default_ram": 8,
