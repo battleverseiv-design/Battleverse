@@ -5,7 +5,7 @@
   "launcher_version": "2.0.0",
   "launcher_download": "https://pub-0646a10461414cce94afbc1a5bfda4bc.r2.dev/Battleverse-Setup.exe",
   "greeting": "Добро пожаловать в BATTLEVERSE!",
-  "news_text": "Add OverhaulMovementAPI, filter grass/flowers from obstacle detection, fix jump acceleration, add landing braking",
+  "news_text": "Интеграция OverhaulMovement API, фикс прав админа, настройка спавнов и оптимизация",
   "events_text": "Отсутствуют",
   "min_ram": 6,
   "default_ram": 8,
