@@ -5,7 +5,7 @@
   "launcher_version": "2.0.0",
   "launcher_download": "https://pub-0646a10461414cce94afbc1a5bfda4bc.r2.dev/Battleverse-Setup.exe",
   "greeting": "Добро пожаловать в BATTLEVERSE!",
-  "news_text": "Fix tier creation, unique IDs, order stability and add GUI scrollbars",
+  "news_text": "Обновление ArenaMaster: блок строителю, превращение в открытый ящик и фикс тиров",
   "events_text": "Отсутствуют",
   "min_ram": 6,
   "default_ram": 8,
